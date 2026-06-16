@@ -12,7 +12,6 @@ Flask-Mail==0.10.0
 Flask-Migrate==4.1.0
 Flask-SQLAlchemy==3.1.1
 greenlet==3.5.1
-gunicorn
 idna==3.18
 itsdangerous==2.2.0
 Jinja2==3.1.6
@@ -25,3 +24,4 @@ SQLAlchemy==2.0.51
 typing_extensions==4.15.0
 urllib3==2.7.0
 Werkzeug==3.1.8
+gunicorn
