@@ -410,49 +410,29 @@ def delete_subscriber(id):
 def send_newsletter():
 
     subject = request.form.get("subject")
-
     content = request.form.get("content")
 
     if not subject or not content:
-
-        flash( "Remplissez tous les champs", "error")
-
+        flash("Remplissez tous les champs", "error")
         return redirect(url_for("admin"))
 
     subscribers = Subscriber.query.all()
 
-    EMAIL_SENDER = os.getenv("EMAIL_SENDER")
-
-    EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
-
-    server = smtplib.SMTP("smtp.gmail.com", 587)
-
-    server.starttls()
-
-    server.login( EMAIL_SENDER, EMAIL_PASSWORD)
-
     for sub in subscribers:
-
         try:
+            msg = Message(
+                subject=subject,
+                sender=app.config["MAIL_USERNAME"],
+                recipients=[sub.email]
+            )
+            msg.html = content
 
-            msg = MIMEMultipart()
-
-            msg["From"] = EMAIL_SENDER
-            msg["To"] = sub.email
-            msg["Subject"] = subject
-
-            msg.attach(MIMEText(content, "html"))
-
-            server.sendmail(EMAIL_SENDER, sub.email, msg.as_string())
+            mail.send(msg)
 
         except Exception as e:
-
             print(f"Erreur → {e}")
 
-    server.quit()
-
-    flash("Newsletter envoyée ✅","success")
-
+    flash("Newsletter envoyée ✅", "success")
     return redirect(url_for("admin"))
 
 
