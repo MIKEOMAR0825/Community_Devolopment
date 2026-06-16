@@ -1,0 +1,36 @@
+<div class="dropdown langue">
+
+    <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown">
+
+        <img src="{{ url_for('static', filename='img/' ~ lang ~ '.svg') }}" width="22">
+
+        {{ LANGUAGES[lang] }}
+
+    </button>
+
+    <ul class="dropdown-menu">
+
+    {% for code, name in LANGUAGES.items() %}
+
+        <li>
+
+            <a
+            class="dropdown-item"
+            href="{{ url_for('set_language', lang=code) }}">
+
+            <img
+            src="{{ url_for('static', filename='img/' ~ code ~ '.svg') }}"
+            width="22"
+            class="me-2">
+
+            {{ name }}
+
+            </a>
+
+        </li>
+
+    {% endfor %}
+
+    </ul>
+
+</div>

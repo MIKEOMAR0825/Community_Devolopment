@@ -1,0 +1,101 @@
+    {% extends "base.html"%}
+
+    {% block content%}
+
+    <section class="projects">
+        <div class="header_title">
+            <h1>SOUTIEN</h1>
+        </div>
+    </section>
+
+
+<section class="soutien">
+    <div class="soutien_div">
+
+        <!-- Titre principal -->
+        <h2>
+            Soutenir nos Programmes
+        </h2>
+        <p>
+            Contribuez au développement durable et à l’impact social en soutenant directement nos initiatives dans les domaines des droits humains, de l’autonomisation des femmes et de l’inclusion technologique.
+        </p>
+
+        <!-- Pourquoi soutenir -->
+        <div class="sout_pourquoi">
+            <h3>Pourquoi votre soutien est essentiel</h3>
+            <ul>
+                <li>Financer des formations professionnelles pour les femmes et les jeunes</li>
+                <li>Mettre en place des campagnes de sensibilisation aux droits humains</li>
+                <li>Créer et équiper des centres numériques communautaires</li>
+                <li>Développer des projets innovants pour réduire les inégalités</li>
+            </ul>
+        </div>
+
+        <!-- Types de soutien -->
+        <div class="sout_type">
+            <h3>Comment vous pouvez nous aider</h3>
+            <div class="sout_div">
+                <div class="sout_div1">
+                    <h4>Soutien financier</h4>
+                    <p>Faites un don ponctuel ou régulier pour financer nos projets et nos actions sur le terrain.</p>
+                </div>
+                <div class="sout_div2">
+                    <h4>Dons matériels</h4>
+                    <p>Fournissez du matériel informatique, scolaire ou sanitaire pour nos programmes.</p>
+                </div>
+                <div class="sout_div3">
+                    <h4>Partenariat</h4>
+                    <p>Collaborez avec nous pour créer des initiatives durables et à fort impact social.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Impact visuel -->
+        <div class="sout_impact">
+            <h3>📈 L’impact concret de votre soutien</h3>
+            <ul>
+                <li>10 USD = Fourniture scolaire pour un enfant pendant 1 an</li>
+                <li>50 USD = Formation professionnelle pour une femme</li>
+                <li>100 USD = Équipement informatique pour un centre communautaire</li>
+            </ul>
+        </div>
+
+        <!-- Formulaire de soutien -->
+        <div class="sout_formulaire">
+            <h3>Formulaire de soutien</h3>
+            <form>
+                <label>Nom complet :</label>
+                <input type="text" placeholder="Votre nom">
+
+                <label>Email :</label>
+                <input type="email" placeholder="Votre email">
+
+                <label>Type de soutien :</label>
+                <select>
+                    <option>Dons financiers</option>
+                    <option>Dons matériels</option>
+                    <option>Partenariat</option>
+                </select>
+
+                <label>Montant ou description :</label>
+                <textarea placeholder="Indiquez le montant ou la nature de votre soutien"></textarea>
+
+                <button type="submit">
+                    ✅ Envoyer mon soutien
+                </button>
+            </form>
+        </div>
+
+        <!-- Appel à action -->
+        <div class="sout_appel">
+            <p>Ensemble, faisons la différence. Chaque geste compte.</p>
+            <a href="">
+                Faire un don maintenant
+            </a>
+        </div>
+
+    </div>
+</section>
+
+
+    {% endblock %}

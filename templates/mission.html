@@ -1,0 +1,246 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!-- MISSION MAIN PAGE BACKGROUND -->
+<section class="background-slideshow fixed-top">
+
+    <div class="bg bg1"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div class="bg bg4"></div>
+
+</section>
+
+<!-- PAGE CONTENT -->
+<section class="m_page_content">
+
+    <div class="box_content_miss gap-5 container justify-content-center align-items-center">
+
+        <div class="miss_principale wow animate__animated animate__fadeInLeft" data-wow-delay="1000ms">
+            <h1>{{ texts.main_title }}</h1>
+            <p>{{ texts.main_description }}</p>
+
+            <div class="miss_line"></div>
+
+            <p><i><b>{{ texts.mission_statement_intro }}</b></i></p>
+
+            <p><b>{{ texts.mission_statement }}</b></p>
+        </div>
+
+        <div class="miss_img_p wow animate__animated animate__fadeInRight" data-wow-delay="1000ms">
+            <img src="{{ url_for('static', filename='img/africa_Child.JPG') }}" alt="">
+        </div>
+    </div>   
+         
+</section>
+
+<!-- AXE D'ACTION -->
+<section class="axe_action wow animate__animated animate__fadeInUp" data-wow-delay="1000ms">
+    <div class="dh_all">
+        <div class="box_content">
+
+            <div class="defense_droit">
+                <i class="fa-solid fa-scale-balanced"></i>
+                <h3>{{ texts.axe_title_defense }}</h3>
+                <ul>
+                    {% for item in texts.axe_list_defense %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="autonom">
+                <i class="fa-solid fa-sack-dollar"></i>
+                <h3>{{ texts.axe_title_autonomisation }}</h3>
+                <ul>
+                    {% for item in texts.axe_list_autonomisation %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="acces_tech">
+                <i class="fa-solid fa-microchip"></i>
+                <h3>{{ texts.axe_title_tech }}</h3>
+                <ul>
+                    {% for item in texts.axe_list_tech %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- POURQUOI CETTE MISSION -->
+<section class="next_content wow animate__animated animate__fadeInLeft" data-wow-delay="1000ms">
+    <div class="dh_all">
+        <h1 class="fw-bold">{{ texts.why_mission_title }}</h1>
+        <p class="p">{{ texts.why_mission_desc }}</p>
+        <p><b>{{ texts.why_mission_goal }}</b></p>
+
+        <div class="next_content_image">
+            {% for value in texts.why_mission_values %}
+                <div class="img{{ loop.index }}">
+                    <img src="{{ url_for('static', filename='img/img' ~ loop.index ~ '.JPG') }}" alt="">
+                    <h4>{{ value }}</h4>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- DROITS HUMAINS -->
+<section class="droits_humains">
+    <div class="dh_all">
+        <h2 class="fw-bold">{{ texts.human_rights_title }}</h2>
+        <p>{{ texts.human_rights_desc }}</p>
+
+        <div class="bloc_intro">
+            <h3>{{ texts.human_rights_objective_title }}</h3>
+            <p>{{ texts.human_rights_objective_desc }}</p>
+        </div>
+
+        <div class="action_cle">
+            {% for titles, desc in texts.human_rights_actions.items() %}
+                <div class="action_cle{{ loop.index }}">
+                    <h4>{{ titles }}</h4>
+                    <p>{{ desc }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="impacts">
+            <h3>{{ texts.human_rights_impact_title }}</h3>
+            <ul>
+                {% for item in texts.human_rights_impact_list %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="appel_action d-none">
+            {% for cta in texts.human_rights_cta %}
+                <a href="#">{{ cta }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- AUTONOMISATION DES FEMMES -->
+<section class="auton_femme">
+    <div class="auton_femme_all">
+        <h2 class="fw-bold">{{ texts.women_empowerment_title }}</h2>
+        <p>{{ texts.women_empowerment_desc }}</p>
+
+        <div class="bloc_intro_femme">
+            <h3>{{ texts.women_objective_title }}</h3>
+            <p>{{ texts.women_objective_desc }}</p>
+        </div>
+
+        <div class="action_cle">
+            {% for title, desc in texts.women_actions.items() %}
+                <div class="action_cle{{ loop.index }}">
+                    <h4>{{ title }}</h4>
+                    <p>{{ desc }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="temoign_femme d-none">
+            <p>{{ texts.women_testimonial }}</p>
+        </div>
+
+        <div class="impacts">
+            <h3>{{ texts.women_impact_title }}</h3>
+            <ul>
+                {% for item in texts.women_impact_list %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="appel_action d-none">
+            {% for cta in texts.women_cta %}
+                <a href="#">{{ cta }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Appel à action -->
+ {% include "composants/cta.html" %}
+
+<!-- INCLUSION A LA TECHNOLOGIE -->
+<section class="techno" id="technology">
+    <div class="dh_all">
+        <h2 class="fw-bold">{{ texts.tech_inclusion_title }}</h2>
+        <p>{{ texts.tech_inclusion_desc }}</p>
+
+        <div class="bloc_intro">
+            <h3>{{ texts.tech_objective_title }}</h3>
+            <p>{{ texts.tech_objective_desc }}</p>
+        </div>
+
+        <div class="action_cle">
+            {% for title, desc in texts.tech_actions.items() %}
+                <div class="action_cle{{ loop.index }}">
+                    <h4>{{ title }}</h4>
+                    <p>{{ desc }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="temoign_tech d-none">
+            <p>{{ texts.tech_testimonial }}</p>
+        </div>
+
+        <div class="impacts">
+            <h3>{{ texts.tech_impact_title }}</h3>
+            <ul>
+                {% for item in texts.tech_impact_list %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="appel_action d-none">
+            {% for cta in texts.tech_cta %}
+                <a href="#">{{ cta }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT MAIL -->
+<section class="mail_us justify-content-center align-items-center d-none">
+
+    <div class="mail_form mb-5">
+        <form action="" class="row g-2 text-center px-4 justify-content-center align-items-center">
+            <h2>{{ texts.contact_mail_title }}</h2>
+
+            <div class="row gap-2 justify-content-center align-items-center">
+                <div class="col-md-4">
+                    <input class="form-control" type="text" name="name" placeholder="{{ texts.contact_mail_name }}">
+                </div>
+                <div class="col-md-4">
+                    <input class="form-control" type="email" name="email" placeholder="{{ texts.contact_mail_email }}">
+                </div>
+                <div class="col-md-12">
+                    <textarea class="form-control" rows="10" cols="35" placeholder="{{ texts.contact_mail_placeholder }}"></textarea> <br>
+                </div>
+
+                <div class="">
+                    <button class="btn btn-outline-warning" type="submit">{{ texts.contact_mail_button }}</button>
+                </div>
+            </div>
+
+
+        </form>
+    </div>
+
+</section>
+
+
+{% endblock %}

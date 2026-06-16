@@ -1,0 +1,183 @@
+{% extends "base.html" %}
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+
+        {% for category, message in messages %}
+
+            <div class="alert alert-{{ category }}">
+                {{ message }}
+            </div>
+
+        {% endfor %}
+
+    {% endif %}
+{% endwith %}
+
+{% block content %}
+
+    <section class="ve-contact" style="background-image:url( {{ url_for('static', filename='img/contact.JPG') }} );">
+        <div class="ve-page-hero"></div>
+        <div class="hero-title">
+            <span class="ve-section-tag"> {{ texts.entre_cont }} </span>
+            <h1 class="">
+                {{ texts.hero_title }}
+                <span class="text-warning">{{ texts.hero_title_span }}</span>
+            </h1>
+        </div>
+    </section>
+
+
+
+    <section class="text-dark text-center py-5">
+
+        <div class="container">
+
+            <div class="row gap-5 px-3 justify-content-center">
+
+                <div class="co-icon col-lg-3 col-md-12 p-5 d-block bg-light rounded-4 wow " data-wow-delay="100ms">
+                    <div class=" p-3 text-warning">
+                        <i class="bi bi-map py-3 px-4 rounded-3 fs-3"></i>
+                    </div>
+                    <h5 class="fw-bold">{{ texts.visit_title }}</h5>
+                    <p>1539 Avenue Kabinda, Quartier Bon Marché, Commune Barumbu</p>
+                </div>
+
+                <div class="co-icon col-lg-3 col-md-12 p-5 bg-light rounded-4 wow " data-wow-delay="250ms">
+                    <div class=" p-3 text-warning">
+                        <i class="bi bi-phone py-3 px-4 rounded-3 fs-3"></i>
+                    </div>
+                    <h5 class="fw-bold">{{texts.call_title}}</h5>
+                    <p>+243 823 255 768 <br>+243 829 349 530<br><small>{{texts.call_schedule}}</small></p>
+                </div>
+                <div class="co-icon col-lg-3 col-md-12 p-5 bg-light rounded-4 wow " data-wow-delay="400ms">
+                    <div class=" p-3 text-warning">
+                        <i class="bi bi-envelope py-3 px-4 rounded-3 fs-3"></i>
+                    </div>
+                    <h5 class="fw-bold">{{texts.email_title}}</h5>
+                    <p>xxxxxxx@info.com<br><small>{{texts.email_reply}}</small></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="reservez text-black">
+
+        <div class="container">
+
+            <div class="row gap-4 justify-content-center">
+
+                <div class="col-12 col-lg-6">
+
+                    <div class="ve-contact-form-wrap">
+
+                        <span class="spam rounded-4 bg-warning bg-opacity-10 text-warning p-2">{{ texts.form_badge }}</span>
+
+                        <h2 class="text-dark mt-3">{{ texts.form_title }}<span class="text-warning">{{ texts.form_title_span }}</span></h2>
+                        <p>{{texts.form_subtitle}}</p>
+
+                        <form class="ve-contact-form" action="{{ url_for('contact') }}" method="POST">
+
+                            <div class="row">
+
+                                <div class="col-md-6 ve-form-group">
+
+                                    <label>{{ texts.full_name_label }}</label>
+                                    <input type="text" name="full_name" placeholder="{{ texts.full_name_placeholder }}" required>
+
+                                </div>
+
+                                <div class="col-md-6 ve-form-group">
+
+                                    <label>{{texts.email_label}}</label>
+
+                                    <input type="email" name="email" placeholder="{{texts.email_placeholder}}" required>
+
+                                </div>
+
+                            </div>
+
+                            <div class="ve-form-row">
+
+                                <div class="ve-form-group">
+
+                                    <label>{{texts.phone_label}}</label>
+
+                                    <input type="tel" name="phone" placeholder="{{texts.phone_placeholder}}">
+
+                                </div>
+
+                                <div class="ve-form-group">
+
+                                    <label>{{texts.service_label}}</label>
+
+                                    <select name="service">
+
+                                        <option>{{ texts.service_human_rights }}</option>
+                                        <option>{{ texts.service_women }}</option>
+                                        <option>{{ texts.service_technology }}</option>
+                                    </select>
+
+                                </div>
+
+                            </div>
+
+                            <div class="ve-form-group">
+
+                                <label>{{texts.message_label}}</label>
+
+                                <textarea name="message" rows="5" placeholder="{{texts.message_placeholder}}" required></textarea>
+
+                            </div>
+
+                            <button type="submit" class="btn btn-warning rounded-3">
+
+                                {{texts.submit_button}}
+
+                                <i class="bi bi-paper-plane"></i>
+
+                            </button>
+
+                        </form>
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-5">
+                    <div class="ve-contact-aside">
+                        <div class="ve-ca-box bg-primary bg-opacity-10">
+                            <h4>{{ texts.why_choose_title }}</h4>
+                            <ul class="ve-ca-list">
+                                <li><i class="bi bi-check-circle"></i> {{ texts.value_1 }}</li>
+                                <li><i class="bi bi-check-circle"></i> {{ texts.value_2 }}</li>
+                                <li><i class="bi bi-check-circle"></i> {{ texts.value_3 }}</li>
+                                <li><i class="bi bi-check-circle"></i> {{ texts.value_4 }}</li>
+                                <li><i class="bi bi-check-circle"></i> {{ texts.value_5 }}</li>
+                            </ul>
+                        </div>
+                        <div class="ve-ca-hours text-light">
+                            <h5><i class="bi bi-clock"></i> {{texts.service_hours_title}}</h5>
+                            <ul>
+                                <li><span>{{texts.weekday}}</span><strong>{{texts.weekday_hours}}</strong></li>
+                                <li><span>{{texts.saturday}}</span><strong>{{texts.saturday_hours}}</strong></li>
+                                <li><span>{{texts.sunday}}</span><strong>{{texts.sunday_hours}}</strong></li>
+                            </ul>
+                        </div>
+                        <div class="ve-ca-social">
+                            <h5 class="text-light"> {{texts.social_contact_title}} </h5>
+                            <div class="ve-social">
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-twitter"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+{% endblock %}

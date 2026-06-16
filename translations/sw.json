@@ -1,0 +1,1432 @@
+{
+    "accueil": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "video_unsupported": {
+            "source": "Votre navigateur ne supporte pas la vidéo.",
+            "translated": "Kivinjari chako hakitumii video."
+        },
+        "main_title": {
+            "source": "Love, Energy and Excellence for a Better Future",
+            "translated": "Upendo, Nishati na Ubora kwa Maisha Bora ya Baadaye"
+        },
+        "main_subtitle": {
+            "source": "-------- Together, let's build a better future",
+            "translated": "-------- Pamoja, tujenge maisha bora ya baadaye"
+        },
+        "donate_btn": {
+            "source": "FAIRE UN DON",
+            "translated": "TOA MCHANGO"
+        },
+        "historique_title": {
+            "source": "Bienvenue chez Community Development",
+            "translated": "Karibu kwenye Maendeleo ya Jamii"
+        },
+        "historique_text1": {
+            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "Maendeleo ya Jamii ni shirika la Kongo lililojitolea kukuza haki za kimsingi, kuendeleza uongozi wa wanawake na kupunguza ukosefu wa usawa katika upatikanaji wa fursa za teknolojia."
+        },
+        "historique_text": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
+            "translated": "Maendeleo ya Jamii, kifupi NGO CD, ni Shirika Lisilo la Kiserikali chini ya sheria ya Kongo lililoundwa Kinshasa, katika Jamhuri ya Kidemokrasia ya Kongo. Inafanya kazi kwa mantiki ya athari endelevu kwa jamii, kwa mujibu wa Sheria Na. 004/2001 ya Julai 20 inayoweka masharti ya jumla yanayotumika kwa mashirika yasiyo ya faida."
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "Mgawo"
+        },
+        "mission_text": {
+            "source": "L'ONG CD a pour mission de promouvoir le bien-être humain par :",
+            "translated": "Dhamira ya CD ya NGO ni kukuza ustawi wa binadamu kupitia:"
+        },
+        "mission_li1": {
+            "source": "La défense et la promotion des droits fondamentaux;",
+            "translated": "Kutetea na kukuza haki za kimsingi;"
+        },
+        "mission_li2": {
+            "source": "L'autonomisation économique des femmes et des jeunes filles;",
+            "translated": "Uwezeshaji wa kiuchumi wa wanawake na wasichana;"
+        },
+        "mission_li3": {
+            "source": "L'accès équitable à l'innovation technologique comme levier de développement.",
+            "translated": "Ufikiaji sawa wa uvumbuzi wa kiteknolojia kama lever ya maendeleo."
+        },
+        "learn_more": {
+            "source": "En savoir plus→",
+            "translated": "Jifunze zaidi→"
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "Maono"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu indépendamment de son genre, statut ou origine a les moyens de s'épanouir et de contribuer au développement de sa communauté.",
+            "translated": "Kujenga jamii ya Wakongo yenye haki, jumuishi na iliyoendelea kiteknolojia, ambapo kila mtu bila kujali jinsia, hadhi au asili ana uwezo wa kustawi na kuchangia maendeleo ya jumuiya yake."
+        },
+        "why_choose_us": {
+            "source": "Pourquoi nous choisir",
+            "translated": "Kwa nini tuchague"
+        },
+        "values_amour": {
+            "source": "AMOUR",
+            "translated": "MAPENZI"
+        },
+        "values_amour_text": {
+            "source": "L'humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "Watu walio katikati ya hatua zote, kwa huruma na mshikamano."
+        },
+        "values_dynamisme": {
+            "source": "DYNAMISME",
+            "translated": "DYNAMISM"
+        },
+        "values_dynamisme_text": {
+            "source": "Une volonté constante de progresser, d'innover et d'agir concrètement.",
+            "translated": "Tamaa ya mara kwa mara ya maendeleo, uvumbuzi na kuchukua hatua madhubuti."
+        },
+        "values_professionalisme": {
+            "source": "PROFESSIONALISME",
+            "translated": "UTAALAM"
+        },
+        "values_professionalisme_text": {
+            "source": "Rigueur, compétence et éthique dans tous les engagements.",
+            "translated": "Ukali, uwezo na maadili katika ahadi zote."
+        },
+        "domaine_title": {
+            "source": "Domaine d'action",
+            "translated": "Eneo la hatua"
+        },
+        "domaine_droits": {
+            "source": "Droits Humains",
+            "translated": "Haki za Binadamu"
+        },
+        "dom_droit": {
+            "source": "Protection, sensibilisation, accompagnement.",
+            "translated": "Ulinzi, ufahamu, msaada."
+        },
+        "domaine_femmes": {
+            "source": "Autonomisation des Femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "dom_femme": {
+            "source": "Formation, entrepreneuriat, leadership.",
+            "translated": "Mafunzo, ujasiriamali, uongozi."
+        },
+        "domaine_tech": {
+            "source": "Technologie",
+            "translated": "Teknolojia"
+        },
+        "dom_tech": {
+            "source": "Éducation numérique, accès aux outils technologiques.",
+            "translated": "Elimu ya kidijitali, upatikanaji wa zana za kiteknolojia."
+        },
+        "ensavoir": {
+            "source": "En savoir plus",
+            "translated": "Jifunze zaidi"
+        },
+        "projects_title": {
+            "source": "Projets en Cours",
+            "translated": "Miradi ya Sasa"
+        },
+        "project1_title": {
+            "source": "Formation en Leadership",
+            "translated": "Mafunzo ya Uongozi"
+        },
+        "project1_text": {
+            "source": "Programme pour renforcer la capacité de jeunes femmes à prendre des décisions et diriger des initiatives locales.",
+            "translated": "Programu ya kuimarisha uwezo wa wanawake vijana kufanya maamuzi na kuongoza mipango ya ndani."
+        },
+        "project2_title": {
+            "source": "Centre Numérique Communautaire",
+            "translated": "Kituo cha Dijiti cha Jumuiya"
+        },
+        "project2_text": {
+            "source": "Création d’espaces d’accès à internet et aux outils numériques dans les quartiers défavorisés.",
+            "translated": "Uundaji wa nafasi za ufikiaji wa mtandao na zana za kidijitali katika vitongoji visivyo na uwezo."
+        },
+        "project3_title": {
+            "source": "Campagne “Connais tes Droits”",
+            "translated": "Kampeni ya \"Jua Haki zako\"."
+        },
+        "project3_text": {
+            "source": "Ateliers et conférences pour sensibiliser la population à ses droits fondamentaux.",
+            "translated": "Warsha na makongamano ili kuongeza uelewa miongoni mwa watu kuhusu haki zao za kimsingi."
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Tenda pamoja nasi"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Kuwa wakala wa mabadiliko na usaidie kuboresha maisha ya maelfu ya watu."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Jiunge nasi"
+        },
+        "actualite_rec": {
+            "source": "Actualités récentes",
+            "translated": "Habari za hivi punde"
+        },
+        "team_title": {
+            "source": "Notre équipe à votre disposition",
+            "translated": "Timu yetu ovyo wako"
+        },
+        "team_president": {
+            "source": "PRESIDENTE \nMme. Nathalie AMUDIANDROY",
+            "translated": "RAIS \nBi Nathalie AMUDIANDROY"
+        },
+        "team_vice_president": {
+            "source": "VICE-PRESIDENT \nMr. Nathan MAYABU",
+            "translated": "MAKAMU WA RAIS \nMheshimiwa Nathan MAYABU"
+        },
+        "team_secretary": {
+            "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
+            "translated": "KATIBU MKUU \nMheshimiwa Asante Mungu LUSAMBA"
+        }
+    },
+    "project": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Tenda pamoja nasi"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Kuwa wakala wa mabadiliko na usaidie kuboresha maisha ya maelfu ya watu."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Jiunge nasi"
+        },
+        "projet": {
+            "source": "PROJETS",
+            "translated": "MIRADI"
+        },
+        "intro": {
+            "source": "Découvrez nos initiatives en cours, nos réalisations et nos projets à venir qui transforment des vies chaque jour.",
+            "translated": "Gundua mipango yetu ya sasa, mafanikio yetu na miradi yetu ijayo inayobadilisha maisha kila siku."
+        },
+        "current_projects": {
+            "source": "Projets en cours",
+            "translated": "Miradi ya sasa"
+        },
+        "completed_projects": {
+            "source": "Projets réalisés",
+            "translated": "Miradi iliyokamilika"
+        },
+        "upcoming_projects": {
+            "source": "Projets à venir",
+            "translated": "Miradi ijayo"
+        },
+        "current_1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "Mafunzo ya uongozi wa wanawake"
+        },
+        "current_1_text": {
+            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
+            "translated": "Imarisha ujuzi wa wanawake vijana 50 katika usimamizi wa mradi na kufanya maamuzi ya jamii."
+        },
+        "current_2_title": {
+            "source": "Centre numérique communautaire",
+            "translated": "Kituo cha Dijiti cha Jumuiya"
+        },
+        "current_2_text": {
+            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
+            "translated": "Uundaji wa nafasi za ufikiaji wa mtandao na mafunzo katika zana za kidijitali katika Limete."
+        },
+        "done_1_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "Kampeni ya \"Jua haki zako\"."
+        },
+        "done_1_text": {
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
+            "translated": "Warsha za uhamasishaji wa haki za binadamu zinazowafikia vijana zaidi ya 600 mjini Kinshasa."
+        },
+        "done_2_title": {
+            "source": "Microcrédits pour femmes entrepreneures",
+            "translated": "Mikopo midogo kwa wajasiriamali wanawake"
+        },
+        "done_2_text": {
+            "source": "Appui financier et formation pour 80 femmes afin de lancer leur activité génératrice de revenus.",
+            "translated": "Msaada wa kifedha na mafunzo kwa wanawake 80 ili kuanzisha shughuli zao za kujiongezea kipato."
+        },
+        "future_1_title": {
+            "source": "Programme \"Tech pour tous\"",
+            "translated": "Programu ya \"Tech kwa wote\"."
+        },
+        "future_1_text": {
+            "source": "Initiation à la programmation web pour 100 jeunes défavorisés.",
+            "translated": "Utangulizi wa programu za wavuti kwa vijana 100 wasio na uwezo."
+        },
+        "future_2_title": {
+            "source": "Plateforme en ligne de bénévolat",
+            "translated": "Jukwaa la kujitolea la mtandaoni"
+        },
+        "future_2_text": {
+            "source": "Outil interactif pour connecter bénévoles et projets communautaires dans toute la RDC.",
+            "translated": "Chombo shirikishi cha kuunganisha watu wanaojitolea na miradi ya jumuiya kote nchini DRC."
+        },
+        "gallery_title": {
+            "source": "Galerie",
+            "translated": "Matunzio"
+        },
+        "gallery_desc": {
+            "source": "Quelques images de nos réalisations et activités sur le terrain.",
+            "translated": "Baadhi ya picha za mafanikio na shughuli zetu nyanjani."
+        }
+    },
+    "contact": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "entre_cont": {
+            "source": "Entrer en contact",
+            "translated": "Wasiliana"
+        },
+        "hero_title": {
+            "source": "Nous serions ravis d'",
+            "translated": "Tungefurahiya"
+        },
+        "hero_title_span": {
+            "source": "avoir de vos nouvelles.",
+            "translated": "kusikia kutoka kwako."
+        },
+        "visit_title": {
+            "source": "Visitez notre bureau",
+            "translated": "Tembelea ofisini kwetu"
+        },
+        "visit_address": {
+            "source": "Avenue Nyangwe 225, Commune de Lingwala",
+            "translated": "Nyangwe Avenue 225, Lingwala Commune"
+        },
+        "call_title": {
+            "source": "Appelez-nous",
+            "translated": "Tupigie"
+        },
+        "call_phone": {
+            "source": "+243 813 204 632",
+            "translated": "+243 813 204 632"
+        },
+        "call_schedule": {
+            "source": "Lundi – Vendredi, 8h – 16h",
+            "translated": "Jumatatu - Ijumaa, 8 asubuhi - 4 p.m."
+        },
+        "email_title": {
+            "source": "Envoyez-nous un email",
+            "translated": "Tutumie barua pepe"
+        },
+        "email_address": {
+            "source": "rhinosplus@outlook.fr",
+            "translated": "rhinosplus@outlook.fr"
+        },
+        "email_reply": {
+            "source": "Nous répondons instantanément",
+            "translated": "Tunajibu papo hapo"
+        },
+        "form_badge": {
+            "source": "Envoyer un message",
+            "translated": "Tuma ujumbe"
+        },
+        "form_title": {
+            "source": "Réservez une",
+            "translated": "Kitabu a"
+        },
+        "form_title_span": {
+            "source": "consultation gratuite",
+            "translated": "mashauriano ya bure"
+        },
+        "form_subtitle": {
+            "source": "Remplissez le formulaire et l'un de nos conseillers vous contactera dans l'heure.",
+            "translated": "Jaza fomu na mmoja wa washauri wetu atawasiliana nawe ndani ya saa moja."
+        },
+        "full_name_label": {
+            "source": "NOM COMPLET",
+            "translated": "JINA KAMILI"
+        },
+        "full_name_placeholder": {
+            "source": "Votre nom complet",
+            "translated": "Jina lako kamili"
+        },
+        "email_label": {
+            "source": "ADRESSE EMAIL",
+            "translated": "ANWANI YA BARUA PEPE"
+        },
+        "email_placeholder": {
+            "source": "Votre email",
+            "translated": "Barua pepe yako"
+        },
+        "phone_label": {
+            "source": "NUMÉRO DE TÉLÉPHONE",
+            "translated": "NAMBA YA SIMU"
+        },
+        "phone_placeholder": {
+            "source": "Votre téléphone",
+            "translated": "Simu yako"
+        },
+        "service_label": {
+            "source": "MISSION D'INTÉRÊT",
+            "translated": "UTUME WA MASLAHI"
+        },
+        "service_human_rights": {
+            "source": "Droits humains",
+            "translated": "Haki za binadamu"
+        },
+        "service_women": {
+            "source": "Autonomisation de la femme",
+            "translated": "Uwezeshaji wa wanawake"
+        },
+        "service_technology": {
+            "source": "Accès aux outils technologiques",
+            "translated": "Upatikanaji wa zana za kiteknolojia"
+        },
+        "message_label": {
+            "source": "VOTRE MESSAGE",
+            "translated": "UJUMBE WAKO"
+        },
+        "message_placeholder": {
+            "source": "Entrez votre message...",
+            "translated": "Weka ujumbe wako..."
+        },
+        "submit_button": {
+            "source": "Envoyer le message",
+            "translated": "Tuma ujumbe"
+        },
+        "why_choose_title": {
+            "source": "Pourquoi nos clients nous choisissent",
+            "translated": "Kwa nini wateja wetu wanatuchagua"
+        },
+        "value_1": {
+            "source": "Innovation",
+            "translated": "Ubunifu"
+        },
+        "value_2": {
+            "source": "Fiabilité",
+            "translated": "Kuegemea"
+        },
+        "value_3": {
+            "source": "Intégrité",
+            "translated": "Uadilifu"
+        },
+        "value_4": {
+            "source": "Excellence",
+            "translated": "Mtukufu"
+        },
+        "value_5": {
+            "source": "Accessibilité",
+            "translated": "Ufikivu"
+        },
+        "service_hours_title": {
+            "source": "Heures de service",
+            "translated": "Saa za Huduma"
+        },
+        "weekday": {
+            "source": "Lundi – Vendredi",
+            "translated": "Jumatatu - Ijumaa"
+        },
+        "weekday_hours": {
+            "source": "8:00 – 17:00",
+            "translated": "8:00 - 17:00"
+        },
+        "saturday": {
+            "source": "Samedi",
+            "translated": "JUMAMOSI"
+        },
+        "saturday_hours": {
+            "source": "08:00 – 12:00",
+            "translated": "08:00 - 12:00"
+        },
+        "sunday": {
+            "source": "Dimanche",
+            "translated": "Jumapili"
+        },
+        "sunday_hours": {
+            "source": "Fermé",
+            "translated": "Shamba"
+        },
+        "social_contact_title": {
+            "source": "Suivez-nous",
+            "translated": "Tufuate"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        }
+    },
+    "actualite": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Tenda pamoja nasi"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Kuwa wakala wa mabadiliko na usaidie kuboresha maisha ya maelfu ya watu."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Jiunge nasi"
+        },
+        "actualite": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "intro": {
+            "source": "Restez informé de nos dernières actions, événements, communiqués et publications.",
+            "translated": "Endelea kufahamishwa kuhusu vitendo vyetu vya hivi punde, matukio, taarifa kwa vyombo vya habari na machapisho."
+        },
+        "article1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "Mafunzo ya uongozi wa wanawake"
+        },
+        "article1_text": {
+            "source": "CD a formé 50 jeunes femmes à la prise de décision et à la gestion de projets communautaires.",
+            "translated": "CD ilitoa mafunzo kwa wanawake vijana 50 katika kufanya maamuzi na usimamizi wa miradi ya jamii."
+        },
+        "article2_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "Kampeni ya \"Jua haki zako\"."
+        },
+        "article2_text": {
+            "source": "Une tournée de sensibilisation aux droits humains a touché plus de 600 jeunes à Kinshasa.",
+            "translated": "Ziara ya uhamasishaji wa haki za binadamu iliwafikia zaidi ya vijana 600 mjini Kinshasa."
+        },
+        "article3_title": {
+            "source": "Ouverture d’un centre numérique",
+            "translated": "Ufunguzi wa kituo cha digital"
+        },
+        "article3_text": {
+            "source": "Un nouvel espace d’accès à internet et à la formation numérique a ouvert ses portes à Limete.",
+            "translated": "Nafasi mpya ya ufikiaji wa mtandao na mafunzo ya kidijitali imefungua milango yake huko Limete."
+        },
+        "read_more": {
+            "source": "Lire la suite →",
+            "translated": "Soma zaidi →"
+        },
+        "gallery_title": {
+            "source": "Galerie Photo & Vidéo",
+            "translated": "Matunzio ya Picha na Video"
+        },
+        "gallery_desc": {
+            "source": "Revivez nos moments forts en images et vidéos.",
+            "translated": "Tazama tena vivutio vyetu katika picha na video."
+        }
+    },
+    "apropos": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Tenda pamoja nasi"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Kuwa wakala wa mabadiliko na usaidie kuboresha maisha ya maelfu ya watu."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Jiunge nasi"
+        },
+        "apropos": {
+            "source": "A PROPOS DE NOUS",
+            "translated": "KUHUSU SISI"
+        },
+        "ceo_title": {
+            "source": "Message de la CEO",
+            "translated": "Ujumbe kutoka kwa Mkurugenzi Mtendaji"
+        },
+        "ceo_text": {
+            "source": "Community Development (CD) est une organisation congolaise engagée pour la justice sociale, l’inclusion technologique et l’égalité des chances.",
+            "translated": "Maendeleo ya Jamii (CD) ni shirika la Kongo linalojitolea kwa haki ya kijamii, ushirikishwaji wa kiteknolojia na fursa sawa."
+        },
+        "ceo_name": {
+            "source": "Nathalie AMUDIANDROY",
+            "translated": "Nathalie AMUDIANDROY"
+        },
+        "motto": {
+            "source": "Sous la devise « Together, let’s build a better future »",
+            "translated": "Chini ya kauli mbiu \"Pamoja, tujenge maisha bora ya baadaye\""
+        },
+        "history_1": {
+            "source": "Community Development est née de la volonté profonde de combler les lacunes laissées par les institutions publiques en matière de justice sociale, d’inclusion technologique et d’égalité des chances. Fondée à Kinshasa par Mme Amudiandroy Embela Nathalie, l’ONG a été pensée comme une réponse concrète aux réalités du terrain : pauvreté persistante, marginalisation des femmes, jeunes livrés à eux-mêmes, et absence d’accès à des solutions technologiques utiles dans les milieux défavorisés. La création de Community Development est le fruit de plusieurs années d’observation, de mobilisation communautaire et de réflexion sur des moyens concrets d’apporter un changement social durable.",
+            "translated": "Maendeleo ya Jamii yalitokana na hamu kubwa ya kujaza mapengo yaliyoachwa na taasisi za umma katika suala la haki ya kijamii, ushirikishwaji wa teknolojia na fursa sawa. Ilianzishwa mjini Kinshasa na Bi. Amudiandroy Embela Nathalie, NGO iliundwa kama jibu madhubuti kwa hali halisi: umaskini unaoendelea, kutengwa kwa wanawake, vijana walioachwa kwa matumizi yao wenyewe, na ukosefu wa upatikanaji wa ufumbuzi muhimu wa teknolojia katika maeneo yenye shida. Kuundwa kwa Maendeleo ya Jamii ni matokeo ya miaka kadhaa ya uchunguzi, uhamasishaji wa jamii na kutafakari juu ya njia madhubuti za kuleta mabadiliko ya kudumu ya kijamii."
+        },
+        "history_2": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d’impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif. Le siège de l’ONG est situé à l’adresse suivante : n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo. Il peut être transféré en cas de nécessité, selon décision de la fondatrice.",
+            "translated": "Maendeleo ya Jamii, kifupi NGO CD, ni Shirika Lisilo la Kiserikali chini ya sheria ya Kongo lililoundwa Kinshasa, katika Jamhuri ya Kidemokrasia ya Kongo. Inafanya kazi kwa mantiki ya athari endelevu kwa jamii, kwa mujibu wa Sheria Na. 004/2001 ya Julai 20 inayoweka masharti ya jumla yanayotumika kwa mashirika yasiyo ya faida. Makao makuu ya NGO yapo katika anwani ifuatayo: n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo. Inaweza kuhamishwa ikiwa ni lazima, kulingana na uamuzi wa mwanzilishi."
+        },
+        "structure_title": {
+            "source": "Structure de l’ONG",
+            "translated": "Muundo wa NGO"
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "Mgawo"
+        },
+        "mission_text": {
+            "source": "Promouvoir le bien-être humain par la défense des droits fondamentaux, l’autonomisation économique des femmes et l’accès équitable à l’innovation technologique.",
+            "translated": "Kukuza ustawi wa binadamu kupitia utetezi wa haki za kimsingi, uwezeshaji wa wanawake kiuchumi na upatikanaji sawa wa uvumbuzi wa kiteknolojia."
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "Maono"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu a les moyens de s’épanouir et de contribuer au développement de sa communauté.",
+            "translated": "Jenga jamii ya Wakongo yenye haki, jumuishi na iliyoendelea kiteknolojia, ambapo kila mtu ana uwezo wa kustawi na kuchangia katika maendeleo ya jumuiya yake."
+        },
+        "values_title": {
+            "source": "Valeurs",
+            "translated": "Maadili"
+        },
+        "value_amour": {
+            "source": "Amour",
+            "translated": "Upendo"
+        },
+        "value_amour_text": {
+            "source": "Mettre l’humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "Waweke watu katikati ya hatua zote, kwa huruma na mshikamano."
+        },
+        "value_dynamisme": {
+            "source": "Dynamisme",
+            "translated": "Nguvu"
+        },
+        "value_dynamisme_text": {
+            "source": "Agir avec volonté, innovation et efficacité.",
+            "translated": "Tenda kwa utashi, uvumbuzi na ufanisi."
+        },
+        "value_professionnalisme": {
+            "source": "Professionnalisme",
+            "translated": "Weledi"
+        },
+        "value_professionnalisme_text": {
+            "source": "Travailler avec rigueur, compétence et éthique.",
+            "translated": "Fanya kazi kwa ukali, umahiri na maadili."
+        },
+        "equipe": {
+            "source": "Notre équipe",
+            "translated": "Timu yetu"
+        },
+        "pre": {
+            "source": "Présidente fondatrice",
+            "translated": "Rais Mwanzilishi"
+        },
+        "v_pre": {
+            "source": "Vice-président",
+            "translated": "Makamu wa rais"
+        },
+        "sg": {
+            "source": "Secrétaire Général",
+            "translated": "Katibu Mkuu"
+        },
+        "cj": {
+            "source": "Conseiller Juridique",
+            "translated": "Mshauri wa Kisheria"
+        },
+        "rp": {
+            "source": "Relations Publiques",
+            "translated": "Mahusiano ya umma"
+        },
+        "rd_d": {
+            "source": "Responsable du Département de droit",
+            "translated": "Mkuu wa Idara ya Sheria"
+        },
+        "it": {
+            "source": "IT",
+            "translated": "IT"
+        },
+        "rd_af": {
+            "source": "Responsable du Département d'autonomisation de la femme",
+            "translated": "Mkuu wa Idara ya Uwezeshaji Wanawake"
+        },
+        "com": {
+            "source": "Communication",
+            "translated": "Mawasiliano"
+        }
+    },
+    "mission": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "KARIBU"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "KUHUSU"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "HABARI"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "MCHANGO"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "WASILIANA NA"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Utafiti"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Jiandikishe kwa Jarida letu"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Pokea habari zetu za hivi punde moja kwa moja kwenye kikasha chako"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Ingiza jina lako"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Ingiza Barua pepe yako"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Jisajili"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Tenda pamoja nasi"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Kuwa wakala wa mabadiliko na usaidie kuboresha maisha ya maelfu ya watu."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Jiunge nasi"
+        },
+        "page_title": {
+            "source": "MISSION",
+            "translated": "KAZI"
+        },
+        "main_title": {
+            "source": "NOTRE MISSION",
+            "translated": "DHAMIRA YETU"
+        },
+        "main_description": {
+            "source": "Chez Community Development (CD), nous croyons que chaque être humain, quel que soit son genre, son origine ou son statut social, a le droit de vivre dans la dignité, d'avoir accès aux ressources nécessaires pour s'épanouir et de contribuer activement au développement de sa communauté.",
+            "translated": "Katika Maendeleo ya Jamii (CD), tunaamini kwamba kila binadamu, bila kujali jinsia, asili au hali ya kijamii, ana haki ya kuishi kwa utu, kupata rasilimali muhimu ili kustawi na kuchangia kikamilifu katika maendeleo ya jamii yake."
+        },
+        "mission_statement_intro": {
+            "source": "Notre mission est claire et ambitieuse :",
+            "translated": "Dhamira yetu ni wazi na yenye malengo makubwa:"
+        },
+        "mission_statement": {
+            "source": "Promouvoir le bien-être humain à travers la défense des droits fondamentaux, l'autonomisation des femmes et l'accès équitable aux technologies utiles.",
+            "translated": "Kukuza ustawi wa binadamu kupitia utetezi wa haki za kimsingi, uwezeshaji wa wanawake na upatikanaji sawa wa teknolojia muhimu."
+        },
+        "axe_title_defense": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Tetea haki za kimsingi"
+        },
+        "axe_list_defense": {
+            "source": [
+                "Informer et éduquer les populations sur leurs droits",
+                "Promouvoir la justice sociale et la paix",
+                "Lutter contre toutes formes de discriminations"
+            ],
+            "translated": [
+                "Kufahamisha na kuelimisha watu kuhusu haki zao",
+                "Kukuza haki ya kijamii na amani",
+                "Pambana na aina zote za ubaguzi"
+            ]
+        },
+        "axe_title_autonomisation": {
+            "source": "Autonomisation",
+            "translated": "Uwezeshaji"
+        },
+        "axe_list_autonomisation": {
+            "source": [
+                "Offrir des formations professionnelles, entreprenariales et en leadership",
+                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Valoriser les talents féminins comme moteurs du changement"
+            ],
+            "translated": [
+                "Kutoa mafunzo ya kitaaluma, ujasiriamali na uongozi",
+                "Weka taratibu za kufikia ufadhili mdogo usio na riba",
+                "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
+            ]
+        },
+        "axe_title_tech": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Kuwezesha upatikanaji wa teknolojia"
+        },
+        "axe_list_tech": {
+            "source": [
+                "Réduire la facture numérique dans les milieux défavorisés",
+                "Promouvoir l'utilisation des TIC dans l'éducation, la santé et l'emploi",
+                "Initier les jeunes aux compétences numériques de demain"
+            ],
+            "translated": [
+                "Punguza muswada wa kidijitali katika maeneo yenye shida",
+                "Kukuza matumizi ya TEHAMA katika elimu, afya na ajira",
+                "Kuwajulisha vijana ujuzi wa kidijitali wa kesho"
+            ]
+        },
+        "why_mission_title": {
+            "source": "Pourquoi cette mission",
+            "translated": "Kwa nini utume huu"
+        },
+        "why_mission_desc": {
+            "source": "La République Démocratique du Congo, riche de sa diversité, fait face à de nombreux défis : pauvreté, inégalités sociales, marginalisation des femmes, accès limité à l'innovation. Face à cela, l'ONG CD agit comme un pont entre le potentiel des communautés et les moyens de leur développement.",
+            "translated": "Jamhuri ya Kidemokrasia ya Kongo, yenye wingi wa utofauti wake, inakabiliwa na changamoto nyingi: umaskini, kukosekana kwa usawa wa kijamii, kutengwa kwa wanawake, upatikanaji mdogo wa uvumbuzi. Inakabiliwa na hili, CD ya NGO inafanya kazi kama daraja kati ya uwezo wa jamii na njia za maendeleo yao."
+        },
+        "why_mission_goal": {
+            "source": "Nous travaillons sur le terrain, au plus près des populations, pour construire une société :",
+            "translated": "Tunafanya kazi chini, karibu na idadi ya watu, kujenga jamii:"
+        },
+        "why_mission_values": {
+            "source": [
+                "PLUS JUSTE",
+                "PLUS EQUITABLE",
+                "PLUS INCLUSIVE",
+                "PLUS RESILIENTE GRACE A LA TECHNOLOGIE"
+            ],
+            "translated": [
+                "FAIR",
+                "HAKI ZAIDI",
+                "INAJUMUISHA ZAIDI",
+                "SHUKRANI ZAIDI KWA TEKNOLOJIA"
+            ]
+        },
+        "human_rights_title": {
+            "source": "Droits Humains",
+            "translated": "Haki za Binadamu"
+        },
+        "human_rights_desc": {
+            "source": "Promouvoir, protéger et défendre les droits fondamentaux pour bâtir une société juste et inclusive.",
+            "translated": "Kukuza, kulinda na kutetea haki za kimsingi ili kujenga jamii yenye haki na jumuishi."
+        },
+        "human_rights_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Lengo letu"
+        },
+        "human_rights_objective_desc": {
+            "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
+            "translated": "Kupunguza usawa wa kijamii na kiuchumi kwa kuhakikisha upatikanaji sawa wa haki, habari na fursa kwa wote, bila ubaguzi."
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Sensibilisation": "Warsha, makongamano na nyenzo za elimu ili kutoa taarifa juu ya haki za kimsingi.",
+                "Accompagnement": "Usaidizi wa kisheria na utetezi wa utawala shirikishi na wenye heshima.",
+                "Lutte contre les discriminations": "Kuzuia unyanyasaji wa kijinsia na kukuza usawa.",
+                "Renforcement des capacités": "Mafunzo kwa viongozi wa jamii na kuunda kamati za ulinzi za mitaa."
+            }
+        },
+        "human_rights_impact_title": {
+            "source": "Impact attendu",
+            "translated": "Athari inayotarajiwa"
+        },
+        "human_rights_impact_list": {
+            "source": [
+                "Citoyens mieux informés et confiants pour défendre leurs droits",
+                "Réduction des discriminations et injustices",
+                "Renforcement du lien social et de la paix"
+            ],
+            "translated": [
+                "Wananchi wenye taarifa na kujiamini zaidi kutetea haki zao",
+                "Kupunguza ubaguzi na ukosefu wa haki",
+                "Kuimarisha uhusiano wa kijamii na amani"
+            ]
+        },
+        "human_rights_cta": {
+            "source": [
+                "Participer à nos campagnes",
+                "Faire un don"
+            ],
+            "translated": [
+                "Shiriki katika kampeni zetu",
+                "Toa mchango"
+            ]
+        },
+        "women_empowerment_title": {
+            "source": "Autonomisation des Femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "women_empowerment_desc": {
+            "source": "Donner aux femmes les moyens économiques, sociaux et intellectuels pour s’épanouir et devenir actrices du changement.",
+            "translated": "Wape wanawake njia za kiuchumi, kijamii na kiakili ili kustawi na kuwa watendaji wa mabadiliko."
+        },
+        "women_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Lengo letu"
+        },
+        "women_objective_desc": {
+            "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
+            "translated": "Tunaamini kuwa uwezeshaji wa wanawake ni kigezo muhimu kwa maendeleo endelevu. Kupitia mafunzo, usaidizi na usaidizi wa kifedha, tunawapa wanawake na wasichana zana wanazohitaji ili kubadilisha maisha yao na jamii zao."
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "Formation professionnelle": "Warsha za uongozi, usimamizi wa fedha na ukuzaji ujuzi wa ujasiriamali.",
+                "Microcrédits à taux zéro": "Usaidizi wa kifedha wa kuanzisha au kuendeleza shughuli ya kuzalisha mapato.",
+                "Réseaux de mentorat": "Kuungana na viongozi wanawake kubadilishana uzoefu na ushauri.",
+                "Alphabétisation numérique": "Utangulizi wa matumizi ya zana za kidijitali kupanua fursa."
+            }
+        },
+        "women_testimonial": {
+            "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
+            "translated": "\"Shukrani kwa mpango wa mikopo midogo wa CD, niliweza kufungua duka langu na kuwahudumia watoto wangu. Leo, ninawafunza wanawake wengine kufanya vivyo hivyo.\" - Sarah, mfadhili"
+        },
+        "women_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "Athari kwa nambari"
+        },
+        "women_impact_list": {
+            "source": [
+                "+180 femmes formées depuis 2022",
+                "80 microcrédits attribués",
+                "30 projets féminins accompagnés chaque année"
+            ],
+            "translated": [
+                "+ wanawake 180 waliofunzwa tangu 2022",
+                "Mikopo midogo 80 iliyotolewa",
+                "Miradi 30 ya wanawake inayosaidiwa kila mwaka"
+            ]
+        },
+        "women_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir mentor"
+            ],
+            "translated": [
+                "Saidia programu hii",
+                "Kuwa mshauri"
+            ]
+        },
+        "tech_inclusion_title": {
+            "source": "Inclusion Technologique & Numérique",
+            "translated": "Ujumuishaji wa Kiteknolojia na Dijitali"
+        },
+        "tech_inclusion_desc": {
+            "source": "Mettre la technologie au service du développement social et économique pour réduire la fracture numérique et ouvrir de nouvelles opportunités.",
+            "translated": "Weka teknolojia katika huduma ya maendeleo ya kijamii na kiuchumi ili kupunguza mgawanyiko wa kidijitali na kufungua fursa mpya."
+        },
+        "tech_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Lengo letu"
+        },
+        "tech_objective_desc": {
+            "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
+            "translated": "Katika ulimwengu unaozidi kushikamana, ufikiaji wa teknolojia ni haki muhimu ya kushiriki kikamilifu katika jamii. Tunajitahidi kufanya zana za kidijitali kufikiwa na kila mtu, hasa jamii zisizojiweza, ili kuboresha elimu, ajira na ufikiaji wa taarifa."
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Formations numériques": "Utangulizi wa kompyuta, automatisering ya ofisi, kuvinjari mtandao na usalama wa mtandaoni.",
+                "Outils technologiques utiles": "Usambazaji wa maombi ya elimu, afya na biashara ya ndani.",
+                "Centres numériques communautaires": "Nafasi za upatikanaji wa mtandao na vifaa vya kisasa katika maeneo yenye shida.",
+                "Innovation sociale": "Kuandaa hackathons na warsha ili kuunda ufumbuzi wa ndani kwa matatizo ya jamii."
+            }
+        },
+        "tech_testimonial": {
+            "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
+            "translated": "\"Kabla ya kujiunga na warsha za CD za kidijitali, sikujua hata jinsi ya kutumia kompyuta. Leo, ninasimamia duka langu dogo la mtandaoni.\" - Jean-Paul, mshiriki"
+        },
+        "tech_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "Athari kwa nambari"
+        },
+        "tech_impact_list": {
+            "source": [
+                "+150 jeunes formés aux compétences numériques",
+                "3 centres communautaires équipés",
+                "+50 projets numériques locaux soutenus"
+            ],
+            "translated": [
+                "+ vijana 150 waliofunzwa ujuzi wa kidijitali",
+                "Vituo 3 vya jamii vilivyo na vifaa",
+                "+ Miradi 50 ya kidijitali inayotumika"
+            ]
+        },
+        "tech_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir formateur"
+            ],
+            "translated": [
+                "Saidia programu hii",
+                "Kuwa mkufunzi"
+            ]
+        },
+        "contact_mail_title": {
+            "source": "Envoyez-nous un courriel",
+            "translated": "Tutumie barua pepe"
+        },
+        "contact_mail_name": {
+            "source": "Nom",
+            "translated": "Jina"
+        },
+        "contact_mail_email": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_mail_placeholder": {
+            "source": "Entrer votre message...",
+            "translated": "Weka ujumbe wako..."
+        },
+        "contact_mail_button": {
+            "source": "Envoyer",
+            "translated": "Tuma"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{% extends "base.html"%}
+
+{% block content%}
+
+<!-- HEADER -->
+<section class="background-slideshow">
+
+    <div class="bg bg1"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div class="bg bg4"></div>
+
+</section>
+
+<!-- ===================== ACTUALITE ===================== -->
+<section class="m_page_content" style="padding: 50px 20px; background-color: #f8f9fa;">
+
+    <h1 class="text-center text-dark fw-bold">{{texts.actualite}}</h1>
+    
+    <div style="max-width: 1100px; margin: auto;">
+
+        <!-- Intro -->
+        <p style="text-align: center; color: #555; font-size: 1.1em; max-width: 800px; margin: auto;">
+            {{ texts.intro }}
+        </p>
+
+        <!-- ===================== ARTICLES ===================== -->
+        <div style="margin-top: 40px; display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;">
+
+            <!-- Article 1 -->
+            <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Formation leadership" style="width:100%; height: 200px; object-fit: cover;">
+                
+                <div style="padding: 20px;">
+                    <h3 style="color: #27ae60;">
+                        {{ texts.article1_title }}
+                    </h3>
+
+                    <p style="color: #555; font-size: 0.95em;">
+                        {{ texts.article1_text }}
+                    </p>
+
+                    <a href="#" style="color: #27ae60; text-decoration: none; font-weight: bold;">
+                        {{ texts.read_more }}
+                    </a>
+                </div>
+            </div>
+
+            <!-- Article 2 -->
+            <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Campagne droits humains" style="width:100%; height: 200px; object-fit: cover;">
+                
+                <div style="padding: 20px;">
+                    <h3 style="color: #2980b9;">
+                        {{ texts.article2_title }}
+                    </h3>
+
+                    <p style="color: #555; font-size: 0.95em;">
+                        {{ texts.article2_text }}
+                    </p>
+
+                    <a href="#" style="color: #2980b9; text-decoration: none; font-weight: bold;">
+                        {{ texts.read_more }}
+                    </a>
+                </div>
+            </div>
+
+            <!-- Article 3 -->
+            <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Centre numérique" style="width:100%; height: 200px; object-fit: cover;">
+                
+                <div style="padding: 20px;">
+                    <h3 style="color: #e67e22;">
+                        {{ texts.article3_title }}
+                    </h3>
+
+                    <p style="color: #555; font-size: 0.95em;">
+                        {{ texts.article3_text }}
+                    </p>
+
+                    <a href="#" style="color: #e67e22; text-decoration: none; font-weight: bold;">
+                        {{ texts.read_more }}
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% include "composants/cta.html" %}
+
+<!-- ===================== GALERIE ===================== -->
+<section class="py-5">
+        <div style="margin-top: 50px; text-align:center;">
+            
+            <h3 style="color: #2C3E50;">
+                {{ texts.gallery_title }}
+            </h3>
+
+            <p style="color: #555;">
+                {{ texts.gallery_desc }}
+            </p>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 2" style="width:100%; border-radius: 8px;">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 3" style="width:100%; border-radius: 8px;">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 4" style="width:100%; border-radius: 8px;">
+            </div>
+
+        </div>
+</section>
+
+{% endblock %}

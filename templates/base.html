@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="google" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community development ONG -  {{ texts.nav_home }} </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/all.min.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+</head>
+<body>
+
+
+    <!-- NAVBAR MOBILE -->
+    <nav class="off navbar bg-body-tertiary fixed-top header d-lg-none">
+        <div class="container-fluid">
+
+            <a href="/"><img src="{{ url_for('static', filename='img/cd_logo.png')}}" alt=""></a> <a href="/" class="text-light fw-bold d-none">COMMUNITY DEVELOPMENT</a>
+
+
+            <button class="" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title fw-bold" id="offcanvasNavbarLabel">COMMUNITY DEVELOPMENT</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-body side">
+                    <div class="side d-flex flex-column">
+
+                        <a href="/" class="{% if request.path == '/' %}actives{% endif %}">  {{ texts.nav_home }} </a>
+                        <a href="/mission" class="{% if request.path == '/mission' %}actives{% endif %}"> {{ texts.nav_mission }} </a>
+                        <a href="/apropos" class="{% if request.path == '/apropos' %}actives{% endif %}"> {{ texts.nav_about }} </a>
+                        <a href="/actualite" class="{% if request.path == '/actualite' %}actives{% endif %}"> {{ texts.nav_news}} </a>
+                        <a href="/project" class="{% if request.path == '/project' %}actives{% endif %}"> {{ texts.nav_project }} </a>
+                        <a href="/donation" class="{% if request.path == '/donation' %}actives{% endif %} donation d-none">DONATION</a>
+                        <a href="/contact" class="{% if request.path == '/contact' %}active{% endif %} mb-3">{{ texts.nav_contact}}</a>
+
+                        {% include 'composants/langues.html' %}
+                    </div>
+                    
+                    <form class="d-flex mt-3" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                        <button class="btn btn-outline-warning" type="submit">{{texts.nav_search}}</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    
+    
+    <!-- NAVBAR DESKTOP -->
+    <section class="header d-none d-lg-block fixed-top">
+        <div class="d-flex justify-content-between px-3">
+
+            <div class="logo">
+                <a href="/"><img src="{{ url_for('static', filename='img/cd_logo.png')}}" alt=""></a> <a href="/"><span>COMMUNITY DEVELOPMENT O.N.G</span></a>
+            </div>
+            
+            <nav>
+                <ul id="nav-links">
+                    <li><a href="/" class="{% if request.path == '/' %}active{% endif %}"> {{ texts.nav_home }} </a></li>
+                    <li><a href="/mission" class="{% if request.path == '/mission' %}active{% endif %}"> {{ texts.nav_mission }} </a></li>
+                    <li><a href="/apropos" class="{% if request.path == '/apropos' %}active{% endif %}"> {{ texts.nav_about }} </a></li>
+                    <li><a href="/actualite" class="{% if request.path == '/actualite' %}active{% endif %}"> {{ texts.nav_news}} </a></li>
+                    <li><a href="/project" class="{% if request.path == '/project' %}active{% endif %}"> {{ texts.nav_project }} </a></li>
+                    <li><a href="/contact" class="{% if request.path == '/contact' %}active{% endif %}">Contact</a></li>
+                    <li class="d-none"><a href="/donation" class="{% if request.path == '/donation' %}active{% endif %} donation">DONATION</a></li>
+                    
+                    {% include 'composants/langues.html' %}
+                </ul>
+            </nav>
+        </div>
+    </section>
+    
+
+    <div id="">
+        {% block content%} {% endblock%}
+    </div>
+
+            <!--COORDONNEES-->
+    <section class="contact" id="contact">
+
+        <div class="row justify-content-center align-items-center gap-5">
+
+            <div class="main_contact mt-4 col-md-3 ms-0">
+                <h2 class="fw-bold mb-4"> {{ texts.contact_title }} </h2>
+
+                <h4> {{ texts.contact_phone_title }} </h4>
+                +243 823 255 768 <br> +243 xxx xxx xxx
+
+                <h4>{{ texts.contact_email_title }}</h4>
+                <a href="">xxxxxx@gmail.com</a>
+
+                <h4>{{texts.contact_address_title }}</h4>
+                N° 9999, Boulevard Lumumba, 1ère Rue Dilandos,<br>Limete Industriel, Kinshasa, RD Congo.
+
+                <div class="contact_icon">
+                    <h4>{{texts.contact_social_title }}</h4>
+                    <div class="media-social mb-4">
+                        <div class="fb"><a href=""><i class="fab fa-facebook"></i></a></div>
+                        <div class="insta"><a href=""><i class="fab fa-instagram"></i></a></div>
+                        <div class="yout"><a href=""><i class="fab fa-youtube"></i></a></div>
+                        <div class="tikt"><a href=""><i class="fab fa-tiktok"></i></a></div>
+                        <div class="linked"><a href=""><i class="fab fa-linkedin"></i></a></div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-3 bg-warning bg-opacity-10 p-5">
+
+                <form action="{{ url_for('newsletter') }}" method="POST">
+                    <fieldset class="">
+                        <legend class="fw-bold">{{texts.newsletter_title }}</legend>
+                        <p><i>{{ texts.newsletter_subtitle }}</i></p>
+
+                        <div class="d-block">
+
+                            <div class="mb-2 d-none ">
+                                <input class="form-control" type="text" name="nom" placeholder="{{ texts.newsletter_name_placeholder }}">
+                            </div>
+                            <div class="mb-2">
+                                <input class="form-control" type="email" name="email" placeholder="{{ texts.newsletter_email_placeholder }}" required>
+                            </div>
+                            <div class="col-md-2">
+                                <button class="btn btn-warning" type="submit">{{ texts.newsletter_button }}</button>
+                            </div>
+
+                        </div>
+                        
+                    </fieldset>
+                </form>
+            </div>
+
+            <div class=" col-md-3">
+                <iframe class="iframe" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1484.2914286372168!2d15.292980756152001!3d-4.305612513760916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a33ea2d85464f%3A0x937c5f26a250955e!2sMaison%20Communale%20De%20Gombe%20RDC!5e1!3m2!1sfr!2scd!4v1756950281964!5m2!1sfr!2scd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="p-4">
+        {{ texts.footer_text }}
+    </footer>
+
+<script src="{{ url_for('static', filename='js/menu_burger.js') }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
+<script>
+    new WOW().init();
+</script>
+
+</body>
+</html>

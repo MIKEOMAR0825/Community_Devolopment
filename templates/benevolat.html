@@ -1,0 +1,85 @@
+    {% extends "base.html"%}
+
+    {% block content%}
+
+    <section class="projects">
+    </section>
+
+
+<section class="benevolat">
+    <div class="ben_div">
+
+        <!-- Titre principal -->
+        <h2>
+            Rejoindre comme Bénévole
+        </h2>
+        <p>
+            Engagez-vous avec nous pour construire un avenir meilleur.  
+            Votre temps et vos compétences peuvent transformer des vies.
+        </p>
+
+        <!-- Pourquoi devenir bénévole -->
+        <div class="ben_pourquoi">
+            <h3>Pourquoi devenir bénévole ?</h3>
+            <ul>
+                <li>Contribuer directement à la défense des droits humains</li>
+                <li>Accompagner les femmes dans leur autonomisation économique</li>
+                <li>Participer à des projets innovants d’inclusion technologique</li>
+                <li>Acquérir de nouvelles compétences et élargir votre réseau</li>
+            </ul>
+        </div>
+
+        <!-- Processus -->
+        <div class="ben_processus">
+            <h3>Comment ça marche ?</h3>
+            <ol>
+                <li>Remplissez le formulaire d’inscription ci-dessous</li>
+                <li>Nous étudions votre profil et vos disponibilités</li>
+                <li>Vous recevez un email de confirmation avec les prochaines étapes</li>
+            </ol>
+        </div>
+
+        <!-- Formulaire d'inscription -->
+        <div class="ben_formulaire">
+            <h3>Formulaire de bénévolat</h3>
+            <form>
+                <label>Nom complet :</label>
+                <input type="text" placeholder="Votre nom">
+
+                <label>Email :</label>
+                <input type="email" placeholder="Votre email">
+
+                <label>Téléphone :</label>
+                <input type="tel" placeholder="Votre numéro">
+
+                <label>Domaine d'intérêt :</label>
+                <select>
+                    <option>Droits humains</option>
+                    <option>Autonomisation des femmes</option>
+                    <option>Inclusion technologique</option>
+                    <option>Communication et sensibilisation</option>
+                    <option>Logistique et organisation</option>
+                </select>
+
+                <label>Disponibilités :</label>
+                <textarea placeholder="Indiquez vos jours et heures disponibles"></textarea>
+
+                <button type="submit">
+                    Envoyer ma candidature
+                </button>
+            </form>
+        </div>
+
+        <!-- Appel à action -->
+        <div class="ben_appel">
+            <p>Vous ne pouvez pas donner de votre temps ? Vous pouvez toujours soutenir nos actions.</p>
+            <a href="#don">
+                Faire un don
+            </a>
+        </div>
+
+    </div>
+</section>
+
+
+    {% endblock %}

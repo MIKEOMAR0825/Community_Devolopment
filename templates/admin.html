@@ -1,0 +1,66 @@
+    {% extends "base.html"%}
+
+    {% block content%}
+
+    <section class="projects">
+    </section>
+
+    <section class="admin">
+        <div class="back_logo"></div>
+        <div class="admin_all">
+            <div class="descend">
+                <a href="#descend"><i class="fa-solid fa-eye"></i></a>
+            </div>
+            <h1>Tableau de bord - Newsletter</h1>
+
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+
+                <ul>
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+                </ul>
+
+                {% endif %}
+            {% endwith %}
+
+            <h2>Liste des abonnés</h2>
+
+            <table border="1" cellpadding="5" class="table_newsletter">
+                <tr>
+                <th>ID</th>
+                <th>Email</th>
+                <th>Date</th>
+                <th>Action</th>
+                </tr>
+                {% for sub in subscribers %}
+                <tr>
+                <td>{{ sub.id }}</td>
+                <td>{{ sub.email }}</td>
+                <td>{{ sub.created_at }}</td>
+                <td><a href="{{ url_for('delete_subscriber', id=sub.id) }}">❌ Supprimer</a></td>
+                </tr>
+                {% endfor %}
+            </table>
+
+            <h2>Envoyer une newsletter</h2>
+            <form action="{{ url_for('send_newsletter') }}" method="POST" id="descend">
+                <p>
+                <label>Sujet :</label><br>
+                <input type="text" name="subject" required>
+                </p>
+                <p>
+                <label>Contenu (HTML autorisé) :</label><br>
+                <textarea name="content" rows="6" cols="50" required></textarea>
+                </p>
+                <button type="submit">Envoyer</button>
+            </form>
+
+        </div>
+
+    </section>
+
+
+
+    {% endblock %}

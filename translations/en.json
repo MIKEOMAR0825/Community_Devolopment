@@ -1,0 +1,1566 @@
+{
+    "project": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "HOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        },
+        "intro": {
+            "source": "Découvrez nos initiatives en cours, nos réalisations et nos projets à venir qui transforment des vies chaque jour.",
+            "translated": "Discover our current initiatives, our achievements and our upcoming projects that transform lives every day."
+        },
+        "current_projects": {
+            "source": "Projets en cours",
+            "translated": "Current projects"
+        },
+        "completed_projects": {
+            "source": "Projets réalisés",
+            "translated": "Completed projects"
+        },
+        "upcoming_projects": {
+            "source": "Projets à venir",
+            "translated": "Upcoming projects"
+        },
+        "current_1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "Women's leadership training"
+        },
+        "current_1_text": {
+            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
+            "translated": "Strengthen the skills of 50 young women in project management and community decision-making."
+        },
+        "current_2_title": {
+            "source": "Centre numérique communautaire",
+            "translated": "Community Digital Center"
+        },
+        "current_2_text": {
+            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
+            "translated": "Creation of internet access spaces and training in digital tools in Limete."
+        },
+        "done_1_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "“Know your rights” campaign"
+        },
+        "done_1_text": {
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
+            "translated": "Human rights awareness workshops reaching more than 600 young people in Kinshasa."
+        },
+        "done_2_title": {
+            "source": "Microcrédits pour femmes entrepreneures",
+            "translated": "Microcredits for women entrepreneurs"
+        },
+        "done_2_text": {
+            "source": "Appui financier et formation pour 80 femmes afin de lancer leur activité génératrice de revenus.",
+            "translated": "Financial support and training for 80 women to launch their income-generating activity."
+        },
+        "future_1_title": {
+            "source": "Programme \"Tech pour tous\"",
+            "translated": "“Tech for all” program"
+        },
+        "future_1_text": {
+            "source": "Initiation à la programmation web pour 100 jeunes défavorisés.",
+            "translated": "Introduction to web programming for 100 disadvantaged young people."
+        },
+        "future_2_title": {
+            "source": "Plateforme en ligne de bénévolat",
+            "translated": "Online volunteering platform"
+        },
+        "future_2_text": {
+            "source": "Outil interactif pour connecter bénévoles et projets communautaires dans toute la RDC.",
+            "translated": "Interactive tool to connect volunteers and community projects throughout the DRC."
+        },
+        "gallery_title": {
+            "source": "Galerie",
+            "translated": "Gallery"
+        },
+        "gallery_desc": {
+            "source": "Quelques images de nos réalisations et activités sur le terrain.",
+            "translated": "Some images of our achievements and activities in the field."
+        },
+        "projet": {
+            "source": "PROJETS",
+            "translated": "PROJECTS"
+        }
+    },
+    "contact": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "HOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "entre_cont": {
+            "source": "Entrer en contact",
+            "translated": "Get in touch"
+        },
+        "hero_title": {
+            "source": "Nous serions ravis d'",
+            "translated": "We would be delighted to"
+        },
+        "hero_title_span": {
+            "source": "avoir de vos nouvelles.",
+            "translated": "hear from you."
+        },
+        "visit_title": {
+            "source": "Visitez notre bureau",
+            "translated": "Visit our office"
+        },
+        "visit_address": {
+            "source": "Avenue Nyangwe 225, Commune de Lingwala",
+            "translated": "Nyangwe Avenue 225, Lingwala Commune"
+        },
+        "call_title": {
+            "source": "Appelez-nous",
+            "translated": "Call us"
+        },
+        "call_phone": {
+            "source": "+243 813 204 632",
+            "translated": "+243 813 204 632"
+        },
+        "call_schedule": {
+            "source": "Lundi – Vendredi, 8h – 16h",
+            "translated": "Monday – Friday, 8 a.m. – 4 p.m."
+        },
+        "email_title": {
+            "source": "Envoyez-nous un email",
+            "translated": "Send us an email"
+        },
+        "email_address": {
+            "source": "rhinosplus@outlook.fr",
+            "translated": "rhinosplus@outlook.fr"
+        },
+        "email_reply": {
+            "source": "Nous répondons instantanément",
+            "translated": "We respond instantly"
+        },
+        "form_badge": {
+            "source": "Envoyer un message",
+            "translated": "Send a message"
+        },
+        "form_title": {
+            "source": "Réservez une",
+            "translated": "Book a"
+        },
+        "form_title_span": {
+            "source": "consultation gratuite",
+            "translated": "free consultation"
+        },
+        "form_subtitle": {
+            "source": "Remplissez le formulaire et l'un de nos conseillers vous contactera dans l'heure.",
+            "translated": "Complete the form and one of our advisors will contact you within the hour."
+        },
+        "full_name_label": {
+            "source": "NOM COMPLET",
+            "translated": "FULL NAME"
+        },
+        "full_name_placeholder": {
+            "source": "Votre nom complet",
+            "translated": "Your full name"
+        },
+        "email_label": {
+            "source": "ADRESSE EMAIL",
+            "translated": "E-MAIL ADDRESS"
+        },
+        "email_placeholder": {
+            "source": "Votre email",
+            "translated": "Your email"
+        },
+        "phone_label": {
+            "source": "NUMÉRO DE TÉLÉPHONE",
+            "translated": "PHONE NUMBER"
+        },
+        "phone_placeholder": {
+            "source": "Votre téléphone",
+            "translated": "Your phone"
+        },
+        "service_label": {
+            "source": "MISSION D'INTÉRÊT",
+            "translated": "MISSION OF INTEREST"
+        },
+        "service_human_rights": {
+            "source": "Droits humains",
+            "translated": "Human rights"
+        },
+        "service_women": {
+            "source": "Autonomisation de la femme",
+            "translated": "Empowerment of women"
+        },
+        "service_technology": {
+            "source": "Accès aux outils technologiques",
+            "translated": "Access to technological tools"
+        },
+        "message_label": {
+            "source": "VOTRE MESSAGE",
+            "translated": "YOUR MESSAGE"
+        },
+        "message_placeholder": {
+            "source": "Entrez votre message...",
+            "translated": "Enter your message..."
+        },
+        "submit_button": {
+            "source": "Envoyer le message",
+            "translated": "Send message"
+        },
+        "why_choose_title": {
+            "source": "Pourquoi nos clients nous choisissent",
+            "translated": "Why our customers choose us"
+        },
+        "value_1": {
+            "source": "Innovation",
+            "translated": "Innovation"
+        },
+        "value_2": {
+            "source": "Fiabilité",
+            "translated": "Reliability"
+        },
+        "value_3": {
+            "source": "Intégrité",
+            "translated": "Integrity"
+        },
+        "value_4": {
+            "source": "Excellence",
+            "translated": "Excellency"
+        },
+        "value_5": {
+            "source": "Accessibilité",
+            "translated": "Accessibility"
+        },
+        "service_hours_title": {
+            "source": "Heures de service",
+            "translated": "Hours of Service"
+        },
+        "weekday": {
+            "source": "Lundi – Vendredi",
+            "translated": "Monday – Friday"
+        },
+        "weekday_hours": {
+            "source": "8:00 – 17:00",
+            "translated": "8:00 – 17:00"
+        },
+        "saturday": {
+            "source": "Samedi",
+            "translated": "SATURDAY"
+        },
+        "saturday_hours": {
+            "source": "08:00 – 12:00",
+            "translated": "08:00 – 12:00"
+        },
+        "sunday": {
+            "source": "Dimanche",
+            "translated": "Sunday"
+        },
+        "sunday_hours": {
+            "source": "Fermé",
+            "translated": "Farm"
+        },
+        "social_contact_title": {
+            "source": "Suivez-nous",
+            "translated": "Follow us"
+        }
+    },
+    "mission": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "HOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        },
+        "page_title": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "main_title": {
+            "source": "NOTRE MISSION",
+            "translated": "OUR MISSION"
+        },
+        "main_description": {
+            "source": "Chez Community Development (CD), nous croyons que chaque être humain, quel que soit son genre, son origine ou son statut social, a le droit de vivre dans la dignité, d'avoir accès aux ressources nécessaires pour s'épanouir et de contribuer activement au développement de sa communauté.",
+            "translated": "At Community Development (CD), we believe that every human being, regardless of gender, origin or social status, has the right to live with dignity, to have access to the resources necessary to flourish and to actively contribute to the development of their community."
+        },
+        "mission_statement_intro": {
+            "source": "Notre mission est claire et ambitieuse :",
+            "translated": "Our mission is clear and ambitious:"
+        },
+        "mission_statement": {
+            "source": "Promouvoir le bien-être humain à travers la défense des droits fondamentaux, l'autonomisation des femmes et l'accès équitable aux technologies utiles.",
+            "translated": "Promote human well-being through the defense of fundamental rights, the empowerment of women and equitable access to useful technologies."
+        },
+        "axe_title_defense": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "axe_list_defense": {
+            "source": [
+                "Informer et éduquer les populations sur leurs droits",
+                "Promouvoir la justice sociale et la paix",
+                "Lutter contre toutes formes de discriminations"
+            ],
+            "translated": [
+                "Inform and educate populations about their rights",
+                "Promoting social justice and peace",
+                "Fight against all forms of discrimination"
+            ]
+        },
+        "axe_title_autonomisation": {
+            "source": "Autonomisation",
+            "translated": "Empowerment"
+        },
+        "axe_list_autonomisation": {
+            "source": [
+                "Offrir des formations professionnelles, entreprenariales et en leadership",
+                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Valoriser les talents féminins comme moteurs du changement"
+            ],
+            "translated": [
+                "Offer professional, entrepreneurial and leadership training",
+                "Establish mechanisms for access to zero-interest microfinancing",
+                "Promote female talents as drivers of change"
+            ]
+        },
+        "axe_title_tech": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "axe_list_tech": {
+            "source": [
+                "Réduire la facture numérique dans les milieux défavorisés",
+                "Promouvoir l'utilisation des TIC dans l'éducation, la santé et l'emploi",
+                "Initier les jeunes aux compétences numériques de demain"
+            ],
+            "translated": [
+                "Reduce the digital bill in disadvantaged areas",
+                "Promoting the use of ICT in education, health and employment",
+                "Introducing young people to the digital skills of tomorrow"
+            ]
+        },
+        "why_mission_title": {
+            "source": "Pourquoi cette mission",
+            "translated": "Why this mission"
+        },
+        "why_mission_desc": {
+            "source": "La République Démocratique du Congo, riche de sa diversité, fait face à de nombreux défis : pauvreté, inégalités sociales, marginalisation des femmes, accès limité à l'innovation. Face à cela, l'ONG CD agit comme un pont entre le potentiel des communautés et les moyens de leur développement.",
+            "translated": "The Democratic Republic of Congo, rich in its diversity, faces many challenges: poverty, social inequalities, marginalization of women, limited access to innovation. Faced with this, the NGO CD acts as a bridge between the potential of communities and the means of their development."
+        },
+        "why_mission_goal": {
+            "source": "Nous travaillons sur le terrain, au plus près des populations, pour construire une société :",
+            "translated": "We work on the ground, close to the populations, to build a society:"
+        },
+        "why_mission_values": {
+            "source": [
+                "PLUS JUSTE",
+                "PLUS EQUITABLE",
+                "PLUS INCLUSIVE",
+                "PLUS RESILIENTE GRACE A LA TECHNOLOGIE"
+            ],
+            "translated": [
+                "FAIR",
+                "MORE FAIR",
+                "MORE INCLUSIVE",
+                "MORE RESILIENT THANKS TO TECHNOLOGY"
+            ]
+        },
+        "human_rights_title": {
+            "source": "Droits Humains",
+            "translated": "Human Rights"
+        },
+        "human_rights_desc": {
+            "source": "Promouvoir, protéger et défendre les droits fondamentaux pour bâtir une société juste et inclusive.",
+            "translated": "Promote, protect and defend fundamental rights to build a just and inclusive society."
+        },
+        "human_rights_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Our goal"
+        },
+        "human_rights_objective_desc": {
+            "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
+            "translated": "Reduce social and economic inequalities by guaranteeing equitable access to justice, information and opportunities for all, without discrimination."
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Sensibilisation": "Workshops, conferences and educational materials to provide information on fundamental rights.",
+                "Accompagnement": "Legal support and advocacy for participatory and respectful governance.",
+                "Lutte contre les discriminations": "Prevention of gender-based violence and promotion of equality.",
+                "Renforcement des capacités": "Training for community leaders and creation of local defense committees."
+            }
+        },
+        "human_rights_impact_title": {
+            "source": "Impact attendu",
+            "translated": "Expected impact"
+        },
+        "human_rights_impact_list": {
+            "source": [
+                "Citoyens mieux informés et confiants pour défendre leurs droits",
+                "Réduction des discriminations et injustices",
+                "Renforcement du lien social et de la paix"
+            ],
+            "translated": [
+                "Citizens better informed and confident to defend their rights",
+                "Reduction of discrimination and injustice",
+                "Strengthening social bonds and peace"
+            ]
+        },
+        "human_rights_cta": {
+            "source": [
+                "Participer à nos campagnes",
+                "Faire un don"
+            ],
+            "translated": [
+                "Participate in our campaigns",
+                "Make a donation"
+            ]
+        },
+        "women_empowerment_title": {
+            "source": "Autonomisation des Femmes",
+            "translated": "Women Empowerment"
+        },
+        "women_empowerment_desc": {
+            "source": "Donner aux femmes les moyens économiques, sociaux et intellectuels pour s’épanouir et devenir actrices du changement.",
+            "translated": "Give women the economic, social and intellectual means to flourish and become actors of change."
+        },
+        "women_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Our goal"
+        },
+        "women_objective_desc": {
+            "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
+            "translated": "We believe that the empowerment of women is an essential lever for sustainable development. Through training, support and financial support, we give women and girls the tools they need to transform their lives and their communities."
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "Formation professionnelle": "Leadership workshops, financial management and entrepreneurial skills development.",
+                "Microcrédits à taux zéro": "Financial support to launch or develop an income-generating activity.",
+                "Réseaux de mentorat": "Connecting with women leaders to share experiences and advice.",
+                "Alphabétisation numérique": "Introduction to the use of digital tools to expand opportunities."
+            }
+        },
+        "women_testimonial": {
+            "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
+            "translated": "“Thanks to CD’s microcredit program, I was able to open my shop and provide for my children. Today, I train other women to do the same.” — Sarah, beneficiary"
+        },
+        "women_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "Impact in numbers"
+        },
+        "women_impact_list": {
+            "source": [
+                "+180 femmes formées depuis 2022",
+                "80 microcrédits attribués",
+                "30 projets féminins accompagnés chaque année"
+            ],
+            "translated": [
+                "+180 women trained since 2022",
+                "80 microcredits awarded",
+                "30 female projects supported each year"
+            ]
+        },
+        "women_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir mentor"
+            ],
+            "translated": [
+                "Support this program",
+                "Become a mentor"
+            ]
+        },
+        "tech_inclusion_title": {
+            "source": "Inclusion Technologique & Numérique",
+            "translated": "Technological & Digital Inclusion"
+        },
+        "tech_inclusion_desc": {
+            "source": "Mettre la technologie au service du développement social et économique pour réduire la fracture numérique et ouvrir de nouvelles opportunités.",
+            "translated": "Put technology at the service of social and economic development to reduce the digital divide and open up new opportunities."
+        },
+        "tech_objective_title": {
+            "source": "Notre objectif",
+            "translated": "Our goal"
+        },
+        "tech_objective_desc": {
+            "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
+            "translated": "In an increasingly connected world, access to technology is an essential right to fully participate in society. We work to make digital tools accessible to everyone, especially disadvantaged communities, to improve education, employment and access to information."
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Formations numériques": "Introduction to computers, office automation, internet browsing and online security.",
+                "Outils technologiques utiles": "Distribution of applications for education, health and local commerce.",
+                "Centres numériques communautaires": "Spaces for access to the internet and modern equipment in disadvantaged areas.",
+                "Innovation sociale": "Organizing hackathons and workshops to create local solutions to community problems."
+            }
+        },
+        "tech_testimonial": {
+            "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
+            "translated": "“Before joining the digital CD workshops, I didn’t even know how to use a computer. Today, I manage my small online store.” — Jean-Paul, participant"
+        },
+        "tech_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "Impact in numbers"
+        },
+        "tech_impact_list": {
+            "source": [
+                "+150 jeunes formés aux compétences numériques",
+                "3 centres communautaires équipés",
+                "+50 projets numériques locaux soutenus"
+            ],
+            "translated": [
+                "+150 young people trained in digital skills",
+                "3 equipped community centers",
+                "+50 local digital projects supported"
+            ]
+        },
+        "tech_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir formateur"
+            ],
+            "translated": [
+                "Support this program",
+                "Become a trainer"
+            ]
+        },
+        "contact_mail_title": {
+            "source": "Envoyez-nous un courriel",
+            "translated": "Send us an email"
+        },
+        "contact_mail_name": {
+            "source": "Nom",
+            "translated": "Name"
+        },
+        "contact_mail_email": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_mail_placeholder": {
+            "source": "Entrer votre message...",
+            "translated": "Enter your message..."
+        },
+        "contact_mail_button": {
+            "source": "Envoyer",
+            "translated": "Send"
+        }
+    },
+    "accueil": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "HOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "video_unsupported": {
+            "source": "Votre navigateur ne supporte pas la vidéo.",
+            "translated": "Your browser does not support video."
+        },
+        "main_title": {
+            "source": "Love, Energy and Excellence for a Better Future",
+            "translated": "Love, Energy and Excellence for a Better Future"
+        },
+        "main_subtitle": {
+            "source": "-------- Together, let's build a better future",
+            "translated": "-------- Together, let's build a better future"
+        },
+        "donate_btn": {
+            "source": "FAIRE UN DON",
+            "translated": "MAKE A DONATION"
+        },
+        "historique_title": {
+            "source": "Bienvenue chez Community Development",
+            "translated": "Welcome to Community Development"
+        },
+        "historique_text1": {
+            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "Community Development is a Congolese organization committed to promoting fundamental rights, developing female leadership and reducing inequalities in access to technological opportunities."
+        },
+        "historique_text": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
+            "translated": "Community Development, acronym NGO CD, is a Non-Governmental Organization under Congolese law created in Kinshasa, in the Democratic Republic of Congo. It acts with a logic of sustainable social impact, in accordance with Law No. 004/2001 of July 20 laying down general provisions applicable to non-profit associations."
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "Assignment"
+        },
+        "mission_text": {
+            "source": "L'ONG CD a pour mission de promouvoir le bien-être humain par :",
+            "translated": "The NGO CD's mission is to promote human well-being through:"
+        },
+        "mission_li1": {
+            "source": "La défense et la promotion des droits fondamentaux;",
+            "translated": "The defense and promotion of fundamental rights;"
+        },
+        "mission_li2": {
+            "source": "L'autonomisation économique des femmes et des jeunes filles;",
+            "translated": "Economic empowerment of women and girls;"
+        },
+        "mission_li3": {
+            "source": "L'accès équitable à l'innovation technologique comme levier de développement.",
+            "translated": "Equitable access to technological innovation as a lever for development."
+        },
+        "learn_more": {
+            "source": "En savoir plus→",
+            "translated": "Learn more→"
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "Vision"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu indépendamment de son genre, statut ou origine a les moyens de s'épanouir et de contribuer au développement de sa communauté.",
+            "translated": "Build a fair, inclusive and technologically advanced Congolese society, where each individual regardless of their gender, status or origin has the means to flourish and contribute to the development of their community."
+        },
+        "why_choose_us": {
+            "source": "Pourquoi nous choisir",
+            "translated": "Why choose us"
+        },
+        "values_amour": {
+            "source": "AMOUR",
+            "translated": "LOVE"
+        },
+        "values_amour_text": {
+            "source": "L'humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "People at the center of all action, with compassion and solidarity."
+        },
+        "values_dynamisme": {
+            "source": "DYNAMISME",
+            "translated": "DYNAMISM"
+        },
+        "values_dynamisme_text": {
+            "source": "Une volonté constante de progresser, d'innover et d'agir concrètement.",
+            "translated": "A constant desire to progress, innovate and take concrete action."
+        },
+        "values_professionalisme": {
+            "source": "PROFESSIONALISME",
+            "translated": "PROFESSIONALISM"
+        },
+        "values_professionalisme_text": {
+            "source": "Rigueur, compétence et éthique dans tous les engagements.",
+            "translated": "Rigor, competence and ethics in all commitments."
+        },
+        "domaine_title": {
+            "source": "Domaine d'action",
+            "translated": "Area of ​​action"
+        },
+        "domaine_droits": {
+            "source": "Droits Humains",
+            "translated": "Human Rights"
+        },
+        "dom_droit": {
+            "source": "Protection, sensibilisation, accompagnement.",
+            "translated": "Protection, awareness, support."
+        },
+        "domaine_femmes": {
+            "source": "Autonomisation des Femmes",
+            "translated": "Women Empowerment"
+        },
+        "dom_femme": {
+            "source": "Formation, entrepreneuriat, leadership.",
+            "translated": "Training, entrepreneurship, leadership."
+        },
+        "domaine_tech": {
+            "source": "Technologie",
+            "translated": "Technology"
+        },
+        "dom_tech": {
+            "source": "Éducation numérique, accès aux outils technologiques.",
+            "translated": "Digital education, access to technological tools."
+        },
+        "ensavoir": {
+            "source": "En savoir plus",
+            "translated": "Learn more"
+        },
+        "projects_title": {
+            "source": "Projets en Cours",
+            "translated": "Current Projects"
+        },
+        "project1_title": {
+            "source": "Formation en Leadership",
+            "translated": "Leadership Training"
+        },
+        "project1_text": {
+            "source": "Programme pour renforcer la capacité de jeunes femmes à prendre des décisions et diriger des initiatives locales.",
+            "translated": "Program to strengthen the capacity of young women to make decisions and lead local initiatives."
+        },
+        "project2_title": {
+            "source": "Centre Numérique Communautaire",
+            "translated": "Community Digital Center"
+        },
+        "project2_text": {
+            "source": "Création d’espaces d’accès à internet et aux outils numériques dans les quartiers défavorisés.",
+            "translated": "Creation of spaces for access to the internet and digital tools in disadvantaged neighborhoods."
+        },
+        "project3_title": {
+            "source": "Campagne “Connais tes Droits”",
+            "translated": "“Know your Rights” campaign"
+        },
+        "project3_text": {
+            "source": "Ateliers et conférences pour sensibiliser la population à ses droits fondamentaux.",
+            "translated": "Workshops and conferences to raise awareness among the population about their fundamental rights."
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        },
+        "actualite_rec": {
+            "source": "Actualités récentes",
+            "translated": "Recent news"
+        },
+        "team_title": {
+            "source": "Notre équipe à votre disposition",
+            "translated": "Our team at your disposal"
+        },
+        "team_president": {
+            "source": "PRESIDENTE \nMme. Nathalie AMUDIANDROY",
+            "translated": "PRESIDENT \nMrs. Nathalie AMUDIANDROY"
+        },
+        "team_vice_president": {
+            "source": "VICE-PRESIDENT \nMr. Nathan MAYABU",
+            "translated": "VICE-PRESIDENT \nMr. Nathan MAYABU"
+        },
+        "team_secretary": {
+            "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
+            "translated": "GENERAL SECRETARY \nMr. Thank God LUSAMBA"
+        }
+    },
+    "donation": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "WELCOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        }
+    },
+    "apropos": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "WELCOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        },
+        "apropos": {
+            "source": "A PROPOS DE NOUS",
+            "translated": "ABOUT US"
+        },
+        "ceo_title": {
+            "source": "Message de la CEO",
+            "translated": "Message from the CEO"
+        },
+        "ceo_text": {
+            "source": "Community Development (CD) est une organisation congolaise engagée pour la justice sociale, l’inclusion technologique et l’égalité des chances.",
+            "translated": "Community Development (CD) is a Congolese organization committed to social justice, technological inclusion and equal opportunities."
+        },
+        "ceo_name": {
+            "source": "Nathalie AMUDIANDROY",
+            "translated": "Nathalie AMUDIANDROY"
+        },
+        "motto": {
+            "source": "Sous la devise « Together, let’s build a better future »",
+            "translated": "Under the motto “Together, let’s build a better future”"
+        },
+        "history_1": {
+            "source": "Community Development est née de la volonté profonde de combler les lacunes laissées par les institutions publiques en matière de justice sociale, d’inclusion technologique et d’égalité des chances. Fondée à Kinshasa par Mme Amudiandroy Embela Nathalie, l’ONG a été pensée comme une réponse concrète aux réalités du terrain : pauvreté persistante, marginalisation des femmes, jeunes livrés à eux-mêmes, et absence d’accès à des solutions technologiques utiles dans les milieux défavorisés. La création de Community Development est le fruit de plusieurs années d’observation, de mobilisation communautaire et de réflexion sur des moyens concrets d’apporter un changement social durable.",
+            "translated": "Community Development was born from the deep desire to fill the gaps left by public institutions in terms of social justice, technological inclusion and equal opportunities. Founded in Kinshasa by Ms. Amudiandroy Embela Nathalie, the NGO was designed as a concrete response to realities on the ground: persistent poverty, marginalization of women, young people left to their own devices, and lack of access to useful technological solutions in disadvantaged areas. The creation of Community Development is the result of several years of observation, community mobilization and reflection on concrete ways to bring about lasting social change."
+        },
+        "history_2": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d’impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif. Le siège de l’ONG est situé à l’adresse suivante : n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo. Il peut être transféré en cas de nécessité, selon décision de la fondatrice.",
+            "translated": "Community Development, acronym NGO CD, is a Non-Governmental Organization under Congolese law created in Kinshasa, in the Democratic Republic of Congo. It acts with a logic of sustainable social impact, in accordance with Law No. 004/2001 of July 20 laying down general provisions applicable to non-profit associations. The headquarters of the NGO is located at the following address: n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo. It can be transferred if necessary, according to the decision of the founder."
+        },
+        "structure_title": {
+            "source": "Structure de l’ONG",
+            "translated": "Structure of the NGO"
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "Assignment"
+        },
+        "mission_text": {
+            "source": "Promouvoir le bien-être humain par la défense des droits fondamentaux, l’autonomisation économique des femmes et l’accès équitable à l’innovation technologique.",
+            "translated": "Promote human well-being through the defense of fundamental rights, the economic empowerment of women and equitable access to technological innovation."
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "Vision"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu a les moyens de s’épanouir et de contribuer au développement de sa communauté.",
+            "translated": "Build a fair, inclusive and technologically advanced Congolese society, where each individual has the means to flourish and contribute to the development of their community."
+        },
+        "values_title": {
+            "source": "Valeurs",
+            "translated": "Values"
+        },
+        "value_amour": {
+            "source": "Amour",
+            "translated": "Love"
+        },
+        "value_amour_text": {
+            "source": "Mettre l’humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "Put people at the center of all action, with compassion and solidarity."
+        },
+        "value_dynamisme": {
+            "source": "Dynamisme",
+            "translated": "Dynamism"
+        },
+        "value_dynamisme_text": {
+            "source": "Agir avec volonté, innovation et efficacité.",
+            "translated": "Act with will, innovation and efficiency."
+        },
+        "value_professionnalisme": {
+            "source": "Professionnalisme",
+            "translated": "Professionalism"
+        },
+        "value_professionnalisme_text": {
+            "source": "Travailler avec rigueur, compétence et éthique.",
+            "translated": "Work with rigor, competence and ethics."
+        },
+        "equipe": {
+            "source": "Notre équipe",
+            "translated": "Our team"
+        },
+        "pre": {
+            "source": "Présidente fondatrice",
+            "translated": "Founding President"
+        },
+        "v_pre": {
+            "source": "Vice-président",
+            "translated": "Vice-president"
+        },
+        "sg": {
+            "source": "Secrétaire Général",
+            "translated": "Secretary General"
+        },
+        "cj": {
+            "source": "Conseiller Juridique",
+            "translated": "Legal Advisor"
+        },
+        "rp": {
+            "source": "Relations Publiques",
+            "translated": "Public relations"
+        },
+        "rd_d": {
+            "source": "Responsable du Département de droit",
+            "translated": "Head of the Law Department"
+        },
+        "it": {
+            "source": "IT",
+            "translated": "IT"
+        },
+        "rd_af": {
+            "source": "Responsable du Département d'autonomisation de la femme",
+            "translated": "Head of Women's Empowerment Department"
+        },
+        "com": {
+            "source": "Communication",
+            "translated": "Communication"
+        }
+    },
+    "actualite": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "WELCOME"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "ASSIGNMENT"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "ABOUT"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "PROJECT"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "DONATION"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "CONTACT"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "Research"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Contact us"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Phone"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "E-mail"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Address"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Social networks"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "Subscribe to our Newsletter"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "Receive our latest news directly in your inbox"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "Enter your name"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "Enter your Email"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "Subscribe"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 Community Development | All rights reserved"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
+        },
+        "actualite": {
+            "source": "ACTUALITÉ",
+            "translated": "NEWS"
+        },
+        "intro": {
+            "source": "Restez informé de nos dernières actions, événements, communiqués et publications.",
+            "translated": "Stay informed of our latest actions, events, press releases and publications."
+        },
+        "article1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "Women's leadership training"
+        },
+        "article1_text": {
+            "source": "CD a formé 50 jeunes femmes à la prise de décision et à la gestion de projets communautaires.",
+            "translated": "CD trained 50 young women in decision-making and community project management."
+        },
+        "article2_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "“Know your rights” campaign"
+        },
+        "article2_text": {
+            "source": "Une tournée de sensibilisation aux droits humains a touché plus de 600 jeunes à Kinshasa.",
+            "translated": "A human rights awareness tour reached more than 600 young people in Kinshasa."
+        },
+        "article3_title": {
+            "source": "Ouverture d’un centre numérique",
+            "translated": "Opening of a digital center"
+        },
+        "article3_text": {
+            "source": "Un nouvel espace d’accès à internet et à la formation numérique a ouvert ses portes à Limete.",
+            "translated": "A new space for access to the internet and digital training has opened its doors in Limete."
+        },
+        "read_more": {
+            "source": "Lire la suite →",
+            "translated": "Read more →"
+        },
+        "gallery_title": {
+            "source": "Galerie Photo & Vidéo",
+            "translated": "Photo & Video Gallery"
+        },
+        "gallery_desc": {
+            "source": "Revivez nos moments forts en images et vidéos.",
+            "translated": "Relive our highlights in images and videos."
+        }
+    }
+}

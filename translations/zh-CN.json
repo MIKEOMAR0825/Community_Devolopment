@@ -1,0 +1,1432 @@
+{
+    "actualite": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
+        },
+        "actualite": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "intro": {
+            "source": "Restez informé de nos dernières actions, événements, communiqués et publications.",
+            "translated": "随时了解我们的最新行动、活动、新闻稿和出版物。"
+        },
+        "article1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "女性领导力培训"
+        },
+        "article1_text": {
+            "source": "CD a formé 50 jeunes femmes à la prise de décision et à la gestion de projets communautaires.",
+            "translated": "CD 对 50 名年轻女性进行了决策和社区项目管理方面的培训。"
+        },
+        "article2_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "“了解你的权利”活动"
+        },
+        "article2_text": {
+            "source": "Une tournée de sensibilisation aux droits humains a touché plus de 600 jeunes à Kinshasa.",
+            "translated": "金沙萨的 600 多名年轻人参加了人权意识之旅。"
+        },
+        "article3_title": {
+            "source": "Ouverture d’un centre numérique",
+            "translated": "开设数字中心"
+        },
+        "article3_text": {
+            "source": "Un nouvel espace d’accès à internet et à la formation numérique a ouvert ses portes à Limete.",
+            "translated": "一个用于访问互联网和数字培训的新空间已在 Limete 敞开大门。"
+        },
+        "read_more": {
+            "source": "Lire la suite →",
+            "translated": "阅读更多→"
+        },
+        "gallery_title": {
+            "source": "Galerie Photo & Vidéo",
+            "translated": "照片和视频库"
+        },
+        "gallery_desc": {
+            "source": "Revivez nos moments forts en images et vidéos.",
+            "translated": "通过图像和视频重温我们的精彩片段。"
+        }
+    },
+    "project": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
+        },
+        "projet": {
+            "source": "PROJETS",
+            "translated": "项目"
+        },
+        "intro": {
+            "source": "Découvrez nos initiatives en cours, nos réalisations et nos projets à venir qui transforment des vies chaque jour.",
+            "translated": "了解我们当前的举措、我们的成就以及我们即将推出的改变日常生活的项目。"
+        },
+        "current_projects": {
+            "source": "Projets en cours",
+            "translated": "目前的项目"
+        },
+        "completed_projects": {
+            "source": "Projets réalisés",
+            "translated": "已完成项目"
+        },
+        "upcoming_projects": {
+            "source": "Projets à venir",
+            "translated": "即将开展的项目"
+        },
+        "current_1_title": {
+            "source": "Formation en leadership féminin",
+            "translated": "女性领导力培训"
+        },
+        "current_1_text": {
+            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
+            "translated": "加强 50 名年轻女性的项目管理和社区决策技能。"
+        },
+        "current_2_title": {
+            "source": "Centre numérique communautaire",
+            "translated": "社区数字中心"
+        },
+        "current_2_text": {
+            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
+            "translated": "在 Limete 创建互联网接入空间并进行数字工具培训。"
+        },
+        "done_1_title": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "“了解你的权利”活动"
+        },
+        "done_1_text": {
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
+            "translated": "金沙萨为 600 多名年轻人举办了人权意识讲习班。"
+        },
+        "done_2_title": {
+            "source": "Microcrédits pour femmes entrepreneures",
+            "translated": "为女企业家提供小额信贷"
+        },
+        "done_2_text": {
+            "source": "Appui financier et formation pour 80 femmes afin de lancer leur activité génératrice de revenus.",
+            "translated": "为 80 名妇女开展创收活动提供财政支持和培训。"
+        },
+        "future_1_title": {
+            "source": "Programme \"Tech pour tous\"",
+            "translated": "“科技惠及所有人”计划"
+        },
+        "future_1_text": {
+            "source": "Initiation à la programmation web pour 100 jeunes défavorisés.",
+            "translated": "为 100 名弱势年轻人介绍网络编程。"
+        },
+        "future_2_title": {
+            "source": "Plateforme en ligne de bénévolat",
+            "translated": "在线志愿服务平台"
+        },
+        "future_2_text": {
+            "source": "Outil interactif pour connecter bénévoles et projets communautaires dans toute la RDC.",
+            "translated": "连接整个刚果民主共和国的志愿者和社区项目的互动工具。"
+        },
+        "gallery_title": {
+            "source": "Galerie",
+            "translated": "画廊"
+        },
+        "gallery_desc": {
+            "source": "Quelques images de nos réalisations et activités sur le terrain.",
+            "translated": "我们在该领域取得的成就和活动的一些图片。"
+        }
+    },
+    "contact": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "entre_cont": {
+            "source": "Entrer en contact",
+            "translated": "联系我们"
+        },
+        "hero_title": {
+            "source": "Nous serions ravis d'",
+            "translated": "我们很高兴"
+        },
+        "hero_title_span": {
+            "source": "avoir de vos nouvelles.",
+            "translated": "收到你的来信。"
+        },
+        "visit_title": {
+            "source": "Visitez notre bureau",
+            "translated": "参观我们的办公室"
+        },
+        "visit_address": {
+            "source": "Avenue Nyangwe 225, Commune de Lingwala",
+            "translated": "Nyangwe Avenue 225, Lingwala 公社"
+        },
+        "call_title": {
+            "source": "Appelez-nous",
+            "translated": "致电我们"
+        },
+        "call_phone": {
+            "source": "+243 813 204 632",
+            "translated": "+243 813 204 632"
+        },
+        "call_schedule": {
+            "source": "Lundi – Vendredi, 8h – 16h",
+            "translated": "周一至周五，上午 8 点至下午 4 点"
+        },
+        "email_title": {
+            "source": "Envoyez-nous un email",
+            "translated": "给我们发电子邮件"
+        },
+        "email_address": {
+            "source": "rhinosplus@outlook.fr",
+            "translated": "rhinosplus@outlook.fr"
+        },
+        "email_reply": {
+            "source": "Nous répondons instantanément",
+            "translated": "我们立即回复"
+        },
+        "form_badge": {
+            "source": "Envoyer un message",
+            "translated": "发送消息"
+        },
+        "form_title": {
+            "source": "Réservez une",
+            "translated": "预订"
+        },
+        "form_title_span": {
+            "source": "consultation gratuite",
+            "translated": "免费咨询"
+        },
+        "form_subtitle": {
+            "source": "Remplissez le formulaire et l'un de nos conseillers vous contactera dans l'heure.",
+            "translated": "填写表格，我们的顾问将在一小时内与您联系。"
+        },
+        "full_name_label": {
+            "source": "NOM COMPLET",
+            "translated": "姓名"
+        },
+        "full_name_placeholder": {
+            "source": "Votre nom complet",
+            "translated": "你的全名"
+        },
+        "email_label": {
+            "source": "ADRESSE EMAIL",
+            "translated": "电子邮件"
+        },
+        "email_placeholder": {
+            "source": "Votre email",
+            "translated": "您的电子邮件"
+        },
+        "phone_label": {
+            "source": "NUMÉRO DE TÉLÉPHONE",
+            "translated": "电话号码"
+        },
+        "phone_placeholder": {
+            "source": "Votre téléphone",
+            "translated": "你的电话"
+        },
+        "service_label": {
+            "source": "MISSION D'INTÉRÊT",
+            "translated": "兴趣使命"
+        },
+        "service_human_rights": {
+            "source": "Droits humains",
+            "translated": "人权"
+        },
+        "service_women": {
+            "source": "Autonomisation de la femme",
+            "translated": "赋予妇女权力"
+        },
+        "service_technology": {
+            "source": "Accès aux outils technologiques",
+            "translated": "获得技术工具"
+        },
+        "message_label": {
+            "source": "VOTRE MESSAGE",
+            "translated": "您的留言"
+        },
+        "message_placeholder": {
+            "source": "Entrez votre message...",
+            "translated": "输入您的留言..."
+        },
+        "submit_button": {
+            "source": "Envoyer le message",
+            "translated": "发送消息"
+        },
+        "why_choose_title": {
+            "source": "Pourquoi nos clients nous choisissent",
+            "translated": "为什么我们的客户选择我们"
+        },
+        "value_1": {
+            "source": "Innovation",
+            "translated": "创新"
+        },
+        "value_2": {
+            "source": "Fiabilité",
+            "translated": "可靠性"
+        },
+        "value_3": {
+            "source": "Intégrité",
+            "translated": "正直"
+        },
+        "value_4": {
+            "source": "Excellence",
+            "translated": "阁下"
+        },
+        "value_5": {
+            "source": "Accessibilité",
+            "translated": "无障碍"
+        },
+        "service_hours_title": {
+            "source": "Heures de service",
+            "translated": "服务时间"
+        },
+        "weekday": {
+            "source": "Lundi – Vendredi",
+            "translated": "周一至周五"
+        },
+        "weekday_hours": {
+            "source": "8:00 – 17:00",
+            "translated": "8:00 – 17:00"
+        },
+        "saturday": {
+            "source": "Samedi",
+            "translated": "周六"
+        },
+        "saturday_hours": {
+            "source": "08:00 – 12:00",
+            "translated": "08:00 – 12:00"
+        },
+        "sunday": {
+            "source": "Dimanche",
+            "translated": "星期日"
+        },
+        "sunday_hours": {
+            "source": "Fermé",
+            "translated": "农场"
+        },
+        "social_contact_title": {
+            "source": "Suivez-nous",
+            "translated": "跟着我们"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        }
+    },
+    "apropos": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
+        },
+        "apropos": {
+            "source": "A PROPOS DE NOUS",
+            "translated": "关于我们"
+        },
+        "ceo_title": {
+            "source": "Message de la CEO",
+            "translated": "首席执行官致辞"
+        },
+        "ceo_text": {
+            "source": "Community Development (CD) est une organisation congolaise engagée pour la justice sociale, l’inclusion technologique et l’égalité des chances.",
+            "translated": "社区发展 (CD) 是一个刚果组织，致力于社会正义、技术包容性和平等机会。"
+        },
+        "ceo_name": {
+            "source": "Nathalie AMUDIANDROY",
+            "translated": "娜塔莉·阿穆迪安德罗伊"
+        },
+        "motto": {
+            "source": "Sous la devise « Together, let’s build a better future »",
+            "translated": "以“携手共进，共创美好未来”为座右铭"
+        },
+        "history_1": {
+            "source": "Community Development est née de la volonté profonde de combler les lacunes laissées par les institutions publiques en matière de justice sociale, d’inclusion technologique et d’égalité des chances. Fondée à Kinshasa par Mme Amudiandroy Embela Nathalie, l’ONG a été pensée comme une réponse concrète aux réalités du terrain : pauvreté persistante, marginalisation des femmes, jeunes livrés à eux-mêmes, et absence d’accès à des solutions technologiques utiles dans les milieux défavorisés. La création de Community Development est le fruit de plusieurs années d’observation, de mobilisation communautaire et de réflexion sur des moyens concrets d’apporter un changement social durable.",
+            "translated": "社区发展源于填补公共机构在社会正义、技术包容性和平等机会方面留下的空白的强烈愿望。该非政府组织由 Amudiandroy Embela Nathalie 女士在金沙萨创立，旨在具体回应当地现实：持续贫困、妇女边缘化、年轻人自生自灭，以及弱势地区缺乏有用的技术解决方案。社区发展的创建是多年来观察、社区动员和对实现持久社会变革的具体方法反思的结果。"
+        },
+        "history_2": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d’impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif. Le siège de l’ONG est situé à l’adresse suivante : n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo. Il peut être transféré en cas de nécessité, selon décision de la fondatrice.",
+            "translated": "社区发展，缩写为 NGO CD，是根据刚果法律在刚果民主共和国金沙萨成立的非政府组织。根据 7 月 20 日颁布的第 004/2001 号法律，该法律制定了适用于非营利协会的一般规定，其行为遵循可持续社会影响的逻辑。该非政府组织的总部位于以下地址：n° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo。如有必要，可以根据创始人的决定进行转让。"
+        },
+        "structure_title": {
+            "source": "Structure de l’ONG",
+            "translated": "非政府组织的结构"
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "任务"
+        },
+        "mission_text": {
+            "source": "Promouvoir le bien-être humain par la défense des droits fondamentaux, l’autonomisation économique des femmes et l’accès équitable à l’innovation technologique.",
+            "translated": "通过捍卫基本权利、赋予妇女经济权力和公平获得技术创新来促进人类福祉。"
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "想象"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu a les moyens de s’épanouir et de contribuer au développement de sa communauté.",
+            "translated": "建设一个公平、包容和技术先进的刚果社会，让每个人都有机会蓬勃发展并为社区发展做出贡献。"
+        },
+        "values_title": {
+            "source": "Valeurs",
+            "translated": "价值观"
+        },
+        "value_amour": {
+            "source": "Amour",
+            "translated": "爱"
+        },
+        "value_amour_text": {
+            "source": "Mettre l’humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "以同情心和团结精神将人置于一切行动的中心。"
+        },
+        "value_dynamisme": {
+            "source": "Dynamisme",
+            "translated": "活力"
+        },
+        "value_dynamisme_text": {
+            "source": "Agir avec volonté, innovation et efficacité.",
+            "translated": "凭意志、创新和效率行事。"
+        },
+        "value_professionnalisme": {
+            "source": "Professionnalisme",
+            "translated": "专业精神"
+        },
+        "value_professionnalisme_text": {
+            "source": "Travailler avec rigueur, compétence et éthique.",
+            "translated": "工作严谨、能力强、道德高。"
+        },
+        "equipe": {
+            "source": "Notre équipe",
+            "translated": "我们的团队"
+        },
+        "pre": {
+            "source": "Présidente fondatrice",
+            "translated": "创会主席"
+        },
+        "v_pre": {
+            "source": "Vice-président",
+            "translated": "副总裁"
+        },
+        "sg": {
+            "source": "Secrétaire Général",
+            "translated": "秘书长"
+        },
+        "cj": {
+            "source": "Conseiller Juridique",
+            "translated": "法律顾问"
+        },
+        "rp": {
+            "source": "Relations Publiques",
+            "translated": "公共关系"
+        },
+        "rd_d": {
+            "source": "Responsable du Département de droit",
+            "translated": "法律部部长"
+        },
+        "it": {
+            "source": "IT",
+            "translated": "它"
+        },
+        "rd_af": {
+            "source": "Responsable du Département d'autonomisation de la femme",
+            "translated": "妇女赋权部部长"
+        },
+        "com": {
+            "source": "Communication",
+            "translated": "沟通"
+        }
+    },
+    "mission": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
+        },
+        "page_title": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "main_title": {
+            "source": "NOTRE MISSION",
+            "translated": "我们的使命"
+        },
+        "main_description": {
+            "source": "Chez Community Development (CD), nous croyons que chaque être humain, quel que soit son genre, son origine ou son statut social, a le droit de vivre dans la dignité, d'avoir accès aux ressources nécessaires pour s'épanouir et de contribuer activement au développement de sa communauté.",
+            "translated": "在社区发展 (CD)，我们相信每个人，无论性别、出身或社会地位如何，都有权有尊严地生活，有权获得蓬勃发展所需的资源，并积极为其社区的发展做出贡献。"
+        },
+        "mission_statement_intro": {
+            "source": "Notre mission est claire et ambitieuse :",
+            "translated": "我们的使命明确且雄心勃勃："
+        },
+        "mission_statement": {
+            "source": "Promouvoir le bien-être humain à travers la défense des droits fondamentaux, l'autonomisation des femmes et l'accès équitable aux technologies utiles.",
+            "translated": "通过捍卫基本权利、增强妇女权能和公平获得有用技术来促进人类福祉。"
+        },
+        "axe_title_defense": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "axe_list_defense": {
+            "source": [
+                "Informer et éduquer les populations sur leurs droits",
+                "Promouvoir la justice sociale et la paix",
+                "Lutter contre toutes formes de discriminations"
+            ],
+            "translated": [
+                "向人们宣传和教育他们的权利",
+                "促进社会正义与和平",
+                "反对一切形式的歧视"
+            ]
+        },
+        "axe_title_autonomisation": {
+            "source": "Autonomisation",
+            "translated": "赋权"
+        },
+        "axe_list_autonomisation": {
+            "source": [
+                "Offrir des formations professionnelles, entreprenariales et en leadership",
+                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Valoriser les talents féminins comme moteurs du changement"
+            ],
+            "translated": [
+                "提供专业、创业和领导力培训",
+                "建立获得零息小额信贷的机制",
+                "促进女性人才成为变革的推动者"
+            ]
+        },
+        "axe_title_tech": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "axe_list_tech": {
+            "source": [
+                "Réduire la facture numérique dans les milieux défavorisés",
+                "Promouvoir l'utilisation des TIC dans l'éducation, la santé et l'emploi",
+                "Initier les jeunes aux compétences numériques de demain"
+            ],
+            "translated": [
+                "减少贫困地区的数字账单",
+                "促进信息通信技术在教育、卫生和就业领域的应用",
+                "向年轻人介绍未来的数字技能"
+            ]
+        },
+        "why_mission_title": {
+            "source": "Pourquoi cette mission",
+            "translated": "为何执行此任务"
+        },
+        "why_mission_desc": {
+            "source": "La République Démocratique du Congo, riche de sa diversité, fait face à de nombreux défis : pauvreté, inégalités sociales, marginalisation des femmes, accès limité à l'innovation. Face à cela, l'ONG CD agit comme un pont entre le potentiel des communautés et les moyens de leur développement.",
+            "translated": "刚果民主共和国拥有丰富的多样性，但面临着许多挑战：贫困、社会不平等、妇女边缘化、创新机会有限。面对这种情况，非政府组织CD充当了社区潜力与其发展手段之间的桥梁。"
+        },
+        "why_mission_goal": {
+            "source": "Nous travaillons sur le terrain, au plus près des populations, pour construire une société :",
+            "translated": "我们在实地工作，贴近民众，建设一个社会："
+        },
+        "why_mission_values": {
+            "source": [
+                "PLUS JUSTE",
+                "PLUS EQUITABLE",
+                "PLUS INCLUSIVE",
+                "PLUS RESILIENTE GRACE A LA TECHNOLOGIE"
+            ],
+            "translated": [
+                "公平的",
+                "更公平",
+                "更具包容性",
+                "得益于技术，更具弹性"
+            ]
+        },
+        "human_rights_title": {
+            "source": "Droits Humains",
+            "translated": "人权"
+        },
+        "human_rights_desc": {
+            "source": "Promouvoir, protéger et défendre les droits fondamentaux pour bâtir une société juste et inclusive.",
+            "translated": "促进、保护和捍卫基本权利，建设公正和包容的社会。"
+        },
+        "human_rights_objective_title": {
+            "source": "Notre objectif",
+            "translated": "我们的目标"
+        },
+        "human_rights_objective_desc": {
+            "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
+            "translated": "通过保证所有人不受歧视地平等获得司法、信息和机会，减少社会和经济不平等。"
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Sensibilisation": "提供有关基本权利信息的讲习班、会议和教育材料。",
+                "Accompagnement": "对参与性和尊重性治理的法律支持和倡导。",
+                "Lutte contre les discriminations": "预防性别暴力并促进平等。",
+                "Renforcement des capacités": "培训社区领袖并建立地方防御委员会。"
+            }
+        },
+        "human_rights_impact_title": {
+            "source": "Impact attendu",
+            "translated": "预期影响"
+        },
+        "human_rights_impact_list": {
+            "source": [
+                "Citoyens mieux informés et confiants pour défendre leurs droits",
+                "Réduction des discriminations et injustices",
+                "Renforcement du lien social et de la paix"
+            ],
+            "translated": [
+                "公民更好地了解情况并更有信心捍卫自己的权利",
+                "减少歧视和不公正",
+                "加强社会纽带与和平"
+            ]
+        },
+        "human_rights_cta": {
+            "source": [
+                "Participer à nos campagnes",
+                "Faire un don"
+            ],
+            "translated": [
+                "参与我们的活动",
+                "捐款"
+            ]
+        },
+        "women_empowerment_title": {
+            "source": "Autonomisation des Femmes",
+            "translated": "妇女赋权"
+        },
+        "women_empowerment_desc": {
+            "source": "Donner aux femmes les moyens économiques, sociaux et intellectuels pour s’épanouir et devenir actrices du changement.",
+            "translated": "为女性提供经济、社会和智力手段，使其蓬勃发展并成为变革的参与者。"
+        },
+        "women_objective_title": {
+            "source": "Notre objectif",
+            "translated": "我们的目标"
+        },
+        "women_objective_desc": {
+            "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
+            "translated": "我们相信，赋予妇女权力是可持续发展的重要杠杆。通过培训、支持和财政支持，我们为妇女和女孩提供改变生活和社区所需的工具。"
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "Formation professionnelle": "领导力研讨会、财务管理和创业技能发展。",
+                "Microcrédits à taux zéro": "为启动或开展创收活动提供财政支持。",
+                "Réseaux de mentorat": "与女性领导人联系，分享经验和建议。",
+                "Alphabétisation numérique": "介绍如何使用数字工具来扩大机会。"
+            }
+        },
+        "women_testimonial": {
+            "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
+            "translated": "“多亏了 CD 的小额信贷计划，我才能够开店并养活我的孩子。今天，我培训其他妇女也这样做。” — 莎拉，受益人"
+        },
+        "women_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "对数字的影响"
+        },
+        "women_impact_list": {
+            "source": [
+                "+180 femmes formées depuis 2022",
+                "80 microcrédits attribués",
+                "30 projets féminins accompagnés chaque année"
+            ],
+            "translated": [
+                "自 2022 年以来，超过 180 名女性接受了培训",
+                "授予 80 个小额信贷",
+                "每年支持 30 个女性项目"
+            ]
+        },
+        "women_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir mentor"
+            ],
+            "translated": [
+                "支持这个计划",
+                "成为导师"
+            ]
+        },
+        "tech_inclusion_title": {
+            "source": "Inclusion Technologique & Numérique",
+            "translated": "技术与数字包容性"
+        },
+        "tech_inclusion_desc": {
+            "source": "Mettre la technologie au service du développement social et économique pour réduire la fracture numérique et ouvrir de nouvelles opportunités.",
+            "translated": "让技术服务社会和经济发展，缩小数字鸿沟，开辟新机遇。"
+        },
+        "tech_objective_title": {
+            "source": "Notre objectif",
+            "translated": "我们的目标"
+        },
+        "tech_objective_desc": {
+            "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
+            "translated": "在联系日益紧密的世界中，获得技术是充分参与社会的一项基本权利。我们致力于让每个人，特别是弱势群体都能使用数字工具，以改善教育、就业和信息获取。"
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Formations numériques": "计算机、办公自动化、互联网浏览和在线安全简介。",
+                "Outils technologiques utiles": "分发教育、健康和本地商业应用程序。",
+                "Centres numériques communautaires": "为贫困地区提供接入互联网和现代设备的空间。",
+                "Innovation sociale": "组织黑客马拉松和研讨会，为社区问题创建本地解决方案。"
+            }
+        },
+        "tech_testimonial": {
+            "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
+            "translated": "“在加入数字 CD 工作坊之前，我什至不知道如何使用电脑。如今，我负责管理我的小型网上商店。” — 让-保罗，参与者"
+        },
+        "tech_impact_title": {
+            "source": "Impact en chiffres",
+            "translated": "对数字的影响"
+        },
+        "tech_impact_list": {
+            "source": [
+                "+150 jeunes formés aux compétences numériques",
+                "3 centres communautaires équipés",
+                "+50 projets numériques locaux soutenus"
+            ],
+            "translated": [
+                "+150 名年轻人接受了数字技能培训",
+                "3个设备齐全的社区中心",
+                "支持 +50 个本地数字项目"
+            ]
+        },
+        "tech_cta": {
+            "source": [
+                "Soutenir ce programme",
+                "Devenir formateur"
+            ],
+            "translated": [
+                "支持这个计划",
+                "成为一名培训师"
+            ]
+        },
+        "contact_mail_title": {
+            "source": "Envoyez-nous un courriel",
+            "translated": "给我们发电子邮件"
+        },
+        "contact_mail_name": {
+            "source": "Nom",
+            "translated": "姓名"
+        },
+        "contact_mail_email": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_mail_placeholder": {
+            "source": "Entrer votre message...",
+            "translated": "输入您的留言..."
+        },
+        "contact_mail_button": {
+            "source": "Envoyer",
+            "translated": "发送"
+        }
+    },
+    "accueil": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "video_unsupported": {
+            "source": "Votre navigateur ne supporte pas la vidéo.",
+            "translated": "您的浏览器不支持视频。"
+        },
+        "main_title": {
+            "source": "Love, Energy and Excellence for a Better Future",
+            "translated": "爱、能量和卓越，共创美好未来"
+        },
+        "main_subtitle": {
+            "source": "-------- Together, let's build a better future",
+            "translated": "-------- 让我们携手共创美好未来"
+        },
+        "donate_btn": {
+            "source": "FAIRE UN DON",
+            "translated": "捐款"
+        },
+        "historique_title": {
+            "source": "Bienvenue chez Community Development",
+            "translated": "欢迎来到社区发展"
+        },
+        "historique_text1": {
+            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "社区发展是一个刚果组织，致力于促进基本权利、培养女性领导力和减少获得技术机会方面的不平等。"
+        },
+        "historique_text": {
+            "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
+            "translated": "社区发展，缩写为 NGO CD，是根据刚果法律在刚果民主共和国金沙萨成立的非政府组织。根据 7 月 20 日颁布的第 004/2001 号法律，该法律制定了适用于非营利协会的一般规定，其行为遵循可持续社会影响的逻辑。"
+        },
+        "mission_title": {
+            "source": "Mission",
+            "translated": "任务"
+        },
+        "mission_text": {
+            "source": "L'ONG CD a pour mission de promouvoir le bien-être humain par :",
+            "translated": "非政府组织 CD 的使命是通过以下方式促进人类福祉："
+        },
+        "mission_li1": {
+            "source": "La défense et la promotion des droits fondamentaux;",
+            "translated": "捍卫和促进基本权利；"
+        },
+        "mission_li2": {
+            "source": "L'autonomisation économique des femmes et des jeunes filles;",
+            "translated": "赋予妇女和女孩经济权力；"
+        },
+        "mission_li3": {
+            "source": "L'accès équitable à l'innovation technologique comme levier de développement.",
+            "translated": "公平获得技术创新作为发展的杠杆。"
+        },
+        "learn_more": {
+            "source": "En savoir plus→",
+            "translated": "了解更多→"
+        },
+        "vision_title": {
+            "source": "Vision",
+            "translated": "想象"
+        },
+        "vision_text": {
+            "source": "Construire une société congolaise juste, inclusive et technologiquement avancée, où chaque individu indépendamment de son genre, statut ou origine a les moyens de s'épanouir et de contribuer au développement de sa communauté.",
+            "translated": "建设一个公平、包容和技术先进的刚果社会，每个人，无论其性别、地位或出身，都有能力蓬勃发展并为其社区的发展做出贡献。"
+        },
+        "why_choose_us": {
+            "source": "Pourquoi nous choisir",
+            "translated": "为什么选择我们"
+        },
+        "values_amour": {
+            "source": "AMOUR",
+            "translated": "爱"
+        },
+        "values_amour_text": {
+            "source": "L'humain au centre de toute action, avec compassion et solidarité.",
+            "translated": "人是所有行动的中心，充满同情心和团结。"
+        },
+        "values_dynamisme": {
+            "source": "DYNAMISME",
+            "translated": "活力"
+        },
+        "values_dynamisme_text": {
+            "source": "Une volonté constante de progresser, d'innover et d'agir concrètement.",
+            "translated": "不断进步、创新并采取具体行动的愿望。"
+        },
+        "values_professionalisme": {
+            "source": "PROFESSIONALISME",
+            "translated": "专业精神"
+        },
+        "values_professionalisme_text": {
+            "source": "Rigueur, compétence et éthique dans tous les engagements.",
+            "translated": "所有承诺均严格、能力和道德。"
+        },
+        "domaine_title": {
+            "source": "Domaine d'action",
+            "translated": "行动领域"
+        },
+        "domaine_droits": {
+            "source": "Droits Humains",
+            "translated": "人权"
+        },
+        "dom_droit": {
+            "source": "Protection, sensibilisation, accompagnement.",
+            "translated": "保护、认识、支持。"
+        },
+        "domaine_femmes": {
+            "source": "Autonomisation des Femmes",
+            "translated": "妇女赋权"
+        },
+        "dom_femme": {
+            "source": "Formation, entrepreneuriat, leadership.",
+            "translated": "培训、创业、领导力。"
+        },
+        "domaine_tech": {
+            "source": "Technologie",
+            "translated": "技术"
+        },
+        "dom_tech": {
+            "source": "Éducation numérique, accès aux outils technologiques.",
+            "translated": "数字教育，获得技术工具。"
+        },
+        "ensavoir": {
+            "source": "En savoir plus",
+            "translated": "了解更多"
+        },
+        "projects_title": {
+            "source": "Projets en Cours",
+            "translated": "当前项目"
+        },
+        "project1_title": {
+            "source": "Formation en Leadership",
+            "translated": "领导力培训"
+        },
+        "project1_text": {
+            "source": "Programme pour renforcer la capacité de jeunes femmes à prendre des décisions et diriger des initiatives locales.",
+            "translated": "旨在加强年轻女性决策和领导地方举措能力的计划。"
+        },
+        "project2_title": {
+            "source": "Centre Numérique Communautaire",
+            "translated": "社区数字中心"
+        },
+        "project2_text": {
+            "source": "Création d’espaces d’accès à internet et aux outils numériques dans les quartiers défavorisés.",
+            "translated": "在弱势社区创建访问互联网和数字工具的空间。"
+        },
+        "project3_title": {
+            "source": "Campagne “Connais tes Droits”",
+            "translated": "“了解你的权利”活动"
+        },
+        "project3_text": {
+            "source": "Ateliers et conférences pour sensibiliser la population à ses droits fondamentaux.",
+            "translated": "举办讲习班和会议，提高人们对其基本权利的认识。"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
+        },
+        "actualite_rec": {
+            "source": "Actualités récentes",
+            "translated": "最新消息"
+        },
+        "team_title": {
+            "source": "Notre équipe à votre disposition",
+            "translated": "我们的团队随时为您服务"
+        },
+        "team_president": {
+            "source": "PRESIDENTE \nMme. Nathalie AMUDIANDROY",
+            "translated": "总统 \n纳塔莉·阿穆迪安德罗伊女士"
+        },
+        "team_vice_president": {
+            "source": "VICE-PRESIDENT \nMr. Nathan MAYABU",
+            "translated": "副总裁 \n内森·马亚布先生"
+        },
+        "team_secretary": {
+            "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
+            "translated": "秘书长 \n感谢上帝卢桑巴先生"
+        }
+    }
+}

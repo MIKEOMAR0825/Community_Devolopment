@@ -1,0 +1,281 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- MAIN -->
+<section class="main">
+
+    <!-- Vidéo de fond -->
+    <div class="main_video">
+        <video autoplay muted loop playsinline poster="{{ url_for('static', filename='img/backg_principale.jpg') }}">
+            <source src="{{ url_for('static', filename='img/backg_principale.MP4') }}" type="video/mp4">
+            {{ texts.video_unsupported }}
+        </video>
+    </div>
+
+    <div class="degrad"></div>
+
+    <div class="main_content">
+        <div class="main_title">
+            <h1>{{ texts.main_title }}</h1>
+            <p>{{ texts.main_subtitle }}</p>
+        </div>
+        <div class="main_btn">
+            <a href="/donation" class="btn btn-outline-warning">{{ texts.donate_btn }}</a>
+        </div>
+    </div>
+</section>
+
+<!-- PAGE CONTENT -->
+<section class="page_content container">
+
+    <div class="historique wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
+        <h2 class="fw-bold">{{ texts.historique_title }}</h2>
+        <p> {{ texts.historique_text }} </p>
+        <p> {{ texts.historique_text1 }} </p>
+    </div>
+
+    <div class="row justify-content-center mt-4 gap-4 wow animate__animated animate__fadeInRight" data-wow-delay="0.1s">
+
+        <div class="col-md-5 mission" id="mission">
+            <div class="mission_back"><i class="fa-solid fa-people-pulling"></i></div>
+
+            <h3>{{ texts.mission_title }}</h3>
+            <p>{{ texts.mission_text }}</p>
+            <ul>
+                <li>{{ texts.mission_li1 }}</li>
+                <li>{{ texts.mission_li2 }}</li>
+                <li>{{ texts.mission_li3 }}</li>
+            </ul>
+            <p><a href="/mission">{{ texts.learn_more }}</a></p>
+        </div>
+
+        <div class="col-md-5 vision">
+            <div class="vision_back"><i class="fa-regular fa-eye"></i></div>
+            <h3>{{ texts.vision_title }}</h3>
+            <p>{{ texts.vision_text }}</p>
+            <p><a href="/mission">{{ texts.learn_more }}</a></p>
+        </div>
+
+    </div>
+</section>
+
+<!-- NOS VALEURS -->
+<section class="valeur py-5" >
+
+    <div class="container mb-5 wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
+
+        <h2 class="">{{ texts.why_choose_us }}</h2>
+
+        <div class="domaine mt-5">
+
+            <div class="amour">
+                <i class="fa fa-heart"></i>
+                <h3>{{ texts.values_amour }}</h3>
+                <p>{{ texts.values_amour_text }}</p>
+            </div>
+            <div class="dynamisme">
+                <i class="fa-solid fa-users-gear"></i>
+                <h3>{{ texts.values_dynamisme }}</h3>
+                <p>{{ texts.values_dynamisme_text }}</p>
+            </div>
+            <div class="professionalisme">
+                <i class="fa-solid fa-people-group"></i>
+                <h3>{{ texts.values_professionalisme }}</h3>
+                <p>{{ texts.values_professionalisme_text }}</p>
+            </div>
+        </div>
+
+    </div>
+    
+    <div class="wow animate__animated animate__fadeInRight" data-wow-delay="0.1s">
+
+
+    </div>
+
+</section>
+
+<section class="py-5 text-center px-4 wow animate__animated animate__fadeInRight" data-wow-delay="0.1s">
+
+    <h2 class="text-dark fw-bold fs-1 mb-5">{{ texts.domaine_title }}</h2>
+
+    <div class="row justify-content-center gap-3">
+
+        <div class="card col-md-3">
+            <img src="{{ url_for('static', filename='img/droit.JPG')}}" class="card-img-top" alt="...">
+
+            <div class="card-body">
+                <h5 class="card-title fw-bold fs-4"> {{ texts.domaine_droits }} </h5>
+                <p class="card-text"> {{ texts.dom_droit }} </p>
+                <a href="/mission" class="btn btn-warning">{{ texts.ensavoir }}</a>
+            </div>
+        </div>
+
+        <div class="card col-md-3">
+            <img src="{{ url_for('static', filename='img/femme.JPG')}}" class="card-img-top" alt="...">
+
+            <div class="card-body">
+                <h5 class="card-title fw-bold fs-4">{{ texts.domaine_femmes }}</h5>
+                <p class="card-text"> {{ texts.dom_femme }} </p>
+                <a href="/mission" class="btn btn-warning">{{ texts.ensavoir }}</a>
+            </div>
+        </div>
+
+        <div class="card col-md-3">
+            <img src="{{ url_for('static', filename='img/tech1.JPG')}}" class="card-img-top" alt="...">
+
+            <div class="card-body">
+                <h5 class="card-title fw-bold fs-4">{{ texts.domaine_tech }}</h5>
+                <p class="card-text"> {{ texts.dom_tech }} </p>
+                <a href="/mission" class="btn btn-warning"> {{ texts.ensavoir }} </a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- Projets en avant -->
+<section class="pro_encours py-5">
+
+    <h2>{{ texts.projects_title }}</h2>
+
+    <div class="grid container">
+        <div class="card1">
+            <h3>{{ texts.project1_title }}</h3>
+            <p>{{ texts.project1_text }}</p>
+        </div>
+        <div class="card1">
+            <h3>{{ texts.project2_title }}</h3>
+            <p>{{ texts.project2_text }}</p>
+        </div>
+        <div class="card1">
+            <h3>{{ texts.project3_title }}</h3>
+            <p>{{ texts.project3_text }}</p>
+        </div>
+    </div>
+
+</section>
+
+<!-- Appel à action -->
+ {% include "composants/cta.html" %}
+
+
+<section class="py-5 px-4">
+
+        <h2 class="text-dark fw-bold fs-1 text-center mb-5"> {{ texts.actualite_rec }} </h2>
+
+        <div class="row justify-content-center gap-3">
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/m_back4.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                    <a href="#" class="btn btn-primary">En savoir plus</a>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/tech.jpg')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                    <a href="#" class="btn btn-primary">En savoir plus</a>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/africa.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                    <a href="#" class="btn btn-primary">En savoir plus</a>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/m_back2.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                    <a href="#" class="btn btn-primary">En savoir plus</a>
+                </div>
+            </div>
+
+        </div>
+
+</section>
+
+
+<!-- NOTRE EQUIPE -->
+
+
+<section class="notre_equipe d-none">
+
+    <h2>{{ texts.team_title }}</h2>
+
+    <div id="carouselExampleDark" class="carousel carousel-dark slide d-lg-none" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="/missioncarouselExample" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="/missioncarouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="/missioncarouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        
+        <div class="carousel-inner">
+
+            <div class="carousel-item active" data-bs-interval="10000">
+                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-md-block">
+                    <h5 class="text-light">Mme Nathalie EMBELA</h5>
+                    <p class="text-light">Présidente</p>
+                </div>
+            </div>
+
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="{{ url_for('static', filename='img/Vp.jpg')}}" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-md-block">
+                    <h5 class="text-light">Mr Nathan MBAYUBU</h5>
+                    <p class="text-light">Vice-Président</p>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="{{ url_for('static', filename='img/Cg.jpg')}}" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-md-block">
+                    <h5 class="text-light">Mr Dieu-merci LUSAMBA</h5>
+                    <p class="text-light">Sécretaire Général.</p>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
+    <div class="notre_equipe_image">
+        <div class="scroll">
+
+            <div class="pre">
+                <p>{{ texts.team_president }}</p>
+            </div>
+
+            <div class="vp">
+                <p>{{ texts.team_vice_president }}</p>
+            </div>
+
+            <div class="sg">
+                <p>{{ texts.team_secretary }}</p>
+            </div>
+            
+        </div>
+    </div>
+
+</section>
+
+
+{% endblock %}

@@ -1,0 +1,80 @@
+    {% extends "base.html"%}
+
+    {% block content%}
+
+    <section class="projects">
+    </section>
+
+
+
+    <!--DONATION-->
+<section class="donate">
+    <div class="donate_div">
+        
+        <!-- Titre principal -->
+        <h2>
+            Faire un Don
+        </h2>
+        <p>
+            Votre soutien change des vies. Ensemble, nous pouvons bâtir un avenir plus juste, plus inclusif et plus solidaire.
+        </p>
+
+        <!-- Bloc pourquoi donner -->
+        <div class="donate_pourquoi">
+            <h3>Pourquoi donner ?</h3>
+            <p>
+                Chaque contribution, quelle que soit sa taille, nous aide à :
+            </p>
+            <ul>
+                <li>Défendre les droits humains</li>
+                <li>Autonomiser les femmes et les jeunes filles</li>
+                <li>Offrir l’accès à la technologie</li>
+                <li>Financer des formations et programmes communautaires</li>
+            </ul>
+        </div>
+
+        <!-- Formulaire de don -->
+        <div class="donate_formulaire">
+            <h3>Faire un don maintenant</h3>
+            <form>
+                <label>Nom complet :</label>
+                <input type="text" placeholder="Votre nom">
+
+                <label>Email :</label>
+                <input type="email" placeholder="Votre email">
+
+                <label>Montant du don :</label>
+                <select>
+                    <option>10 USD</option>
+                    <option>25 USD</option>
+                    <option>50 USD</option>
+                    <option>100 USD</option>
+                    <option>Montant libre</option>
+                </select>
+
+                <label>Méthode de paiement :</label>
+                <select>
+                    <option>Mobile Money (M-Pesa, Airtel Money, Orange Money)</option>
+                    <option>Carte bancaire</option>
+                    <option>Virement bancaire</option>
+                </select>
+
+                <button type="submit">
+                    ✅ Confirmer mon don
+                </button>
+            </form>
+        </div>
+
+        <!-- Transparence -->
+        <div class="donate_trans text-start">
+            <h3>Transparence</h3>
+            <p>
+                Nous croyons en une utilisation responsable et transparente de chaque don. Un rapport annuel détaillé est publié pour montrer l’impact de vos contributions.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+    {% endblock %}
