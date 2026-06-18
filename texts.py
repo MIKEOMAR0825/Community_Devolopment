@@ -125,7 +125,20 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
-
+        
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
 
@@ -177,7 +190,7 @@ TEXTS = {
         # Axe d'action
         "axe_title_defense": "Défendre les droits fondamentaux",
         "axe_list_defense": [
-            "Informer et éduquer les populations sur leurs droits",
+            "Informer et former les populations sur leurs droits",
             "Promouvoir la justice sociale et la paix",
             "Lutter contre toutes formes de discriminations"
         ],
@@ -185,7 +198,7 @@ TEXTS = {
         "axe_title_autonomisation": "Autonomisation",
         "axe_list_autonomisation": [
             "Offrir des formations professionnelles, entreprenariales et en leadership",
-            "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+            "Mettre en place des mécanismes d'accès aux microfinancements à taux d'intérêt zéro",
             "Valoriser les talents féminins comme moteurs du changement"
         ],
 
@@ -302,6 +315,20 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
+        
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
 
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
@@ -413,6 +440,20 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
+        
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
 
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
@@ -476,6 +517,20 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
+
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
 
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
@@ -553,6 +608,20 @@ TEXTS = {
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
 
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
+
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
 
@@ -596,6 +665,20 @@ TEXTS = {
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
 
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
+
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
 
@@ -638,6 +721,20 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
+
+        #================= HERO =====================
+        "bg1": "Faciliter l'accès à la technologie",
+        "bg11": "Initier les jeunes aux compétences numériques de demain",
+        
+        "bg2": "Autonomisation des femmes",
+        "bg21": "Valoriser les talents féminins comme moteurs du changement",
+        
+        "bg3": "Défendre les droits fondamentaux",
+        "bg31": "Informer et former les populations sur leurs droits",
+        
+        "bg4": "Construire une société :",
+        "bg41": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+        
 
         # ================= CONTACT =================
         "contact_title": "Contactez-nous",
@@ -684,6 +781,25 @@ TEXTS = {
         "nav_donation": "DONATION",
         "nav_contact": "CONTACT",
         "nav_search": "Recherche",
+
+        # ================= CONTACT =================
+        "contact_title": "Contactez-nous",
+
+        "contact_phone_title": "Téléphone",
+        "contact_phone_1": "+243 823 255 768",
+        "contact_phone_2": "+243 xxx xxx xxx",
+
+        "contact_email_title": "Email",
+        "contact_address_title": "Adresse",
+
+        "contact_address": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+
+        "contact_social_title": "Réseaux sociaux",
+
+        # ================= NEWSLETTER =================
+        "newsletter_title": "Abonnez-vous à notre Newsletter",
+        "newsletter_subtitle": "Recevez nos dernières actualités directement dans votre boîte mail",
+
 
         # ================= HERO =================
         "entre_cont": "Entrer en contact",

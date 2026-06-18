@@ -351,12 +351,12 @@
             "translated": "Su navegador no soporta vídeo."
         },
         "main_title": {
-            "source": "Love, Energy and Excellence for a Better Future",
-            "translated": "Amor, Energía y Excelencia para un Futuro Mejor"
+            "source": "Amour, Énergie et Excellence pour un avenir meilleur",
+            "translated": "Amor, Energía y Excelencia para un futuro mejor"
         },
         "main_subtitle": {
-            "source": "-------- Together, let's build a better future",
-            "translated": "-------- Juntos, construyamos un futuro mejor"
+            "source": "Ensemble, construisons un avenir meilleur",
+            "translated": "Juntos construyamos un futuro mejor"
         },
         "donate_btn": {
             "source": "FAIRE UN DON",
@@ -525,6 +525,10 @@
         "team_secretary": {
             "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
             "translated": "SECRETARIO GENERAL \nSr. Gracias a Dios LUSAMBA"
+        },
+        "partenaire_btn": {
+            "source": "DEVENIR PARTENAIRE",
+            "translated": "CONVIÉRTETE EN SOCIO"
         }
     },
     "mission": {
@@ -654,12 +658,12 @@
         },
         "axe_list_defense": {
             "source": [
-                "Informer et éduquer les populations sur leurs droits",
+                "Informer et former les populations sur leurs droits",
                 "Promouvoir la justice sociale et la paix",
                 "Lutter contre toutes formes de discriminations"
             ],
             "translated": [
-                "Informar y educar a la población sobre sus derechos.",
+                "Informar y formar a la población sobre sus derechos.",
                 "Promoviendo la justicia social y la paz",
                 "Lucha contra todas las formas de discriminación."
             ]
@@ -671,12 +675,12 @@
         "axe_list_autonomisation": {
             "source": [
                 "Offrir des formations professionnelles, entreprenariales et en leadership",
-                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Mettre en place des mécanismes d'accès aux microfinancements à taux d'intérêt zéro",
                 "Valoriser les talents féminins comme moteurs du changement"
             ],
             "translated": [
                 "Ofrecer formación profesional, emprendedora y de liderazgo.",
-                "Establecer mecanismos de acceso a microfinanzas a interés cero",
+                "Establecer mecanismos de acceso a microfinanzas a tipos de interés cero",
                 "Impulsar el talento femenino como impulsoras del cambio"
             ]
         },
@@ -917,6 +921,38 @@
         "contact_mail_button": {
             "source": "Envoyer",
             "translated": "Enviar"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitar el acceso a la tecnología."
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducir a los jóvenes en las habilidades digitales del mañana"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Empoderamiento de las mujeres"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Impulsar el talento femenino como impulsoras del cambio"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defender los derechos fundamentales"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Informar y formar a la población sobre sus derechos."
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Construyendo una empresa:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
         }
     },
     "apropos": {
@@ -1135,6 +1171,38 @@
         "com": {
             "source": "Communication",
             "translated": "Comunicación"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitar el acceso a la tecnología."
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducir a los jóvenes en las habilidades digitales del mañana"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Empoderamiento de las mujeres"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Impulsar el talento femenino como impulsoras del cambio"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defender los derechos fundamentales"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Informar y formar a la población sobre sus derechos."
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Construyendo una empresa:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
         }
     },
     "actualite": {
@@ -1459,6 +1527,38 @@
         "gallery_desc": {
             "source": "Quelques images de nos réalisations et activités sur le terrain.",
             "translated": "Algunas imágenes de nuestros logros y actividades en el campo."
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitar el acceso a la tecnología."
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducir a los jóvenes en las habilidades digitales del mañana"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Empoderamiento de las mujeres"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Impulsar el talento femenino como impulsoras del cambio"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defender los derechos fundamentales"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Informar y formar a la población sobre sus derechos."
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Construyendo una empresa:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
         }
     }
 }

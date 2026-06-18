@@ -93,12 +93,12 @@
             "translated": "Kivinjari chako hakitumii video."
         },
         "main_title": {
-            "source": "Love, Energy and Excellence for a Better Future",
-            "translated": "Upendo, Nishati na Ubora kwa Maisha Bora ya Baadaye"
+            "source": "Amour, Énergie et Excellence pour un avenir meilleur",
+            "translated": "Upendo, Nishati na Ubora kwa maisha bora ya baadaye"
         },
         "main_subtitle": {
-            "source": "-------- Together, let's build a better future",
-            "translated": "-------- Pamoja, tujenge maisha bora ya baadaye"
+            "source": "Ensemble, construisons un avenir meilleur",
+            "translated": "Kwa pamoja, tujenge maisha bora ya baadaye"
         },
         "donate_btn": {
             "source": "FAIRE UN DON",
@@ -267,6 +267,10 @@
         "team_secretary": {
             "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
             "translated": "KATIBU MKUU \nMheshimiwa Asante Mungu LUSAMBA"
+        },
+        "partenaire_btn": {
+            "source": "DEVENIR PARTENAIRE",
+            "translated": "KUWA MWENZI"
         }
     },
     "project": {
@@ -445,6 +449,38 @@
         "gallery_desc": {
             "source": "Quelques images de nos réalisations et activités sur le terrain.",
             "translated": "Baadhi ya picha za mafanikio na shughuli zetu nyanjani."
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Kuwezesha upatikanaji wa teknolojia"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Kuwajulisha vijana ujuzi wa kidijitali wa kesho"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Tetea haki za kimsingi"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Wajulishe na wafunze idadi ya watu juu ya haki zao"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Kujenga kampuni:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
         }
     },
     "contact": {
@@ -625,8 +661,8 @@
             "translated": "Jumatatu - Ijumaa"
         },
         "weekday_hours": {
-            "source": "8:00 – 17:00",
-            "translated": "8:00 - 17:00"
+            "source": "8:00 – 16:00",
+            "translated": "8:00 - 16:00"
         },
         "saturday": {
             "source": "Samedi",
@@ -671,6 +707,38 @@
         "footer_text": {
             "source": "©2025 Community Development | Tous droits réservés",
             "translated": "©2025 Maendeleo ya Jamii | Haki zote zimehifadhiwa"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "Wasiliana nasi"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "Simu"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "Barua pepe"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "Anwani"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "Nambari 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, DR Congo."
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "Mitandao ya kijamii"
         }
     },
     "actualite": {
@@ -817,6 +885,38 @@
         "gallery_desc": {
             "source": "Revivez nos moments forts en images et vidéos.",
             "translated": "Tazama tena vivutio vyetu katika picha na video."
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Kuwezesha upatikanaji wa teknolojia"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Kuwajulisha vijana ujuzi wa kidijitali wa kesho"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Tetea haki za kimsingi"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Wajulishe na wafunze idadi ya watu juu ya haki zao"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Kujenga kampuni:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
         }
     },
     "apropos": {
@@ -1035,6 +1135,38 @@
         "com": {
             "source": "Communication",
             "translated": "Mawasiliano"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Kuwezesha upatikanaji wa teknolojia"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Kuwajulisha vijana ujuzi wa kidijitali wa kesho"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Tetea haki za kimsingi"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Wajulishe na wafunze idadi ya watu juu ya haki zao"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Kujenga kampuni:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
         }
     },
     "mission": {
@@ -1164,12 +1296,12 @@
         },
         "axe_list_defense": {
             "source": [
-                "Informer et éduquer les populations sur leurs droits",
+                "Informer et former les populations sur leurs droits",
                 "Promouvoir la justice sociale et la paix",
                 "Lutter contre toutes formes de discriminations"
             ],
             "translated": [
-                "Kufahamisha na kuelimisha watu kuhusu haki zao",
+                "Wajulishe na wafunze idadi ya watu juu ya haki zao",
                 "Kukuza haki ya kijamii na amani",
                 "Pambana na aina zote za ubaguzi"
             ]
@@ -1181,12 +1313,12 @@
         "axe_list_autonomisation": {
             "source": [
                 "Offrir des formations professionnelles, entreprenariales et en leadership",
-                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Mettre en place des mécanismes d'accès aux microfinancements à taux d'intérêt zéro",
                 "Valoriser les talents féminins comme moteurs du changement"
             ],
             "translated": [
                 "Kutoa mafunzo ya kitaaluma, ujasiriamali na uongozi",
-                "Weka taratibu za kufikia ufadhili mdogo usio na riba",
+                "Weka taratibu za kufikia ufadhili mdogo kwa viwango vya riba sifuri",
                 "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
             ]
         },
@@ -1427,6 +1559,38 @@
         "contact_mail_button": {
             "source": "Envoyer",
             "translated": "Tuma"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Kuwezesha upatikanaji wa teknolojia"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Kuwajulisha vijana ujuzi wa kidijitali wa kesho"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Uwezeshaji wa Wanawake"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Kuza vipaji vya wanawake kama vichochezi vya mabadiliko"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Tetea haki za kimsingi"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Wajulishe na wafunze idadi ya watu juu ya haki zao"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Kujenga kampuni:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
         }
     }
 }

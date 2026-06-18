@@ -5,10 +5,30 @@
 <!-- HEADER -->
 <section class="background-slideshow">
 
-    <div class="bg bg1"></div>
-    <div class="bg bg2"></div>
-    <div class="bg bg3"></div>
-    <div class="bg bg4"></div>
+    <div class="bg bg1">
+        <div class="sbg">
+            <h1>{{texts.bg1}}</h1>
+            <p>{{texts.bg11}}</p>
+        </div>
+    </div>
+    <div class="bg bg2">
+        <div class="sbg">
+            <h1>{{texts.bg2}}</h1>
+            <p>{{texts.bg21}}</p>
+        </div>
+    </div>
+    <div class="bg bg3">
+        <div class="sbg">
+            <h1>{{texts.bg3}}</h1>
+            <p>{{texts.bg31}}</p>
+        </div>
+    </div>
+    <div class="bg bg4">
+        <div class="sbg">
+            <h1>{{texts.bg4}}</h1>
+            <p>{{texts.bg41}}</p>
+        </div>
+    </div>
 
 </section>
 
@@ -105,10 +125,10 @@
             </p>
 
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
-                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;">
-                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 2" style="width:100%; border-radius: 8px;">
-                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 3" style="width:100%; border-radius: 8px;">
-                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 4" style="width:100%; border-radius: 8px;">
+                <a href="{{ url_for('static', filename='img/Pre.jpg')}}"><img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;"></a>
+                <a href="{{ url_for('static', filename='img/Pre.jpg')}}"><img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;"></a>
+                <a href="{{ url_for('static', filename='img/Pre.jpg')}}"><img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;"></a>
+                <a href="{{ url_for('static', filename='img/Pre.jpg')}}"><img src="{{ url_for('static', filename='img/Pre.jpg')}}" alt="Activité 1" style="width:100%; border-radius: 8px;"></a>
             </div>
 
         </div>

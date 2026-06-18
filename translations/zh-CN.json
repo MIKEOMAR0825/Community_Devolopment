@@ -143,6 +143,38 @@
         "gallery_desc": {
             "source": "Revivez nos moments forts en images et vidéos.",
             "translated": "通过图像和视频重温我们的精彩片段。"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "向年轻人介绍未来的数字技能"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "妇女赋权"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "促进女性人才成为变革的推动者"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "向人们宣传和培训他们的权利"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "建立公司："
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
         }
     },
     "project": {
@@ -321,6 +353,38 @@
         "gallery_desc": {
             "source": "Quelques images de nos réalisations et activités sur le terrain.",
             "translated": "我们在该领域取得的成就和活动的一些图片。"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "向年轻人介绍未来的数字技能"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "妇女赋权"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "促进女性人才成为变革的推动者"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "向人们宣传和培训他们的权利"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "建立公司："
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
         }
     },
     "contact": {
@@ -501,8 +565,8 @@
             "translated": "周一至周五"
         },
         "weekday_hours": {
-            "source": "8:00 – 17:00",
-            "translated": "8:00 – 17:00"
+            "source": "8:00 – 16:00",
+            "translated": "8:00 – 16:00"
         },
         "saturday": {
             "source": "Samedi",
@@ -547,6 +611,38 @@
         "footer_text": {
             "source": "©2025 Community Development | Tous droits réservés",
             "translated": "©2025 社区发展 |版权所有"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
         }
     },
     "apropos": {
@@ -765,6 +861,38 @@
         "com": {
             "source": "Communication",
             "translated": "沟通"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "向年轻人介绍未来的数字技能"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "妇女赋权"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "促进女性人才成为变革的推动者"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "向人们宣传和培训他们的权利"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "建立公司："
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
         }
     },
     "mission": {
@@ -894,12 +1022,12 @@
         },
         "axe_list_defense": {
             "source": [
-                "Informer et éduquer les populations sur leurs droits",
+                "Informer et former les populations sur leurs droits",
                 "Promouvoir la justice sociale et la paix",
                 "Lutter contre toutes formes de discriminations"
             ],
             "translated": [
-                "向人们宣传和教育他们的权利",
+                "向人们宣传和培训他们的权利",
                 "促进社会正义与和平",
                 "反对一切形式的歧视"
             ]
@@ -911,12 +1039,12 @@
         "axe_list_autonomisation": {
             "source": [
                 "Offrir des formations professionnelles, entreprenariales et en leadership",
-                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Mettre en place des mécanismes d'accès aux microfinancements à taux d'intérêt zéro",
                 "Valoriser les talents féminins comme moteurs du changement"
             ],
             "translated": [
                 "提供专业、创业和领导力培训",
-                "建立获得零息小额信贷的机制",
+                "建立零利率小额信贷获取机制",
                 "促进女性人才成为变革的推动者"
             ]
         },
@@ -1157,6 +1285,38 @@
         "contact_mail_button": {
             "source": "Envoyer",
             "translated": "发送"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "向年轻人介绍未来的数字技能"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "妇女赋权"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "促进女性人才成为变革的推动者"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "向人们宣传和培训他们的权利"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "建立公司："
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
         }
     },
     "accueil": {
@@ -1253,12 +1413,12 @@
             "translated": "您的浏览器不支持视频。"
         },
         "main_title": {
-            "source": "Love, Energy and Excellence for a Better Future",
+            "source": "Amour, Énergie et Excellence pour un avenir meilleur",
             "translated": "爱、能量和卓越，共创美好未来"
         },
         "main_subtitle": {
-            "source": "-------- Together, let's build a better future",
-            "translated": "-------- 让我们携手共创美好未来"
+            "source": "Ensemble, construisons un avenir meilleur",
+            "translated": "让我们一起建设更美好的未来"
         },
         "donate_btn": {
             "source": "FAIRE UN DON",
@@ -1427,6 +1587,10 @@
         "team_secretary": {
             "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
             "translated": "秘书长 \n感谢上帝卢桑巴先生"
+        },
+        "partenaire_btn": {
+            "source": "DEVENIR PARTENAIRE",
+            "translated": "成为合作伙伴"
         }
     }
 }

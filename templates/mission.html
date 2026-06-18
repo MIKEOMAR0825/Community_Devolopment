@@ -3,12 +3,32 @@
 {% block content %}
 
 <!-- MISSION MAIN PAGE BACKGROUND -->
-<section class="background-slideshow fixed-top">
+<section class="background-slideshow">
 
-    <div class="bg bg1"></div>
-    <div class="bg bg2"></div>
-    <div class="bg bg3"></div>
-    <div class="bg bg4"></div>
+    <div class="bg bg1">
+        <div class="sbg">
+            <h1>{{texts.bg1}}</h1>
+            <p>{{texts.bg11}}</p>
+        </div>
+    </div>
+    <div class="bg bg2">
+        <div class="sbg">
+            <h1>{{texts.bg2}}</h1>
+            <p>{{texts.bg21}}</p>
+        </div>
+    </div>
+    <div class="bg bg3">
+        <div class="sbg">
+            <h1>{{texts.bg3}}</h1>
+            <p>{{texts.bg31}}</p>
+        </div>
+    </div>
+    <div class="bg bg4">
+        <div class="sbg">
+            <h1>{{texts.bg4}}</h1>
+            <p>{{texts.bg41}}</p>
+        </div>
+    </div>
 
 </section>
 
@@ -152,7 +172,7 @@
             <p>{{ texts.women_testimonial }}</p>
         </div>
 
-        <div class="impacts">
+        <div class="impacts d-none">
             <h3>{{ texts.women_impact_title }}</h3>
             <ul>
                 {% for item in texts.women_impact_list %}
@@ -196,7 +216,7 @@
             <p>{{ texts.tech_testimonial }}</p>
         </div>
 
-        <div class="impacts">
+        <div class="impacts d-none">
             <h3>{{ texts.tech_impact_title }}</h3>
             <ul>
                 {% for item in texts.tech_impact_list %}

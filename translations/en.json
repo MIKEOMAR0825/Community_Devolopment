@@ -175,6 +175,38 @@
         "projet": {
             "source": "PROJETS",
             "translated": "PROJECTS"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducing young people to the digital skills of tomorrow"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Women Empowerment"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Promote female talents as drivers of change"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Inform and train populations on their rights"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Building a company:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
         }
     },
     "contact": {
@@ -411,8 +443,8 @@
             "translated": "Monday – Friday"
         },
         "weekday_hours": {
-            "source": "8:00 – 17:00",
-            "translated": "8:00 – 17:00"
+            "source": "8:00 – 16:00",
+            "translated": "8:00 – 16:00"
         },
         "saturday": {
             "source": "Samedi",
@@ -562,12 +594,12 @@
         },
         "axe_list_defense": {
             "source": [
-                "Informer et éduquer les populations sur leurs droits",
+                "Informer et former les populations sur leurs droits",
                 "Promouvoir la justice sociale et la paix",
                 "Lutter contre toutes formes de discriminations"
             ],
             "translated": [
-                "Inform and educate populations about their rights",
+                "Inform and train populations on their rights",
                 "Promoting social justice and peace",
                 "Fight against all forms of discrimination"
             ]
@@ -579,12 +611,12 @@
         "axe_list_autonomisation": {
             "source": [
                 "Offrir des formations professionnelles, entreprenariales et en leadership",
-                "Mettre en place des mécanismes d'accès aux microfinancements a taux zéro",
+                "Mettre en place des mécanismes d'accès aux microfinancements à taux d'intérêt zéro",
                 "Valoriser les talents féminins comme moteurs du changement"
             ],
             "translated": [
                 "Offer professional, entrepreneurial and leadership training",
-                "Establish mechanisms for access to zero-interest microfinancing",
+                "Establish mechanisms for access to microfinancing at zero interest rates",
                 "Promote female talents as drivers of change"
             ]
         },
@@ -825,6 +857,38 @@
         "contact_mail_button": {
             "source": "Envoyer",
             "translated": "Send"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducing young people to the digital skills of tomorrow"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Women Empowerment"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Promote female talents as drivers of change"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Inform and train populations on their rights"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Building a company:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
         }
     },
     "accueil": {
@@ -921,12 +985,12 @@
             "translated": "Your browser does not support video."
         },
         "main_title": {
-            "source": "Love, Energy and Excellence for a Better Future",
-            "translated": "Love, Energy and Excellence for a Better Future"
+            "source": "Amour, Énergie et Excellence pour un avenir meilleur",
+            "translated": "Love, Energy and Excellence for a better future"
         },
         "main_subtitle": {
-            "source": "-------- Together, let's build a better future",
-            "translated": "-------- Together, let's build a better future"
+            "source": "Ensemble, construisons un avenir meilleur",
+            "translated": "Together, let's build a better future"
         },
         "donate_btn": {
             "source": "FAIRE UN DON",
@@ -1095,6 +1159,10 @@
         "team_secretary": {
             "source": "SECRETAIRE GENERAL \nMr. Dieu-merci LUSAMBA",
             "translated": "GENERAL SECRETARY \nMr. Thank God LUSAMBA"
+        },
+        "partenaire_btn": {
+            "source": "DEVENIR PARTENAIRE",
+            "translated": "BECOME A PARTNER"
         }
     },
     "donation": {
@@ -1415,6 +1483,38 @@
         "com": {
             "source": "Communication",
             "translated": "Communication"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducing young people to the digital skills of tomorrow"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Women Empowerment"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Promote female talents as drivers of change"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Inform and train populations on their rights"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Building a company:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
         }
     },
     "actualite": {
@@ -1561,6 +1661,38 @@
         "gallery_desc": {
             "source": "Revivez nos moments forts en images et vidéos.",
             "translated": "Relive our highlights in images and videos."
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducing young people to the digital skills of tomorrow"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Women Empowerment"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Promote female talents as drivers of change"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Inform and train populations on their rights"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Building a company:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
         }
     }
 }

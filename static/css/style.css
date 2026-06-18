@@ -452,6 +452,7 @@ FORM
 BUTTON
 =====================================*/
 
+/*
 .btn-warning{
 
     border:none;
@@ -465,6 +466,8 @@ BUTTON
     transition:.3s;
 
 }
+
+*/
 
 
 .btn-warning:hover{
@@ -729,13 +732,10 @@ font-size:2rem;
     }
     .main_title h1{
         font-size: 2rem;
-        font-weight: bold;
+        font-weight: 900;
     }
     .main_title p{
         padding: 20px;
-    }
-    .main_btn a{
-        gap: 5;
     }
 }
 
@@ -1171,15 +1171,23 @@ MISSION
     padding-bottom:60px;
     display:flex; 
     align-items:flex-end; 
-    padding-bottom:60px;
     margin-top:65px;
 }
 
+.sbg{
+    padding-left: 40px;
+}
+.sbg h1{
+    font-weight: 900;
+}
 
-.bg1{ background-image: linear-gradient(to left, rgba(0,0,0,0.2), rgba(0, 42, 72, 0)), url(../img/m_back2.JPG); animation-delay: 0s;}
-.bg2{ background-image: linear-gradient(to bottom, rgba(0,0,0,0.3), rgb(0, 42, 72, 0)), url(../img/m_back4.JPG); animation-delay: 6s;}
-.bg3{ background-image: linear-gradient(to bottom, rgba(0,0,0,0.3), rgb(0, 42, 72, 0)), url(../img/m_back3.JPG); animation-delay: 12s;}
-.bg4{ background-image: linear-gradient(to left, rgba(0,0,0,0.1), rgba(0, 42, 72, 0)), url(../img/m_back1.JPG); animation-delay: 18s;}
+
+.bg1{ background-image: linear-gradient(to left, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../img/m_back2.JPG); animation-delay: 0s;}
+.bg2{ background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), rgb(0,0,0,0.4)), url(../img/m_back4.JPG); animation-delay: 6s;}
+.bg3{ background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), rgb(0,0,0,0.4)), url(../img/m_back3.JPG); animation-delay: 12s;}
+.bg4{ background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0,0,0,0.4)), url(../img/m_back1.JPG); animation-delay: 18s;}
+
+
 
 @keyframes fade {
     0% {opacity: 0;}
@@ -1187,6 +1195,30 @@ MISSION
     25% {opacity: 1;}
     35% {opacity: 0;}
     100% {opacity: 0;}
+}
+
+@media (max-width:990px) {
+    .bg{
+        padding-bottom: 10px;
+    }
+    .sbg p, .sbg h1{
+        line-height: 1.1;
+    }
+    
+}
+
+@media (min-width:990px) {
+    .bg{
+        height: 60vh;
+    }
+    .sbg{
+        margin-left: 200px;
+    }
+    .sbg h1{
+        font-size: 3.5rem;
+        margin-top: -150px;
+    }
+    
 }
 
 
@@ -1230,6 +1262,15 @@ MISSION
         margin-top: 320px;
     }
 }
+
+@media (min-width:990px) {
+    .m_page_content{
+        margin-top: 600px;
+    }
+    
+}
+
+
 /*---AXE D'ACTION-----
 ---------------------*/
 
