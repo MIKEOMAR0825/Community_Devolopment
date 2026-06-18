@@ -678,20 +678,6 @@
             "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
             "translated": "Reduce social and economic inequalities by guaranteeing equitable access to justice, information and opportunities for all, without discrimination."
         },
-        "human_rights_actions": {
-            "source": {
-                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
-                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
-                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
-                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
-            },
-            "translated": {
-                "Sensibilisation": "Workshops, conferences and educational materials to provide information on fundamental rights.",
-                "Accompagnement": "Legal support and advocacy for participatory and respectful governance.",
-                "Lutte contre les discriminations": "Prevention of gender-based violence and promotion of equality.",
-                "Renforcement des capacités": "Training for community leaders and creation of local defense committees."
-            }
-        },
         "human_rights_impact_title": {
             "source": "Impact attendu",
             "translated": "Expected impact"
@@ -733,20 +719,6 @@
         "women_objective_desc": {
             "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
             "translated": "We believe that the empowerment of women is an essential lever for sustainable development. Through training, support and financial support, we give women and girls the tools they need to transform their lives and their communities."
-        },
-        "women_actions": {
-            "source": {
-                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
-                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
-                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
-            },
-            "translated": {
-                "Formation professionnelle": "Leadership workshops, financial management and entrepreneurial skills development.",
-                "Microcrédits à taux zéro": "Financial support to launch or develop an income-generating activity.",
-                "Réseaux de mentorat": "Connecting with women leaders to share experiences and advice.",
-                "Alphabétisation numérique": "Introduction to the use of digital tools to expand opportunities."
-            }
         },
         "women_testimonial": {
             "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
@@ -793,20 +765,6 @@
         "tech_objective_desc": {
             "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
             "translated": "In an increasingly connected world, access to technology is an essential right to fully participate in society. We work to make digital tools accessible to everyone, especially disadvantaged communities, to improve education, employment and access to information."
-        },
-        "tech_actions": {
-            "source": {
-                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
-                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
-                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
-                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
-            },
-            "translated": {
-                "Formations numériques": "Introduction to computers, office automation, internet browsing and online security.",
-                "Outils technologiques utiles": "Distribution of applications for education, health and local commerce.",
-                "Centres numériques communautaires": "Spaces for access to the internet and modern equipment in disadvantaged areas.",
-                "Innovation sociale": "Organizing hackathons and workshops to create local solutions to community problems."
-            }
         },
         "tech_testimonial": {
             "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
@@ -889,6 +847,48 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Awareness": "Workshops, conferences and educational materials to provide information on fundamental rights.",
+                "Accompaniement": "Legal support and advocacy for participatory and respectful governance.",
+                "Fight against discrimination": "Prevention of gender-based violence and promotion of equality.",
+                "Capacity building": "Training for community leaders and creation of local defense committees."
+            }
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "Vocational training": "Leadership workshops, financial management and entrepreneurial skills development.",
+                "Zero-interest microcredits": "Financial support to launch or develop an income-generating activity.",
+                "Mentoring Networks": "Connecting with women leaders to share experiences and advice.",
+                "Digital literacy": "Introduction to the use of digital tools to expand opportunities."
+            }
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Digital training": "Introduction to computers, office automation, internet browsing and online security.",
+                "Useful technology tools": "Distribution of applications for education, health and local commerce.",
+                "Community digital centers": "Spaces for access to the internet and modern equipment in disadvantaged areas.",
+                "Social innovation": "Organizing hackathons and workshops to create local solutions to community problems."
+            }
         }
     },
     "accueil": {

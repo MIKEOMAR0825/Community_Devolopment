@@ -23,6 +23,19 @@ from pathlib import Path
 from deep_translator import GoogleTranslator
 from texts import TEXTS
 
+from deep_translator import (
+    GoogleTranslator
+)
+
+from requests.exceptions import (
+    ConnectionError,
+    Timeout
+)
+
+import logging
+
+logging.basicConfig(level=logging.ERROR)
+
 
 app = Flask(__name__)
 
@@ -81,19 +94,79 @@ def save_language_file(lang, data):
     
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-        
-def translate_value(value, lang):
-    if isinstance(value, str):
-        return GoogleTranslator(source='fr', target=lang).translate(value)
-    
-    elif isinstance(value, list):
-        return [translate_value(v, lang) for v in value]
-    
-    elif isinstance(value, dict):
-        return {k: translate_value(v, lang) for k, v in value.items()}
-    
-    return value
 
+
+#=========== AVANT =======================================        
+#def translate_value(value, lang):
+#    if isinstance(value, str):
+#        return GoogleTranslator(source='fr', target=lang).translate(value)
+    
+#    elif isinstance(value, list):
+#        return [translate_value(v, lang) for v in value]
+#    
+#    elif isinstance(value, dict):
+#        return {k: translate_value(v, lang) for k, v in value.items()}
+    
+#    return value
+
+# =========== APRES =====================================
+def translate_value(value, lang):
+
+    try:
+
+        if isinstance(value, str):
+
+            return (
+                GoogleTranslator(
+                    source="fr",
+                    target=lang
+                )
+                .translate(value)
+            )
+
+        elif isinstance(value, list):
+
+            return [
+                translate_value(v, lang)
+                for v in value
+            ]
+
+        if isinstance(value, dict):
+
+            result = {}
+
+            translator = GoogleTranslator(
+                source="fr",
+                target=lang
+            )
+
+            for k, v in value.items():
+
+                translated_key = (
+                    translator.translate(k)
+                    if isinstance(k, str)
+                    else k
+                )
+
+                result[translated_key] = (
+                    translate_value(v, lang)
+                )
+
+            return result
+
+
+    except (
+        ConnectionError,
+        Timeout,
+        Exception
+    ) as e:
+
+        logging.exception(
+            f"Erreur traduction : {e}"
+        )
+
+        # Fallback :
+        return value
 
 
 def get_lang():
@@ -152,16 +225,49 @@ def translate_texts(page_name, lang):
     return translated
 
 # ----------------- Hook pour traduire toutes les pages -----------------
+
+# ========== AVANT ==========================
+#@app.before_request
+#def auto_translate_request():
+#    endpoint = request.endpoint
+#    if not endpoint:
+#        return
+#    page_name = endpoint
+#    request.translated_texts = translate_texts(page_name, get_lang())
+#    request.current_lang = get_lang()
+
+# ========= APRES ==============================
 @app.before_request
 def auto_translate_request():
-    endpoint = request.endpoint
-    if not endpoint:
-        return
-    page_name = endpoint
-    request.translated_texts = translate_texts(page_name, get_lang())
-    request.current_lang = get_lang()
 
+    try:
 
+        endpoint = request.endpoint
+
+        if not endpoint:
+            return
+
+        request.translated_texts = (
+            translate_texts(
+                endpoint,
+                get_lang()
+            )
+        )
+
+        request.current_lang = get_lang()
+
+    except Exception as e:
+
+        print("TRANSLATION ERROR:", e)
+
+        request.translated_texts = (
+            TEXTS.get(
+                request.endpoint,
+                {}
+            )
+        )
+
+        request.current_lang = "fr"
 
 # ----------------- ROUTES -----------------   
 
