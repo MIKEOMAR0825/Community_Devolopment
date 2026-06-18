@@ -20,7 +20,14 @@
             <p>{{ texts.main_subtitle }}</p>
         </div>
         <div class="main_btn">
-            <a href="/contact" class="btn btn-outline-warning">{{ texts.donate_btn }}</a>
+            <div class="container d-lg-flex justify-content-center gap-5 g-5">
+                <div class="">
+                    <a href="/contact" class="btn btn-outline-warning">{{ texts.donate_btn }}</a>
+                </div>
+                <div class="">
+                    <a href="/contact" class="btn btn-primary">{{texts.partenaire_btn}}</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -134,7 +141,7 @@
 </section>
 
 <!-- Projets en avant -->
-<section class="pro_encours py-5">
+<section class="pro_encours py-5 d-none">
 
     <h2>{{ texts.projects_title }}</h2>
 
@@ -159,7 +166,7 @@
  {% include "composants/cta.html" %}
 
 
-<section class="py-5 px-4">
+<section class="py-5 px-4 d-none">
 
         <h2 class="text-dark fw-bold fs-1 text-center mb-5"> {{ texts.actualite_rec }} </h2>
 

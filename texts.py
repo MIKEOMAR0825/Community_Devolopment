@@ -45,9 +45,10 @@ TEXTS = {
         
     
     "video_unsupported": "Votre navigateur ne supporte pas la vidéo.",
-        "main_title": "Love, Energy and Excellence for a Better Future",
-        "main_subtitle": "-------- Together, let's build a better future",
+        "main_title": "Amour, Énergie et Excellence pour un avenir meilleur",
+        "main_subtitle": "Ensemble, construisons un avenir meilleur",
         "donate_btn": "FAIRE UN DON",
+        "partenaire_btn": "DEVENIR PARTENAIRE",
 
         "historique_title": "Bienvenue chez Community Development",
         "historique_text1": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
@@ -750,7 +751,7 @@ TEXTS = {
         "service_hours_title": "Heures de service",
 
         "weekday": "Lundi – Vendredi",
-        "weekday_hours": "8:00 – 17:00",
+        "weekday_hours": "8:00 – 16:00",
 
         "saturday": "Samedi",
         "saturday_hours": "08:00 – 12:00",

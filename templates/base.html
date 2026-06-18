@@ -71,7 +71,7 @@
                     <li><a href="/apropos" class="{% if request.path == '/apropos' %}active{% endif %}"> {{ texts.nav_about }} </a></li>
                     <li><a href="/actualite" class="{% if request.path == '/actualite' %}active{% endif %}"> {{ texts.nav_news}} </a></li>
                     <li><a href="/project" class="{% if request.path == '/project' %}active{% endif %}"> {{ texts.nav_project }} </a></li>
-                    <li><a href="/contact" class="{% if request.path == '/contact' %}active{% endif %}">Contact</a></li>
+                    <li><a href="/contact" class="{% if request.path == '/contact' %}active{% endif %}">{{ texts.nav_contact}}</a></li>
                     <li class="d-none"><a href="/donation" class="{% if request.path == '/donation' %}active{% endif %} donation">DONATION</a></li>
                     
                     {% include 'composants/langues.html' %}
@@ -94,13 +94,13 @@
                 <h2 class="fw-bold mb-4"> {{ texts.contact_title }} </h2>
 
                 <h4> {{ texts.contact_phone_title }} </h4>
-                +243 823 255 768 <br> +243 xxx xxx xxx
+                +243 823 255 768 <br> +243 829 349 530
 
                 <h4>{{ texts.contact_email_title }}</h4>
                 <a href="">xxxxxx@gmail.com</a>
 
                 <h4>{{texts.contact_address_title }}</h4>
-                N° 9999, Boulevard Lumumba, 1ère Rue Dilandos,<br>Limete Industriel, Kinshasa, RD Congo.
+                N° 1539 Avenue Kabinda, Quartier Bon Marché, Commune Barumbu, Kinshasa, RD Congo
 
                 <div class="contact_icon">
                     <h4>{{texts.contact_social_title }}</h4>
