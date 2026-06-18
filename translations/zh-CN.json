@@ -1106,20 +1106,6 @@
             "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
             "translated": "通过保证所有人不受歧视地平等获得司法、信息和机会，减少社会和经济不平等。"
         },
-        "human_rights_actions": {
-            "source": {
-                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
-                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
-                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
-                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
-            },
-            "translated": {
-                "Sensibilisation": "提供有关基本权利信息的讲习班、会议和教育材料。",
-                "Accompagnement": "对参与性和尊重性治理的法律支持和倡导。",
-                "Lutte contre les discriminations": "预防性别暴力并促进平等。",
-                "Renforcement des capacités": "培训社区领袖并建立地方防御委员会。"
-            }
-        },
         "human_rights_impact_title": {
             "source": "Impact attendu",
             "translated": "预期影响"
@@ -1161,20 +1147,6 @@
         "women_objective_desc": {
             "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
             "translated": "我们相信，赋予妇女权力是可持续发展的重要杠杆。通过培训、支持和财政支持，我们为妇女和女孩提供改变生活和社区所需的工具。"
-        },
-        "women_actions": {
-            "source": {
-                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
-                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
-                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
-            },
-            "translated": {
-                "Formation professionnelle": "领导力研讨会、财务管理和创业技能发展。",
-                "Microcrédits à taux zéro": "为启动或开展创收活动提供财政支持。",
-                "Réseaux de mentorat": "与女性领导人联系，分享经验和建议。",
-                "Alphabétisation numérique": "介绍如何使用数字工具来扩大机会。"
-            }
         },
         "women_testimonial": {
             "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
@@ -1221,20 +1193,6 @@
         "tech_objective_desc": {
             "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
             "translated": "在联系日益紧密的世界中，获得技术是充分参与社会的一项基本权利。我们致力于让每个人，特别是弱势群体都能使用数字工具，以改善教育、就业和信息获取。"
-        },
-        "tech_actions": {
-            "source": {
-                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
-                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
-                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
-                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
-            },
-            "translated": {
-                "Formations numériques": "计算机、办公自动化、互联网浏览和在线安全简介。",
-                "Outils technologiques utiles": "分发教育、健康和本地商业应用程序。",
-                "Centres numériques communautaires": "为贫困地区提供接入互联网和现代设备的空间。",
-                "Innovation sociale": "组织黑客马拉松和研讨会，为社区问题创建本地解决方案。"
-            }
         },
         "tech_testimonial": {
             "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
@@ -1317,6 +1275,48 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "意识": "提供有关基本权利信息的讲习班、会议和教育材料。",
+                "伴奏": "对参与性和尊重性治理的法律支持和倡导。",
+                "反对歧视": "预防性别暴力并促进平等。",
+                "能力建设": "培训社区领袖并建立地方防御委员会。"
+            }
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "职业培训": "领导力研讨会、财务管理和创业技能发展。",
+                "零利率小额信贷": "为启动或开展创收活动提供财政支持。",
+                "辅导网络": "与女性领导人联系，分享经验和建议。",
+                "数字素养": "介绍如何使用数字工具来扩大机会。"
+            }
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "数字化培训": "计算机、办公自动化、互联网浏览和在线安全简介。",
+                "有用的技术工具": "分发教育、健康和本地商业应用程序。",
+                "社区数字中心": "为贫困地区提供接入互联网和现代设备的空间。",
+                "社会创新": "组织黑客马拉松和研讨会，为社区问题创建本地解决方案。"
+            }
         }
     },
     "accueil": {

@@ -742,20 +742,6 @@
             "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
             "translated": "Reducir las desigualdades sociales y económicas garantizando el acceso equitativo a la justicia, la información y las oportunidades para todos, sin discriminación."
         },
-        "human_rights_actions": {
-            "source": {
-                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
-                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
-                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
-                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
-            },
-            "translated": {
-                "Sensibilisation": "Talleres, conferencias y materiales educativos para brindar información sobre derechos fundamentales.",
-                "Accompagnement": "Apoyo legal y promoción de una gobernanza participativa y respetuosa.",
-                "Lutte contre les discriminations": "Prevención de la violencia de género y promoción de la igualdad.",
-                "Renforcement des capacités": "Capacitación a líderes comunitarios y creación de comités de defensa locales."
-            }
-        },
         "human_rights_impact_title": {
             "source": "Impact attendu",
             "translated": "Impacto esperado"
@@ -797,20 +783,6 @@
         "women_objective_desc": {
             "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
             "translated": "Creemos que el empoderamiento de las mujeres es una palanca esencial para el desarrollo sostenible. A través de capacitación, apoyo y apoyo financiero, brindamos a mujeres y niñas las herramientas que necesitan para transformar sus vidas y sus comunidades."
-        },
-        "women_actions": {
-            "source": {
-                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
-                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
-                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
-            },
-            "translated": {
-                "Formation professionnelle": "Talleres de liderazgo, gestión financiera y desarrollo de habilidades emprendedoras.",
-                "Microcrédits à taux zéro": "Apoyo financiero para iniciar o desarrollar una actividad generadora de ingresos.",
-                "Réseaux de mentorat": "Conectarse con mujeres líderes para compartir experiencias y consejos.",
-                "Alphabétisation numérique": "Introducción al uso de herramientas digitales para ampliar oportunidades."
-            }
         },
         "women_testimonial": {
             "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
@@ -857,20 +829,6 @@
         "tech_objective_desc": {
             "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
             "translated": "En un mundo cada vez más conectado, el acceso a la tecnología es un derecho esencial para participar plenamente en la sociedad. Trabajamos para que las herramientas digitales sean accesibles para todos, especialmente para las comunidades desfavorecidas, para mejorar la educación, el empleo y el acceso a la información."
-        },
-        "tech_actions": {
-            "source": {
-                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
-                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
-                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
-                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
-            },
-            "translated": {
-                "Formations numériques": "Introducción a la informática, la ofimática, la navegación por Internet y la seguridad online.",
-                "Outils technologiques utiles": "Distribución de aplicaciones para educación, salud y comercio local.",
-                "Centres numériques communautaires": "Espacios para acceso a internet y equipamiento moderno en zonas desfavorecidas.",
-                "Innovation sociale": "Organizar hackatones y talleres para crear soluciones locales a los problemas de la comunidad."
-            }
         },
         "tech_testimonial": {
             "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
@@ -953,6 +911,48 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Conciencia": "Talleres, conferencias y materiales educativos para brindar información sobre derechos fundamentales.",
+                "Acompañamiento": "Apoyo legal y promoción de una gobernanza participativa y respetuosa.",
+                "Lucha contra la discriminación": "Prevención de la violencia de género y promoción de la igualdad.",
+                "Desarrollo de capacidades": "Capacitación a líderes comunitarios y creación de comités de defensa locales."
+            }
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "formación profesional": "Talleres de liderazgo, gestión financiera y desarrollo de habilidades emprendedoras.",
+                "Microcréditos sin interés": "Apoyo financiero para iniciar o desarrollar una actividad generadora de ingresos.",
+                "Redes de mentoría": "Conectarse con mujeres líderes para compartir experiencias y consejos.",
+                "Alfabetización digital": "Introducción al uso de herramientas digitales para ampliar oportunidades."
+            }
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Formación digital": "Introducción a la informática, la ofimática, la navegación por Internet y la seguridad online.",
+                "Herramientas tecnológicas útiles": "Distribución de aplicaciones para educación, salud y comercio local.",
+                "Centros digitales comunitarios": "Espacios para acceso a internet y equipamiento moderno en zonas desfavorecidas.",
+                "Innovación social": "Organizar hackatones y talleres para crear soluciones locales a los problemas de la comunidad."
+            }
         }
     },
     "apropos": {

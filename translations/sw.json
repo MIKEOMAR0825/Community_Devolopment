@@ -1380,20 +1380,6 @@
             "source": "Réduire les inégalités sociales et économiques en garantissant à tous un accès équitable à la justice, à l’information et aux opportunités, sans discrimination.",
             "translated": "Kupunguza usawa wa kijamii na kiuchumi kwa kuhakikisha upatikanaji sawa wa haki, habari na fursa kwa wote, bila ubaguzi."
         },
-        "human_rights_actions": {
-            "source": {
-                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
-                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
-                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
-                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
-            },
-            "translated": {
-                "Sensibilisation": "Warsha, makongamano na nyenzo za elimu ili kutoa taarifa juu ya haki za kimsingi.",
-                "Accompagnement": "Usaidizi wa kisheria na utetezi wa utawala shirikishi na wenye heshima.",
-                "Lutte contre les discriminations": "Kuzuia unyanyasaji wa kijinsia na kukuza usawa.",
-                "Renforcement des capacités": "Mafunzo kwa viongozi wa jamii na kuunda kamati za ulinzi za mitaa."
-            }
-        },
         "human_rights_impact_title": {
             "source": "Impact attendu",
             "translated": "Athari inayotarajiwa"
@@ -1435,20 +1421,6 @@
         "women_objective_desc": {
             "source": "Nous croyons que l’autonomisation des femmes est un levier essentiel pour le développement durable. À travers la formation, l’accompagnement et le soutien financier, nous donnons aux femmes et aux jeunes filles les outils nécessaires pour transformer leur vie et leur communauté.",
             "translated": "Tunaamini kuwa uwezeshaji wa wanawake ni kigezo muhimu kwa maendeleo endelevu. Kupitia mafunzo, usaidizi na usaidizi wa kifedha, tunawapa wanawake na wasichana zana wanazohitaji ili kubadilisha maisha yao na jamii zao."
-        },
-        "women_actions": {
-            "source": {
-                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
-                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
-                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
-            },
-            "translated": {
-                "Formation professionnelle": "Warsha za uongozi, usimamizi wa fedha na ukuzaji ujuzi wa ujasiriamali.",
-                "Microcrédits à taux zéro": "Usaidizi wa kifedha wa kuanzisha au kuendeleza shughuli ya kuzalisha mapato.",
-                "Réseaux de mentorat": "Kuungana na viongozi wanawake kubadilishana uzoefu na ushauri.",
-                "Alphabétisation numérique": "Utangulizi wa matumizi ya zana za kidijitali kupanua fursa."
-            }
         },
         "women_testimonial": {
             "source": "\"Grâce au programme de microcrédit de CD, j’ai pu ouvrir ma boutique et subvenir aux besoins de mes enfants. Aujourd’hui, je forme d’autres femmes à faire de même.\" — Sarah, bénéficiaire",
@@ -1495,20 +1467,6 @@
         "tech_objective_desc": {
             "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
             "translated": "Katika ulimwengu unaozidi kushikamana, ufikiaji wa teknolojia ni haki muhimu ya kushiriki kikamilifu katika jamii. Tunajitahidi kufanya zana za kidijitali kufikiwa na kila mtu, hasa jamii zisizojiweza, ili kuboresha elimu, ajira na ufikiaji wa taarifa."
-        },
-        "tech_actions": {
-            "source": {
-                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
-                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
-                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
-                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
-            },
-            "translated": {
-                "Formations numériques": "Utangulizi wa kompyuta, automatisering ya ofisi, kuvinjari mtandao na usalama wa mtandaoni.",
-                "Outils technologiques utiles": "Usambazaji wa maombi ya elimu, afya na biashara ya ndani.",
-                "Centres numériques communautaires": "Nafasi za upatikanaji wa mtandao na vifaa vya kisasa katika maeneo yenye shida.",
-                "Innovation sociale": "Kuandaa hackathons na warsha ili kuunda ufumbuzi wa ndani kwa matatizo ya jamii."
-            }
         },
         "tech_testimonial": {
             "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
@@ -1591,6 +1549,48 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
+        },
+        "human_rights_actions": {
+            "source": {
+                "Sensibilisation": "Ateliers, conférences et supports pédagogiques pour informer sur les droits fondamentaux.",
+                "Accompagnement": "Soutien juridique et plaidoyer pour une gouvernance participative et respectueuse.",
+                "Lutte contre les discriminations": "Prévention des violences basées sur le genre et promotion de l’égalité.",
+                "Renforcement des capacités": "Formations pour leaders communautaires et création de comités locaux de défense."
+            },
+            "translated": {
+                "Ufahamu": "Warsha, makongamano na nyenzo za elimu ili kutoa taarifa juu ya haki za kimsingi.",
+                "Kusindikiza": "Usaidizi wa kisheria na utetezi wa utawala shirikishi na wenye heshima.",
+                "Pambana na ubaguzi": "Kuzuia unyanyasaji wa kijinsia na kukuza usawa.",
+                "Kujenga uwezo": "Mafunzo kwa viongozi wa jamii na kuunda kamati za ulinzi za mitaa."
+            }
+        },
+        "women_actions": {
+            "source": {
+                "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
+                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
+                "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
+            },
+            "translated": {
+                "Mafunzo ya ufundi": "Warsha za uongozi, usimamizi wa fedha na ukuzaji ujuzi wa ujasiriamali.",
+                "Mikopo ndogo isiyo na riba": "Usaidizi wa kifedha wa kuanzisha au kuendeleza shughuli ya kuzalisha mapato.",
+                "Mitandao ya Ushauri": "Kuungana na viongozi wanawake kubadilishana uzoefu na ushauri.",
+                "Ujuzi wa kidijitali": "Utangulizi wa matumizi ya zana za kidijitali kupanua fursa."
+            }
+        },
+        "tech_actions": {
+            "source": {
+                "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
+                "Outils technologiques utiles": "Diffusion d’applications pour l’éducation, la santé et le commerce local.",
+                "Centres numériques communautaires": "Espaces d’accès à internet et à des équipements modernes dans les zones défavorisées.",
+                "Innovation sociale": "Organisation de hackathons et ateliers pour créer des solutions locales aux problèmes communautaires."
+            },
+            "translated": {
+                "Mafunzo ya kidijitali": "Utangulizi wa kompyuta, automatisering ya ofisi, kuvinjari mtandao na usalama wa mtandaoni.",
+                "Zana za teknolojia muhimu": "Usambazaji wa maombi ya elimu, afya na biashara ya ndani.",
+                "Vituo vya dijiti vya jamii": "Nafasi za upatikanaji wa mtandao na vifaa vya kisasa katika maeneo yenye shida.",
+                "Ubunifu wa kijamii": "Kuandaa hackathons na warsha ili kuunda ufumbuzi wa ndani kwa matatizo ya jamii."
+            }
         }
     }
 }
