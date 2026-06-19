@@ -439,7 +439,6 @@ def newsletter():
         # -----------------------------
         msg = Message(
             subject="Merci pour votre inscription",
-            sender=app.config["MAIL_USERNAME"],
             recipients=[email]
         )
 
@@ -471,10 +470,16 @@ def newsletter():
         mail.send(msg)
         flash( "Merci pour votre abonnement !", "success")
 
-    except Exception:
+    except Exception as e:
         db.session.rollback()
-        flash("Erreur lors de l'enregistrement.","error" )
 
+        print("NEWSLETTER ERROR:", str(e))
+
+        flash(
+            f"Erreur : {str(e)}",
+            "error"
+        )
+        
     return redirect(url_for("accueil"))
     
 
