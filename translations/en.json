@@ -207,6 +207,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "contact": {
@@ -465,6 +473,14 @@
         "social_contact_title": {
             "source": "Suivez-nous",
             "translated": "Follow us"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "mission": {
@@ -889,6 +905,14 @@
                 "Community digital centers": "Spaces for access to the internet and modern equipment in disadvantaged areas.",
                 "Social innovation": "Organizing hackathons and workshops to create local solutions to community problems."
             }
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "accueil": {
@@ -1163,6 +1187,14 @@
         "partenaire_btn": {
             "source": "DEVENIR PARTENAIRE",
             "translated": "BECOME A PARTNER"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "donation": {
@@ -1527,6 +1559,14 @@
         "ceo_text3": {
             "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
             "translated": "Founded by Ms. Amudiandroy Embela Nathalie, Community Development was born from a simple but ambitious vision: to build a more just, inclusive and united society."
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "actualite": {
@@ -1705,6 +1745,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     }
 }

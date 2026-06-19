@@ -43,6 +43,10 @@ TEXTS = {
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
         
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+
     
     "video_unsupported": "Votre navigateur ne supporte pas la vidéo.",
         "main_title": "Amour, Énergie et Excellence pour un avenir meilleur",
@@ -164,6 +168,10 @@ TEXTS = {
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
         
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
         "cta_text": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
@@ -346,6 +354,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -475,6 +487,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -552,6 +568,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -642,6 +662,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -699,6 +723,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -756,6 +784,10 @@ TEXTS = {
 
         # ================= FOOTER =================
         "footer_text": "©2025 Community Development | Tous droits réservés",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
         #=================== CTA ================================
         "cta_title": "Agissez avec nous",
@@ -795,6 +827,10 @@ TEXTS = {
         # ================= NEWSLETTER =================
         "newsletter_title": "Abonnez-vous à notre Newsletter",
         "newsletter_subtitle": "Recevez nos dernières actualités directement dans votre boîte mail",
+        
+        # =============== PARTENAIRES ===================
+        "partner_title": "NOS PARTENAIRES",
+        "partner": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
 
 
         # ================= HERO =================

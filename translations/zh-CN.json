@@ -175,6 +175,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     },
     "project": {
@@ -385,6 +393,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     },
     "contact": {
@@ -643,6 +659,14 @@
         "contact_social_title": {
             "source": "Réseaux sociaux",
             "translated": "社交网络"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     },
     "apropos": {
@@ -905,6 +929,14 @@
         "ceo_text3": {
             "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
             "translated": "社区发展由 Amudiandroy Embela Nathalie 女士创立，源于一个简单但雄心勃勃的愿景：建立一个更加公正、包容和团结的社会。"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     },
     "mission": {
@@ -1329,6 +1361,14 @@
                 "社区数字中心": "为贫困地区提供接入互联网和现代设备的空间。",
                 "社会创新": "组织黑客马拉松和研讨会，为社区问题创建本地解决方案。"
             }
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     },
     "accueil": {
@@ -1603,6 +1643,14 @@
         "partenaire_btn": {
             "source": "DEVENIR PARTENAIRE",
             "translated": "成为合作伙伴"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
         }
     }
 }

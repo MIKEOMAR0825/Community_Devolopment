@@ -271,6 +271,14 @@
         "partenaire_btn": {
             "source": "DEVENIR PARTENAIRE",
             "translated": "KUWA MWENZI"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     },
     "project": {
@@ -481,6 +489,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     },
     "contact": {
@@ -739,6 +755,14 @@
         "contact_social_title": {
             "source": "Réseaux sociaux",
             "translated": "Mitandao ya kijamii"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     },
     "actualite": {
@@ -917,6 +941,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Zaidi ya haki, usawa zaidi, jumuishi zaidi, shukrani zaidi kwa teknolojia"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     },
     "apropos": {
@@ -1179,6 +1211,14 @@
         "ceo_text3": {
             "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
             "translated": "Ilianzishwa na Bi. Amudiandroy Embela Nathalie, Maendeleo ya Jamii yalizaliwa kutokana na maono rahisi lakini yenye matarajio makubwa: kujenga jamii yenye haki zaidi, jumuishi na yenye umoja."
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     },
     "mission": {
@@ -1603,6 +1643,14 @@
                 "Vituo vya dijiti vya jamii": "Nafasi za upatikanaji wa mtandao na vifaa vya kisasa katika maeneo yenye shida.",
                 "Ubunifu wa kijamii": "Kuandaa hackathons na warsha ili kuunda ufumbuzi wa ndani kwa matatizo ya jamii."
             }
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "WADAU WETU"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
         }
     }
 }

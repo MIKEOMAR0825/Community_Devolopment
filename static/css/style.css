@@ -1132,6 +1132,21 @@ iframe{
     padding-bottom: 20px;
 }
 
+/* PARTENAIRE */
+.partner_box{
+    min-width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden; 
+    background-image: linear-gradient(rgb(1,26,44,0.8), rgb(1,26,44,0.8)), url(../img/2.jpg);
+}
+.partner img{
+    width: 150px;
+    height: auto;
+    padding: 8px;
+
+}
+
 /* FOOTER */
 footer{
     padding: 1.5rem;
@@ -1139,7 +1154,14 @@ footer{
     color: rgb(243, 243, 243);
     text-align: center;
 }
-
+@media (max-width:990px) {
+    .partner img{
+        width: 60px;
+        height: auto;
+        padding: 5px;
+    }
+    
+}
 
 
 /*------------------------------------------------------------------

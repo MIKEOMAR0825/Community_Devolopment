@@ -255,6 +255,14 @@
         "social_contact_title": {
             "source": "Suivez-nous",
             "translated": "Síganos"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     },
     "accueil": {
@@ -529,6 +537,14 @@
         "partenaire_btn": {
             "source": "DEVENIR PARTENAIRE",
             "translated": "CONVIÉRTETE EN SOCIO"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     },
     "mission": {
@@ -953,6 +969,14 @@
                 "Centros digitales comunitarios": "Espacios para acceso a internet y equipamiento moderno en zonas desfavorecidas.",
                 "Innovación social": "Organizar hackatones y talleres para crear soluciones locales a los problemas de la comunidad."
             }
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     },
     "apropos": {
@@ -1215,6 +1239,14 @@
         "ceo_text3": {
             "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
             "translated": "Fundada por la Sra. Amudiandroy Embela Nathalie, Community Development nació de una visión simple pero ambiciosa: construir una sociedad más justa, inclusiva y unida."
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     },
     "actualite": {
@@ -1393,6 +1425,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     },
     "project": {
@@ -1603,6 +1643,14 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "Más justo, más equitativo, más inclusivo, más resiliente gracias a la tecnología"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "NUESTROS SOCIOS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
         }
     }
 }
