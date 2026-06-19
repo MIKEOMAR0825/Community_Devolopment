@@ -827,6 +827,11 @@ TEXTS = {
         # ================= NEWSLETTER =================
         "newsletter_title": "Abonnez-vous à notre Newsletter",
         "newsletter_subtitle": "Recevez nos dernières actualités directement dans votre boîte mail",
+
+        #=================== CTA ================================
+        "cta_title": "Agissez avec nous",
+        "cta_text": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+        "cta_btn": "Rejoignez-nous",
         
         # =============== PARTENAIRES ===================
         "partner_title": "NOS PARTENAIRES",
