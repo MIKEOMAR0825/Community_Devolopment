@@ -347,12 +347,12 @@
             "translated": "Send a message"
         },
         "form_title": {
-            "source": "Réservez une",
+            "source": "Réservez un",
             "translated": "Book a"
         },
         "form_title_span": {
-            "source": "consultation gratuite",
-            "translated": "free consultation"
+            "source": "rendez-vous",
+            "translated": "appointment"
         },
         "form_subtitle": {
             "source": "Remplissez le formulaire et l'un de nos conseillers vous contactera dans l'heure.",
@@ -577,12 +577,12 @@
             "translated": "OUR MISSION"
         },
         "main_description": {
-            "source": "Chez Community Development (CD), nous croyons que chaque être humain, quel que soit son genre, son origine ou son statut social, a le droit de vivre dans la dignité, d'avoir accès aux ressources nécessaires pour s'épanouir et de contribuer activement au développement de sa communauté.",
-            "translated": "At Community Development (CD), we believe that every human being, regardless of gender, origin or social status, has the right to live with dignity, to have access to the resources necessary to flourish and to actively contribute to the development of their community."
+            "source": "Chez Community Development (CD), nous croyons que chaque être humain, indépendamment de son genre, de son origine ou de sa condition sociale, mérite de vivre dans la dignité, de jouir pleinement de ses droits et de participer activement au développement de sa communauté.",
+            "translated": "At Community Development (CD), we believe that every human being, regardless of gender, origin or social condition, deserves to live with dignity, fully enjoy their rights and actively participate in the development of their community."
         },
         "mission_statement_intro": {
-            "source": "Notre mission est claire et ambitieuse :",
-            "translated": "Our mission is clear and ambitious:"
+            "source": "Notre mission est de promouvoir le développement humain durable à travers la défense des droits fondamentaux, l’autonomisation des femmes et l’accès équitable aux technologies, afin de bâtir des communautés inclusives, résilientes et prospères.",
+            "translated": "Our mission is to promote sustainable human development through the defense of fundamental rights, the empowerment of women and equitable access to technologies, in order to build inclusive, resilient and prosperous communities."
         },
         "mission_statement": {
             "source": "Promouvoir le bien-être humain à travers la défense des droits fondamentaux, l'autonomisation des femmes et l'accès équitable aux technologies utiles.",
@@ -637,12 +637,12 @@
             ]
         },
         "why_mission_title": {
-            "source": "Pourquoi cette mission",
-            "translated": "Why this mission"
+            "source": "Pourquoi cette mission ?",
+            "translated": "Why this mission?"
         },
         "why_mission_desc": {
-            "source": "La République Démocratique du Congo, riche de sa diversité, fait face à de nombreux défis : pauvreté, inégalités sociales, marginalisation des femmes, accès limité à l'innovation. Face à cela, l'ONG CD agit comme un pont entre le potentiel des communautés et les moyens de leur développement.",
-            "translated": "The Democratic Republic of Congo, rich in its diversity, faces many challenges: poverty, social inequalities, marginalization of women, limited access to innovation. Faced with this, the NGO CD acts as a bridge between the potential of communities and the means of their development."
+            "source": "Parce que le développement ne peut être durable que lorsqu’il est inclusif. Face aux défis sociaux, économiques et technologiques auxquels sont confrontées de nombreuses communautés en RDC, Community Development (CD) agit pour renforcer les capacités des populations, promouvoir l’égalité des chances et favoriser un accès équitable aux opportunités de développement.",
+            "translated": "Because development can only be sustainable when it is inclusive. Faced with the social, economic and technological challenges faced by many communities in the DRC, Community Development (CD) acts to strengthen the capacities of populations, promote equal opportunities and promote equitable access to development opportunities."
         },
         "why_mission_goal": {
             "source": "Nous travaillons sur le terrain, au plus près des populations, pour construire une société :",
@@ -763,8 +763,8 @@
             "translated": "Our goal"
         },
         "tech_objective_desc": {
-            "source": "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information.",
-            "translated": "In an increasingly connected world, access to technology is an essential right to fully participate in society. We work to make digital tools accessible to everyone, especially disadvantaged communities, to improve education, employment and access to information."
+            "source": "Réduire la fracture numérique en facilitant l’accès aux technologies et aux compétences numériques pour tous, particulièrement au sein des communautés défavorisées, afin de promouvoir l’éducation, l’emploi et l’inclusion sociale.",
+            "translated": "Reduce the digital divide by facilitating access to technologies and digital skills for all, particularly within disadvantaged communities, in order to promote education, employment and social inclusion."
         },
         "tech_testimonial": {
             "source": "\"Avant de rejoindre les ateliers numériques de CD, je ne savais même pas utiliser un ordinateur. Aujourd’hui, je gère ma petite boutique en ligne.\" — Jean-Paul, participant",
@@ -865,13 +865,13 @@
         "women_actions": {
             "source": {
                 "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-                "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+                "Microcrédits à taux d’intérêt zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
                 "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
                 "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
             },
             "translated": {
                 "Vocational training": "Leadership workshops, financial management and entrepreneurial skills development.",
-                "Zero-interest microcredits": "Financial support to launch or develop an income-generating activity.",
+                "Microcredits at zero interest rate": "Financial support to launch or develop an income-generating activity.",
                 "Mentoring Networks": "Connecting with women leaders to share experiences and advice.",
                 "Digital literacy": "Introduction to the use of digital tools to expand opportunities."
             }
@@ -1377,8 +1377,8 @@
             "translated": "Message from the CEO"
         },
         "ceo_text": {
-            "source": "Community Development (CD) est une organisation congolaise engagée pour la justice sociale, l’inclusion technologique et l’égalité des chances.",
-            "translated": "Community Development (CD) is a Congolese organization committed to social justice, technological inclusion and equal opportunities."
+            "source": "Community Development (CD) est une Organisation Non Gouvernementale fondée à Kinshasa avec la conviction que le développement durable repose avant tout sur l’épanouissement des communautés et la valorisation du potentiel humain.",
+            "translated": "Community Development (CD) is a Non-Governmental Organization founded in Kinshasa with the conviction that sustainable development is based above all on the development of communities and the enhancement of human potential."
         },
         "ceo_name": {
             "source": "Nathalie AMUDIANDROY",
@@ -1515,6 +1515,18 @@
         "bg41": {
             "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
             "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
+        },
+        "ceo_text1": {
+            "source": "Face aux défis persistants que sont la pauvreté, les inégalités sociales, la marginalisation des femmes et l’accès limité aux technologies, Community Development s’engage à promouvoir des solutions concrètes et durables au bénéfice des populations les plus vulnérables.",
+            "translated": "Faced with the persistent challenges of poverty, social inequalities, the marginalization of women and limited access to technologies, Community Development is committed to promoting concrete and sustainable solutions for the benefit of the most vulnerable populations."
+        },
+        "ceo_text2": {
+            "source": "Notre action s’articule autour de trois axes principaux : la promotion des droits humains, l’autonomisation des femmes et l’inclusion technologique et numérique. À travers ces domaines d’intervention, nous œuvrons à renforcer les capacités des individus et des communautés afin qu’ils puissent devenir de véritables acteurs de leur propre développement.",
+            "translated": "Our action revolves around three main axes: the promotion of human rights, the empowerment of women and technological and digital inclusion. Through these areas of intervention, we work to strengthen the capacities of individuals and communities so that they can become real actors in their own development."
+        },
+        "ceo_text3": {
+            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
+            "translated": "Founded by Ms. Amudiandroy Embela Nathalie, Community Development was born from a simple but ambitious vision: to build a more just, inclusive and united society."
         }
     },
     "actualite": {

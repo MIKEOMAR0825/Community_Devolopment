@@ -173,19 +173,15 @@ TEXTS = {
         "page_title": "MISSION",
         "main_title": "NOTRE MISSION",
         "main_description": (
-            "Chez Community Development (CD), nous croyons que "
-            "chaque être humain, quel que soit son genre, son "
-            "origine ou son statut social, a le droit de vivre "
-            "dans la dignité, d'avoir accès aux ressources nécessaires "
-            "pour s'épanouir et de contribuer activement au développement "
-            "de sa communauté."
+            "Chez Community Development (CD), nous croyons que chaque être humain, indépendamment de son genre, de son origine ou de sa condition sociale, mérite de vivre dans la dignité, de jouir pleinement de ses droits et de participer activement au développement de sa communauté."
         ),
-        "mission_statement_intro": "Notre mission est claire et ambitieuse :",
-        "mission_statement": (
-            "Promouvoir le bien-être humain à travers la défense des droits "
-            "fondamentaux, l'autonomisation des femmes et l'accès équitable "
-            "aux technologies utiles."
-        ),
+        "mission_statement_intro": "Notre mission est de promouvoir le développement humain durable à travers la défense des droits fondamentaux, l’autonomisation des femmes et l’accès équitable aux technologies, afin de bâtir des communautés inclusives, résilientes et prospères.",
+        
+        #"mission_statement": (
+        #    "Promouvoir le bien-être humain à travers la défense des droits "
+        #    "fondamentaux, l'autonomisation des femmes et l'accès équitable "
+        #    "aux technologies utiles."
+        #),
 
         # Axe d'action
         "axe_title_defense": "Défendre les droits fondamentaux",
@@ -210,12 +206,9 @@ TEXTS = {
         ],
 
         # Pourquoi cette mission
-        "why_mission_title": "Pourquoi cette mission",
+        "why_mission_title": "Pourquoi cette mission ?",
         "why_mission_desc": (
-            "La République Démocratique du Congo, riche de sa diversité, fait face à "
-            "de nombreux défis : pauvreté, inégalités sociales, marginalisation des "
-            "femmes, accès limité à l'innovation. Face à cela, l'ONG CD agit comme "
-            "un pont entre le potentiel des communautés et les moyens de leur développement."
+            "Parce que le développement ne peut être durable que lorsqu’il est inclusif. Face aux défis sociaux, économiques et technologiques auxquels sont confrontées de nombreuses communautés en RDC, Community Development (CD) agit pour renforcer les capacités des populations, promouvoir l’égalité des chances et favoriser un accès équitable aux opportunités de développement."
         ),
         "why_mission_goal": "Nous travaillons sur le terrain, au plus près des populations, pour construire une société :",
         "why_mission_values": ["PLUS JUSTE", "PLUS EQUITABLE", "PLUS INCLUSIVE", "PLUS RESILIENTE GRACE A LA TECHNOLOGIE"],
@@ -252,7 +245,7 @@ TEXTS = {
         ),
         "women_actions": {
             "Formation professionnelle": "Ateliers de leadership, gestion financière et développement de compétences entrepreneuriales.",
-            "Microcrédits à taux zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
+            "Microcrédits à taux d’intérêt zéro": "Soutien financier pour lancer ou développer une activité génératrice de revenus.",
             "Réseaux de mentorat": "Mise en relation avec des femmes leaders pour partager expériences et conseils.",
             "Alphabétisation numérique": "Initiation à l’utilisation des outils numériques pour élargir les opportunités."
         },
@@ -275,8 +268,7 @@ TEXTS = {
         ),
         "tech_objective_title": "Notre objectif",
         "tech_objective_desc": (
-            "Dans un monde de plus en plus connecté, l’accès à la technologie est un droit essentiel pour participer pleinement à la société. "
-            "Nous travaillons à rendre les outils numériques accessibles à tous, en particulier aux communautés défavorisées, pour améliorer l’éducation, l’emploi et l’accès à l’information."
+            "Réduire la fracture numérique en facilitant l’accès aux technologies et aux compétences numériques pour tous, particulièrement au sein des communautés défavorisées, afin de promouvoir l’éducation, l’emploi et l’inclusion sociale."
         ),
         "tech_actions": {
             "Formations numériques": "Initiation à l’informatique, bureautique, navigation internet et sécurité en ligne.",
@@ -364,8 +356,12 @@ TEXTS = {
         "apropos": "A PROPOS DE NOUS",
         # CEO
         "ceo_title": "Message de la CEO",
-        "ceo_text": "Community Development (CD) est une organisation congolaise engagée pour la justice sociale, l’inclusion technologique et l’égalité des chances.",
-        "ceo_name": "Nathalie AMUDIANDROY",
+        "ceo_text": "Community Development (CD) est une Organisation Non Gouvernementale fondée à Kinshasa avec la conviction que le développement durable repose avant tout sur l’épanouissement des communautés et la valorisation du potentiel humain.",
+        "ceo_text1": "Face aux défis persistants que sont la pauvreté, les inégalités sociales, la marginalisation des femmes et l’accès limité aux technologies, Community Development s’engage à promouvoir des solutions concrètes et durables au bénéfice des populations les plus vulnérables.",
+        "ceo_text2": "Notre action s’articule autour de trois axes principaux : la promotion des droits humains, l’autonomisation des femmes et l’inclusion technologique et numérique. À travers ces domaines d’intervention, nous œuvrons à renforcer les capacités des individus et des communautés afin qu’ils puissent devenir de véritables acteurs de leur propre développement.",
+        "ceo_text3": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
+ 
+        #"ceo_name": "Nathalie AMUDIANDROY",
 
         # Devise
         "motto": "Sous la devise « Together, let’s build a better future »",
@@ -824,8 +820,8 @@ TEXTS = {
         # ================= FORMULAIRE =================
         "form_badge": "Envoyer un message",
 
-        "form_title": "Réservez une",
-        "form_title_span": "consultation gratuite",
+        "form_title": "Réservez un",
+        "form_title_span": "rendez-vous",
 
         "form_subtitle": (
             "Remplissez le formulaire et l'un de nos conseillers "
