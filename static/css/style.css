@@ -1137,7 +1137,8 @@ iframe{
     min-width: 100%;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgb(1,26,44,0.8), rgb(1,26,44,0.8)), url(../img/partner.jpg);
+    overflow: hidden; 
+    background-image: linear-gradient(rgb(1,26,44,0.8), rgb(1,26,44,0.8)), url(../img/1.jpg);
 }
 .partner img{
     width: 150px;
