@@ -467,8 +467,16 @@ def newsletter():
             </p>
         """
 
-        mail.send(msg)
-        flash( "Merci pour votre abonnement !", "success")
+        try:
+            mail.send(msg)
+
+        except Exception as e:
+            print("MAIL SEND ERROR:", e)
+
+        flash(
+            "Inscription enregistrée avec succès.",
+            "success"
+        )
 
     except Exception as e:
         db.session.rollback()
