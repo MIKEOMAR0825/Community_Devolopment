@@ -55,7 +55,7 @@ TEXTS = {
         "partenaire_btn": "DEVENIR PARTENAIRE",
 
         "historique_title": "Bienvenue chez Community Development",
-        "historique_text1": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+        "historique_text1": "Engagée pour le développement humain durable, nous œuvrons pour la promotion des droits fondamentaux, le renforcement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
         "historique_text": (
             "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale "
             "de droit congolais créée à Kinshasa, en République Démocratique du Congo. "
@@ -371,7 +371,7 @@ TEXTS = {
         "ceo_text": "Community Development (CD) est une Organisation Non Gouvernementale fondée à Kinshasa avec la conviction que le développement durable repose avant tout sur l’épanouissement des communautés et la valorisation du potentiel humain.",
         "ceo_text1": "Face aux défis persistants que sont la pauvreté, les inégalités sociales, la marginalisation des femmes et l’accès limité aux technologies, Community Development s’engage à promouvoir des solutions concrètes et durables au bénéfice des populations les plus vulnérables.",
         "ceo_text2": "Notre action s’articule autour de trois axes principaux : la promotion des droits humains, l’autonomisation des femmes et l’inclusion technologique et numérique. À travers ces domaines d’intervention, nous œuvrons à renforcer les capacités des individus et des communautés afin qu’ils puissent devenir de véritables acteurs de leur propre développement.",
-        "ceo_text3": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
+        "ceo_text3": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision claire : construire une société plus juste, inclusive et solidair",
  
         #"ceo_name": "Nathalie AMUDIANDROY",
 
@@ -423,15 +423,19 @@ TEXTS = {
         
         # OUR TEAM
         "equipe": "Notre équipe",
-        "pre": "Présidente fondatrice",
+        "pre": "Présidente-Fondatrice",
         "v_pre": "Vice-président",
         "sg": "Secrétaire Général",
-        "cj": "Conseiller Juridique",
-        "rp": "Relations Publiques",
-        "rd_d": "Responsable du Département de droit",
-        "it": "IT",
-        "rd_af": "Responsable du Département d'autonomisation de la femme",
-        "com": "Communication"
+        "cj": "Conseillère Juridique",
+        "rp": "Responsable des relations publiques",
+        "r_bIT": "Responsable bureau Innovation Technologique",
+        "it": "Responsable IT",
+        "it_adj": "Responsable IT adjoint",
+        "r_DH": "Responsable DH",
+        "rep_canada": "Représentante Canada",
+        "rep_japon": "Représentante Japon",
+        "r_auto_f": "Responsable du Département d’autonomisation de la femme",
+        "com": "Chargée de communication"
         
         
     },

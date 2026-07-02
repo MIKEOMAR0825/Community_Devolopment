@@ -1,89 +1,435 @@
-    {% extends "base.html"%}
+{% extends "base.html" %}
+{% block content %}
 
-    {% block content%}
+<section class="hero">
+    
+    <h1>Faire un don</h1>
 
-    <section class="projects d-none">
-    </section>
+    <p>
+        Votre soutien change des vies. Ensemble, 
+        nous pouvons bâtir un avenir plus juste, 
+        plus inclusif et plus solidaire.
+    </p>
 
-
-
-    <!--DONATION-->
-<section class="donate d-flex align-items-center justify-content-center" style="height: 70vh;">
-
-    <div class="">
-        <h1 class="text-center" style="font-weight: 900; font-size: 2rem">ERROR</h1>
-
-        <div class="row mt-4">
-            <a href="/" class="btn btn-outline-primary text-center">RETOUR</a>
-        </div>
-    </div>
-
-    <div class="donate_div d-none">
-        
-        <!-- Titre principal -->
-        <h2>
-            Faire un Don
-        </h2>
-        <p>
-            Votre soutien change des vies. Ensemble, nous pouvons bâtir un avenir plus juste, plus inclusif et plus solidaire.
-        </p>
-
-        <!-- Bloc pourquoi donner -->
-        <div class="donate_pourquoi">
-            <h3>Pourquoi donner ?</h3>
-            <p>
-                Chaque contribution, quelle que soit sa taille, nous aide à :
-            </p>
-            <ul>
-                <li>Défendre les droits humains</li>
-                <li>Autonomiser les femmes et les jeunes filles</li>
-                <li>Offrir l’accès à la technologie</li>
-                <li>Financer des formations et programmes communautaires</li>
-            </ul>
-        </div>
-
-        <!-- Formulaire de don -->
-        <div class="donate_formulaire">
-            <h3>Faire un don maintenant</h3>
-            <form>
-                <label>Nom complet :</label>
-                <input type="text" placeholder="Votre nom">
-
-                <label>Email :</label>
-                <input type="email" placeholder="Votre email">
-
-                <label>Montant du don :</label>
-                <select>
-                    <option>10 USD</option>
-                    <option>25 USD</option>
-                    <option>50 USD</option>
-                    <option>100 USD</option>
-                    <option>Montant libre</option>
-                </select>
-
-                <label>Méthode de paiement :</label>
-                <select>
-                    <option>Mobile Money (M-Pesa, Airtel Money, Orange Money)</option>
-                    <option>Carte bancaire</option>
-                    <option>Virement bancaire</option>
-                </select>
-
-                <button type="submit">
-                    ✅ Confirmer mon don
-                </button>
-            </form>
-        </div>
-
-        <!-- Transparence -->
-        <div class="donate_trans text-start">
-            <h3>Transparence</h3>
-            <p>
-                Nous croyons en une utilisation responsable et transparente de chaque don. Un rapport annuel détaillé est publié pour montrer l’impact de vos contributions.
-            </p>
-        </div>
-
-    </div>
 </section>
 
+<div class="donate_div">
 
-    {% endblock %}
+    <div class="donate_pourquoi">
+
+        <h3>Pourquoi donner ?</h3>
+        <p class="mb-4">Chaque contribution, quelle que soit sa taille, nous aide à :</p>
+
+        <ul>
+            <li> <i class="bi bi-check-circle text-success"></i> Défendre les droits humains</li>
+            <li> <i class="bi bi-check-circle text-success"></i> Autonomiser les femmes et les jeunes filles</li>
+            <li> <i class="bi bi-check-circle text-success"></i> Offrir l’accès à la technologie</li>
+            <li> <i class="bi bi-check-circle text-success"></i> Financer des formations et programmes communautaires</li>
+        </ul>
+
+    </div>
+
+
+    <div class="donate_formulaire">
+
+        <h3 class="fw-bold">Faire un don maintenant</h3>
+        
+        <form method="POST" action="/create-donation" class="card_form" >
+
+            <input name="name" placeholder="Nom complet" required >
+
+            <input type="email" name="email" placeholder="Email" required >
+
+            <input type="number" name="amount" placeholder="Montant USD" required >
+
+
+            <h4 class="mt-4 fw-bold">Moyen de paiement</h4>
+
+            <div class="payment_choice">
+
+                <label>
+                    <input type="radio" name="payment_method" value="mobile" checked style="width: 50px;">
+                    <i class="bi bi-phone fs-2"></i>
+                    Mobile Money
+                </label>
+
+                <label>
+                    <input type="radio" name="payment_method" value="card" style="width: 50px;">
+                    <i class="bi bi-credit-card-2-back-fill fs-2"></i>
+                    Carte bancaire
+                </label>
+
+            </div>
+
+            <!-- MOBILE MONEY -->
+            <div class="" id="mobile_container">
+
+                <div class="card_box">
+
+                    <div class="card_title">
+
+                        <div>
+                            <h4 class="text-dark fw-bold">Paiement par Mobile money</h4>
+                        </div>
+
+                        <div class="d-flex justify-content-around gap-3">
+                            <img src="{{url_for('static', filename='/img/iconpay/m-pesa.svg')}}" alt="" style="width: 50px; height:auto;">
+                            <img src="{{url_for('static', filename='/img/iconpay/orange-money.png')}}" alt="" style="width: 35px; height:auto;">
+                            <img src="{{url_for('static', filename='/img/iconpay/airtel.svg')}}" alt="" style="width: 40px; height:auto;">
+                        </div>
+
+                    </div>
+
+                    <div class="card_form text-secondary">
+
+                        <div>
+                            <label>Réseau Mobile Money</label>
+                            <select name="network" required >
+                                <option value="">Choisir un réseau</option>
+                                <option value="airtel">Airtel Money</option>
+                                <option value="orange">Orange Money</option>
+                                <option value="mpesa">M-Pesa</option>
+                            </select>
+                        </div>
+
+                        <div class="">
+                            <div>
+                                <label>Numéro Mobile Money</label>
+                                <input type="tel" name="phone" placeholder="Numéro Mobile Money" >
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    <div class="secure_notice text-secondary">
+
+                        <i class="bi bi-lock-fill"></i> Paiement sécurisé
+
+                        <br>
+
+                        Après validation,
+                        une demande sera envoyée
+                        sur votre téléphone.
+
+                        Confirmez avec votre PIN.
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- CARTE -->
+            <div class="" id="card_container" style="display:none;">
+
+                <div class="card_box">
+
+                    <div class="card_title">
+
+                        <div>
+                            <h4 class="text-dark fw-bold">Paiement par carte bancaire</h4>
+                        </div>
+
+                        <div class="d-flex">
+                            <img src="{{url_for('static', filename='/img/iconpay/visa.svg')}}" alt="">
+                            <img src="{{url_for('static', filename='/img/iconpay/mastercard2.svg')}}" alt="">
+                        </div>
+
+                    </div>
+
+                    <div class="card_form text-secondary">
+
+                        <div>
+                            <label>Numéro de carte</label>
+                            <input type="text" inputmode="numeric" maxlength="19" id="card_number" placeholder="1234 5678 9012 3456" autocomplete="cc-number">
+                        </div>
+
+                        <div class="row">
+                            <div>
+                                <label>Date d'expiration</label>
+                                <input type="text" id="card_expiry" maxlength="5" placeholder="MM/AA" autocomplete="cc-exp">
+                            </div>
+
+
+                            <div>
+                                <label>CVV</label>
+                                <input type="password" maxlength="4" id="card_cvv" placeholder="123" autocomplete="cc-csc">
+                            </div>
+                        </div>
+
+                        <div>
+                            <label>Nom sur la carte</label>
+                            <input type="text" id="card_holder" placeholder="Nom du titulaire" autocomplete="cc-name">
+                        </div>
+
+                    </div>
+
+                    <div class="secure_notice text-secondary">
+
+                        <i class="bi bi-lock-fill"></i> Paiement sécurisé
+
+                        <br>
+
+                        Au clic sur
+                        <b>Payer maintenant</b>,
+                        Flutterwave ouvrira
+                        la validation sécurisée
+                        (3D Secure / banque).
+
+                    </div>
+                </div>
+            </div>
+
+            <button>Payer maintenant</button>
+        </form>
+
+    </div>
+
+
+    <div class="donate_trans">
+        <h3>Transparence</h3>
+        <p>
+            Nous croyons en une utilisation responsable 
+            et transparente de chaque don. Un rapport 
+            annuel détaillé est publié pour montrer 
+            l’impact de vos contributions.
+        </p>
+    </div>
+
+</div>
+
+
+
+<style>
+
+.hero{
+background:linear-gradient( 135deg,rgba(0, 42, 72, 0.586), rgb(1, 31, 53));
+color:white;
+padding:80px 20px;
+text-align:center;
+}
+
+.hero h1{
+font-size:42px;
+margin-bottom:15px;
+}
+
+.hero p{
+max-width:700px;
+margin:auto;
+opacity:.95;
+line-height:1.7;
+}
+
+.donate_div{
+    max-width:850px;
+    margin:auto;
+    padding:30px;
+}
+
+.donate_formulaire{
+    background:white;
+    padding:35px;
+    border-radius:20px;
+    box-shadow: 0 10px 40px rgba(0,0,0,.08);
+    background-color: rgb(0,42,72);
+}
+
+.donate_formulaire form{
+    display:flex;
+    flex-direction:column;
+    gap:16px;
+}
+
+.payment_choice{
+    display:flex;
+    gap:25px;
+    justify-content: space-between;
+}
+
+.donate_formulaire button{
+    padding:8px;
+    border:none;
+    background: white;
+    color:white;
+    border-radius:12px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+input[type="radio"]{
+    width: 22px;
+    height: 22px;
+}
+</style>
+
+
+
+
+
+<!-- STYLE POUR LA CARTE -->
+<style>
+
+.card_box{
+    padding:25px;
+    border:1px solid #dbe2ea;
+    border-radius:18px;
+    background:white;
+}
+
+.card_title{
+    display:flex;
+    gap:15px;
+    align-items:center;
+    margin-bottom:25px;
+}
+
+.card_title span{
+    font-size:34px;
+}
+
+.card_form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.card_form label{
+    display:block;
+    margin-bottom:5px;
+    font-weight:600;
+}
+
+.card_form input{
+    width:100%;
+    padding:13px;
+    border:1px solid #d8dde5;
+    border-radius:12px;
+    font-size:18px;
+}
+
+.card_form input:focus{
+    outline:none;
+    border-color:#1565ff;
+    box-shadow:0 0 0 4px, rgba(21,101,255,0.15);
+}
+
+.card_form .row{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+}
+
+.secure_notice{
+    margin-top:18px;
+    padding:16px;
+    border-radius:12px;
+    background:#eef5ff;
+    line-height:1.6;
+}
+
+</style>
+
+
+
+<!-- JS POUR LA CARTE BANCAIRE-->
+<script>
+
+const cardInput =
+document.getElementById("card_number")
+
+cardInput?.addEventListener("input", function() {
+
+let value =
+this.value.replace(/\D/g,"").substring(0,16)
+
+value = value.match(/.{1,4}/g)?.join(" ")
+
+||
+
+""
+this.value =value
+}
+
+)
+
+
+
+const expiry = document.getElementById("card_expiry")
+
+expiry?.addEventListener("input", function() {
+
+let v =
+this.value.replace(/\D/g, "")
+
+.substring(0,4)
+
+if(v.length>=3){
+    v = v.slice(0,2)+"/"+v.slice(2)
+}
+
+this.value = v
+
+}
+
+)
+
+</script>
+
+
+<!-- CHANGEMENT DE SYSTEME DE PAIEMENT -->
+<script>
+
+    const mobileBox = document.getElementById(
+    "mobile_container"
+    )
+
+    const cardBox = document.getElementById(
+    "card_container"
+    )
+
+    document.querySelectorAll(
+    'input[name="payment_method"]'
+    )
+
+    .forEach(
+
+    el=>{el.addEventListener(
+
+    "change",
+
+    ()=>{
+
+    if(el.value==="mobile"){
+
+    mobileBox.style.display=
+    "block"
+
+    cardBox.style.display=
+    "none"
+
+    }
+
+    else{
+
+    mobileBox.style.display=
+    "none"
+
+    cardBox.style.display=
+    "block"
+
+    }
+
+    }
+
+    )
+
+    }
+
+    )
+
+</script>
+
+
+{% endblock %}

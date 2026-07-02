@@ -1481,7 +1481,7 @@
             "translated": "Our team"
         },
         "pre": {
-            "source": "Présidente fondatrice",
+            "source": "Présidente-Fondatrice",
             "translated": "Founding President"
         },
         "v_pre": {
@@ -1493,28 +1493,28 @@
             "translated": "Secretary General"
         },
         "cj": {
-            "source": "Conseiller Juridique",
+            "source": "Conseillère Juridique",
             "translated": "Legal Advisor"
         },
         "rp": {
-            "source": "Relations Publiques",
-            "translated": "Public relations"
+            "source": "Responsable des relations publiques",
+            "translated": "Public relations manager"
         },
         "rd_d": {
             "source": "Responsable du Département de droit",
             "translated": "Head of the Law Department"
         },
         "it": {
-            "source": "IT",
-            "translated": "IT"
+            "source": "Responsable IT",
+            "translated": "IT Manager"
         },
         "rd_af": {
             "source": "Responsable du Département d'autonomisation de la femme",
             "translated": "Head of Women's Empowerment Department"
         },
         "com": {
-            "source": "Communication",
-            "translated": "Communication"
+            "source": "Chargée de communication",
+            "translated": "Communications manager"
         },
         "bg1": {
             "source": "Faciliter l'accès à la technologie",
@@ -1557,8 +1557,8 @@
             "translated": "Our action revolves around three main axes: the promotion of human rights, the empowerment of women and technological and digital inclusion. Through these areas of intervention, we work to strengthen the capacities of individuals and communities so that they can become real actors in their own development."
         },
         "ceo_text3": {
-            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
-            "translated": "Founded by Ms. Amudiandroy Embela Nathalie, Community Development was born from a simple but ambitious vision: to build a more just, inclusive and united society."
+            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision claire : construire une société plus juste, inclusive et solidair",
+            "translated": "Founded by Ms. Amudiandroy Embela Nathalie, Community Development was born from a clear vision: to build a more just, inclusive and supportive society."
         },
         "partner_title": {
             "source": "NOS PARTENAIRES",
@@ -1567,6 +1567,30 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
+        },
+        "r_bIT": {
+            "source": "Responsable bureau Innovation Technologique",
+            "translated": "Technological Innovation office manager"
+        },
+        "it_adj": {
+            "source": "Responsable IT adjoint",
+            "translated": "Deputy IT manager"
+        },
+        "r_DH": {
+            "source": "Responsable DH",
+            "translated": "DH manager"
+        },
+        "rep_canada": {
+            "source": "Représentante Canada",
+            "translated": "Representative Canada"
+        },
+        "rep_japon": {
+            "source": "Représentante Japon",
+            "translated": "Japan Representative"
+        },
+        "r_auto_f": {
+            "source": "Responsable du Département d’autonomisation de la femme",
+            "translated": "Head of Women's Empowerment Department"
         }
     },
     "actualite": {

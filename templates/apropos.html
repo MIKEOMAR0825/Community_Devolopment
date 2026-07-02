@@ -145,92 +145,129 @@
         <div class="row gap-4 justify-content-center">
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Pre.jpg')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/Pre.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Nathalie EMBELA</h5>
-                    <p class="card-text">Présidente fondatrice</p>
+                    <h5 class="fw-bold">Nathalie AMUDIANDROY EMBELA</h5>
+                    <p>{{texts.pre}}</p>
                 </div>
             </div>
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Vp.jpg')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/Vp.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Nathan MBAYABU</h5>
-                    <p class="card-text">Vice-Président</p>
-                </div>
-            </div>
-
-
-            <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/SecGen.jpg')}}" class="card-img-top" alt="...">
-
-                <div class="card-body">
-                    <h5 class="card-title">Dieu Merci LUSAMBA</h5>
-                    <p class="card-text">Secrétaire Général</p>
+                    <h5 class="fw-bold">Nathan MAYABU KALUNGA</h5>
+                    <p>{{texts.v_pre}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Com.jpg')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/SecGen.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Grâce MUJINGA</h5>
-                    <p class="card-text">Relations Publiques</p>
+                    <h5 class="fw-bold">Dieu merci LUSAMBA MUKENDI</h5>
+                    <p>{{texts.sg}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Cg.jpg')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/Com.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Israel AMUDIANDROY</h5>
-                    <p class="card-text">Responsable du Département de droit</p>
+                    <h5 class="fw-bold">Simarienne MANZIBE</h5>
+                    <p>{{texts.cj}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Rp.jpg')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/Cg.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Junior MAWESHO</h5>
-                    <p class="card-text">Conseiller Juridique</p>
+                    <h5 class="fw-bold">Israel AMUDIANDROY</h5>
+                    <p>{{texts.rp}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/IT.png')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/Rp.jpg')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Lajoie MUANZA</h5>
-                    <p class="card-text">IT</p>
+                    <h5 class="fw-bold">André Andy DIASONAMA MBENZA</h5>
+                    <p>{{texts.r_bIT}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Auto2.JPG')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/IT.png')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Jenny NGALULA</h5>
-                    <p class="card-text">Communication</p>
+                    <h5 class="fw-bold">Lajoie MUANZA</h5>
+                    <p>{{texts.it}}</p>
                 </div>
             </div>
 
 
             <div class="card col-md-2">
-                <img src="{{ url_for('static', filename='img/Deli2.JPG')}}" class="card-img-top" alt="...">
+                <img src="{{ url_for('static', filename='img/personnel/IT_adj.JPG')}}" class="card-img-top" alt="...">
 
                 <div class="card-body">
-                    <h5 class="card-title">Delira TSHAMA</h5>
-                    <p class="card-text">Responsable du Département d’autonomisation de la femme</p>
+                    <h5 class="fw-bold">Mike OMAR</h5>
+                    <p>{{texts.it_adj}}</p>
                 </div>
             </div>
+
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/personnel/r_DH.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="fw-bold">Junior MAWESHO</h5>
+                    <p> {{texts.r_DH}} </p>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/personnel/Deli2.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="fw-bold">Ruth KIMBUNGU</h5>
+                    <p> {{texts.r_auto_f}} </p>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/personnel/Auto.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="fw-bold">Grace NTUMBA</h5>
+                    <p>{{ texts.rep_canada }} </p>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/personnel/Deli.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="fw-bold">Keren CHARISMA</h5>
+                    <p>{{ texts.rep_japon }} </p>
+                </div>
+            </div>
+
+            <div class="card col-md-2">
+                <img src="{{ url_for('static', filename='img/personnel/Auto2.JPG')}}" class="card-img-top" alt="...">
+
+                <div class="card-body">
+                    <h5 class="fw-bold">Jenny NGALULA</h5>
+                    <p>{{ texts.com }} </p>
+                </div>
+            </div>
+
 
 
         </div>
@@ -251,61 +288,66 @@
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 8"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" aria-label="Slide 9"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" aria-label="Slide 10"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" aria-label="Slide 11"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" aria-label="Slide 12"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" aria-label="Slide 13"></button>
     </div>
 
     <div class="carousel-inner">
 
         <div class="carousel-item active">
-            <img src="{{ url_for('static', filename='img/Pre.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/Pre.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Nathalie EMBELA</h5>
+                <h5 class="fw-bold">Nathalie AMUDIANDROY EMBELA</h5>
                 <p>{{texts.pre}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Vp.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/Vp.jpg')}}" class="d-block w-100" alt="...">
 
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Nathan MBAYABU</h5>
+                <h5 class="fw-bold">Nathan MAYABU KALUNGA</h5>
                 <p>{{texts.v_pre}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/SecGen.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/SecGen.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Dieu merci LUSAMBA</h5>
+                <h5 class="fw-bold">Dieu merci LUSAMBA MUKENDI</h5>
                 <p>{{texts.sg}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Rp.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/Com.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Junior MAWESHO</h5>
+                <h5 class="fw-bold">Simarienne MANZIBE</h5>
                 <p>{{texts.cj}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Com.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/Rp.jpg')}}" class="d-block w-100" alt="...">
 
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Grâce MUJINGA</h5>
+                <h5 class="fw-bold">Israel AMUDIANDROY</h5>
                 <p>{{texts.rp}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Cg.jpg')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/Cg.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Israel AMUDIANDROY</h5>
-                <p>{{texts.rd_d}}</p>
+                <h5 class="fw-bold">André Andy DIASONAMA MBENZA</h5>
+                <p>{{texts.r_bIT}}</p>
             </div>
         </div>
+
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/IT.png')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/IT.png')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
                 <h5 class="fw-bold">Lajoie MUANZA</h5>
                 <p>{{texts.it}}</p>
@@ -313,21 +355,55 @@
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Deli2.JPG')}}" class="d-block w-100" alt="...">
-
+            <img src="{{ url_for('static', filename='img/personnel/IT_adj.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
-                <h5 class="fw-bold">Delira TSHAMA</h5>
-                <p> {{texts.rd_af}} </p>
+                <h5 class="fw-bold">Mike OMAR</h5>
+                <p>{{texts.it_adj}}</p>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="{{ url_for('static', filename='img/Auto2.JPG')}}" class="d-block w-100" alt="...">
+            <img src="{{ url_for('static', filename='img/personnel/r_DH.JPG')}}" class="d-block w-100" alt="...">
+
+            <div class="carousel-caption d-md-block">
+                <h5 class="fw-bold">Junior MAWESHO</h5>
+                <p> {{texts.r_DH}} </p>
+            </div>
+        </div>
+
+        <div class="carousel-item">
+            <img src="{{ url_for('static', filename='img/personnel/Deli2.JPG')}}" class="d-block w-100" alt="...">
+
+            <div class="carousel-caption d-md-block">
+                <h5 class="fw-bold">Ruth KIMBUNGU</h5>
+                <p> {{texts.r_auto_f}} </p>
+            </div>
+        </div>
+
+        <div class="carousel-item">
+            <img src="{{ url_for('static', filename='img/personnel/Auto.JPG')}}" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-md-block">
+                <h5 class="fw-bold">Grace NTUMBA</h5>
+                <p>{{ texts.rep_canada }} </p>
+            </div>
+        </div>
+        
+        <div class="carousel-item">
+            <img src="{{ url_for('static', filename='img/personnel/Deli.JPG')}}" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-md-block">
+                <h5 class="fw-bold">Keren CHARISMA</h5>
+                <p>{{ texts.rep_japon }} </p>
+            </div>
+        </div>
+        
+        <div class="carousel-item">
+            <img src="{{ url_for('static', filename='img/personnel/Auto2.JPG')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-md-block">
                 <h5 class="fw-bold">Jenny NGALULA</h5>
                 <p>{{ texts.com }} </p>
             </div>
         </div>
+
     </div>
 
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
