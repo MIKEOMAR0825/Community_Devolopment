@@ -1,3 +1,4 @@
+from alembic.util import status
 from flask import ( Flask, render_template, request, redirect, url_for, flash, session )
 
 import smtplib
@@ -11,7 +12,8 @@ from extensions import (
 
 from models import (
     Subscriber,
-    ContactMessage
+    ContactMessage,
+    Donation
 )
 
 from flask_mail import Message
@@ -33,6 +35,16 @@ from requests.exceptions import (
 )
 
 import logging
+
+import requests
+import uuid
+from flask import jsonify
+
+import hmac
+import hashlib
+import os
+
+
 
 logging.basicConfig(level=logging.ERROR)
 
@@ -305,6 +317,9 @@ def project():
 def donation():
     return render_template("donation.html", texts=request.translated_texts,
                            lang=request.current_lang, LANGUAGES=LANGUAGES)
+    
+    
+    
 
 @app.route("/soutien")
 def soutien():
@@ -563,6 +578,131 @@ def set_language(lang):
     return redirect(request.referrer)
 
 
+#=====================================================
+#   PAIEMENT EN LIGNE
+#=====================================================
+@app.route("/create-donation", methods=["POST"])
+def create_donation():
+
+    transaction_id = str(uuid.uuid4())
+
+    name = request.form.get("name")
+    email = request.form.get("email")
+    amount = float(request.form.get("amount"))
+    phone = request.form.get("phone")
+    method = request.form.get("payment_method")
+
+    # 1. Save DB
+    donation = Donation(
+        transaction_id=transaction_id,
+        donor_name=name,
+        email=email,
+        amount=amount,
+        payment_method=method,
+        status="pending"
+    )
+
+    db.session.add(donation)
+    db.session.commit()
+
+    # 2. CALL PAYMENT API (RDC mobile money)
+    payload = {
+        "amount": amount,
+        "currency": "USD" if method == "card" else "USD",
+        "phone": phone,
+        "reference": transaction_id,
+        "callback_url": url_for("webhook", _external=True)
+    }
+
+    headers = {
+        "Authorization": f"Bearer {app.config['PAYMENT_API_KEY']}",
+        "Content-Type": "application/json"
+    }
+
+    try:
+        response = requests.post(
+            app.config["PAYMENT_API_URL"],
+            json=payload,
+            headers=headers,
+            timeout=30
+        )
+
+        result = response.json()
+
+        # 3. Si API OK
+        status = result.get("status")
+
+        if status in ["PENDING", "WAITING", "PROCESSING"]:  
+
+            flash("Demande de paiement envoyée sur votre téléphone", "success")
+
+            return redirect(url_for("success_payment"))
+
+        else:
+            flash("Erreur de paiement", "error")
+            return redirect(url_for("donation"))
+
+    except Exception as e:
+        print("PAYMENT ERROR:", e)
+        flash("Erreur serveur paiement", "error")
+        return redirect(url_for("donation"))
+        
+    
+@app.route(
+"/success-payment"
+)
+def success_payment():
+
+    return """
+    <h1>
+    Paiement créé ✅
+    </h1>
+    """
+    
+
+
+import hmac
+import hashlib
+import os
+
+
+@app.route("/webhook", methods=["POST"])
+def webhook():
+
+    signature = request.headers.get("X-Signature", "")
+
+    secret = app.config["WEBHOOK_SECRET"]
+
+    expected = hmac.new(
+        secret.encode(),
+        request.data,
+        hashlib.sha256
+    ).hexdigest()
+
+    if signature != expected:
+        return {"error": "invalid signature"}, 403
+
+    payload = request.json
+
+    transaction_id = payload.get("transaction_id")
+    status = payload.get("status")
+
+    donation = Donation.query.filter_by(transaction_id=transaction_id).first()
+
+    if not donation:
+        return {"error": "not found"}, 404
+
+    if status == "SUCCESS":
+        donation.status = "paid"
+    else:
+        donation.status = "failed"
+
+    db.session.commit()
+
+    return {"ok": True}, 200
+
+    
+            
 
 # ----------------- MAIN -----------------
 if __name__ == "__main__":

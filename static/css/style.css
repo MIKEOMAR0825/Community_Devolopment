@@ -1991,53 +1991,48 @@ PROJECTS------------------------------------------*/
 
 /*-----------------DONATION------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------*/
-.donate{
-    font-family: Arial, sans-serif; 
-    padding: 50px 20px; 
-    background-color: goldenrod;
+.hero{
+background:linear-gradient( 135deg,rgba(0, 42, 72, 0.586), rgb(1, 31, 53));
+color:white;
+padding:80px 20px;
+text-align:center;
+}
+.hero h1{
+font-size:42px;
+margin-bottom:15px;
+font-weight:700;
+margin-top: 20px;
+}
+.hero p{
+max-width:700px;
+margin:auto;
+line-height:1.7;
 }
 .donate_div{
-    max-width: 1100px; 
-    margin: auto;
+    max-width:850px;
+    margin:auto;
+    padding:10px;
 }
-.donate_div h2{
-    text-align: center; 
-    color: rgb(0,42,72);; 
-    font-size: 2.5em; 
-    margin-bottom: 10px;
-}
-.donate_div p{
-    text-align: center; 
-    color: #555; 
-    font-size: 1.1em; 
-    max-width: 800px; 
-    margin: auto;
-}
-
 .donate_pourquoi{
     margin-top: 40px; 
     background-color: white; 
     padding: 25px; 
     border-radius: 10px; 
-    box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
     text-align:center;
 }
 .donate_pourquoi h3{
     color: rgb(0,42,72);
+    font-weight: bold;
 }
 .donate_pourquoi p{
-    line-height: 1.6; 
     color: #333;
 }
 .donate_pourquoi ul{
     list-style: none; 
     padding: 0; 
-    line-height: 1.8; 
     color: #333; 
     text-align: left;
 }
-
-
 .donate_formulaire{
     margin-top: 40px; 
     background: rgb(0,42,72);; 
@@ -2045,21 +2040,10 @@ PROJECTS------------------------------------------*/
     border-radius: 10px; 
     box-shadow: 0 4px 15px rgba(0,0,0,0.05);
 }
-.donate_formulaire h3{
-    color: goldenrod; 
-    text-align:center;
-}
 .donate_formulaire form{
     max-width: 500px; 
     margin: auto; 
     margin-top: 20px;
-}
-.donate_formulaire input{
-    width:100%; 
-    padding:10px; 
-    margin-bottom:15px; 
-    border:1px solid #ccc; 
-    border-radius:5px;
 }
 .donate_formulaire select{
     width:100%; 
@@ -2078,7 +2062,6 @@ PROJECTS------------------------------------------*/
     font-size:1.1em; 
     cursor:pointer;
 }
-
 .donate_trans{
     margin-top: 40px; 
     background-color: #ecf0f1; 
@@ -2091,6 +2074,90 @@ PROJECTS------------------------------------------*/
 .donate_trans p{
     color: #333; 
     text-align: start;
+}
+
+
+/*===========================================================*/
+
+.payment_choice{
+    display:flex;
+    gap:25px;
+    justify-content: space-between;
+}
+.donate_div input[type="radio"]{
+    width: 22px;
+    height: 22px;
+}
+.card_box{
+    padding:25px;
+    border:1px solid #dbe2ea;
+    border-radius:18px;
+    background:white;
+}
+.card_title{
+    display:flex;
+    gap:15px;
+    align-items:center;
+    margin-bottom:25px;
+}
+.card_title span{
+    font-size:24px;
+}
+.card_form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.card_form label{
+    display:block;
+    margin-bottom:5px;
+    font-weight:600;
+}
+
+.card_form input{
+    width:100%;
+    padding:13px;
+    border:1px solid #d8dde5;
+    border-radius:12px;
+    font-size:18px;
+}
+
+.card_form input:focus{
+    outline:none;
+    border-color:#1565ff;
+    box-shadow:0 0 0 4px, rgba(21,101,255,0.15);
+}
+
+.card_form .row{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+}
+
+.secure_notice{
+    margin-top:18px;
+    padding:16px;
+    border-radius:12px;
+    background:#eef5ff;
+    line-height:1.6;
+}
+
+@media (max-width:990px) {
+    .card_form input{
+        padding: 9px;
+    }
+    .donate_div input[type="radio"]{
+    width: 15px;
+    height: 15px;
+    }
+    .payment_choice label{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
 }
 
 

@@ -18,3 +18,9 @@ class Config:
 
     MAIL_DEFAULT_SENDER = MAIL_USERNAME
     MAIL_TIMEOUT = 10
+    
+    WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET")
+    
+    PAYMENT_API_URL = "https://api.serdipay.com/payment"
+    PAYMENT_API_KEY = "YOUR_KEY"
+    WEBHOOK_SECRET = "YOUR_WEBHOOK_SECRET"
