@@ -423,6 +423,7 @@ TEXTS = {
         
         # OUR TEAM
         "equipe": "Notre équipe",
+        "equipe_text":"Notre équipe rassemble des femmes et des hommes animés par une même ambition : transformer les défis en opportunités. Ensemble, nous œuvrons pour la défense des droits humains, l’autonomisation des femmes et des jeunes, l’inclusion numérique et l’innovation technologique au service des communautés.",
         "pre": "Présidente-Fondatrice",
         "v_pre": "Vice-président",
         "sg": "Secrétaire Général",
@@ -587,24 +588,26 @@ TEXTS = {
 
         # Sections
         "current_projects": "Projets en cours",
-        "completed_projects": "Projets réalisés",
-        "upcoming_projects": "Projets à venir",
 
-        # Projets en cours
-        "current_1_title": "Formation en leadership féminin",
-        "current_1_text": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
+        "current_1_title": "EDUCONNECT RDC",
+        "current_1_text": "Platforme pour moderniser le système éducatif de la République Démocratique du Congo en créant un environnement unique, sécurisé et intelligent qui connecte les établissements scolaires, les enseignants, les élèves et les parents.",
 
-        "current_2_title": "Centre numérique communautaire",
-        "current_2_text": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
+        "current_2_title": "EDUCONNECT Youth Innovation Hub RDC",
+        "current_2_text": "Création d’espaces d’accès au développement communautaire en renforçant l’engagement des jeunes, notamment des jeunes femmes et des jeunes vivant avec handicap, dans la transformation numérique du secteur éducatif en République démocratique du Congo.",
+        
 
         # Projets réalisés
+        "completed_projects": "Projets réalisés",
+        
         "done_1_title": "Campagne \"Connais tes droits\"",
-        "done_1_text": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
+        "done_1_text": "Ateliers de sensibilisation aux droits humains ayant touché plus de 100 jeunes à Kinshasa.",
 
         "done_2_title": "Microcrédits pour femmes entrepreneures",
         "done_2_text": "Appui financier et formation pour 80 femmes afin de lancer leur activité génératrice de revenus.",
 
         # Projets à venir
+        "upcoming_projects": "Projets à venir",
+        
         "future_1_title": "Programme \"Tech pour tous\"",
         "future_1_text": "Initiation à la programmation web pour 100 jeunes défavorisés.",
 
@@ -675,6 +678,8 @@ TEXTS = {
         "cta_title": "Agissez avec nous",
         "cta_text": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
         "cta_btn": "Rejoignez-nous"
+        
+        #================== DONATION ==========================
     },
     
     

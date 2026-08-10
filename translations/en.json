@@ -117,28 +117,28 @@
             "translated": "Upcoming projects"
         },
         "current_1_title": {
-            "source": "Formation en leadership féminin",
-            "translated": "Women's leadership training"
+            "source": "EDUCONNECT RDC",
+            "translated": "EDUCONNECT DRC"
         },
         "current_1_text": {
-            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
-            "translated": "Strengthen the skills of 50 young women in project management and community decision-making."
+            "source": "Platforme pour moderniser le système éducatif de la République Démocratique du Congo en créant un environnement unique, sécurisé et intelligent qui connecte les établissements scolaires, les enseignants, les élèves et les parents.",
+            "translated": "Platform to modernize the education system of the Democratic Republic of Congo by creating a unique, secure and intelligent environment that connects schools, teachers, students and parents."
         },
         "current_2_title": {
-            "source": "Centre numérique communautaire",
-            "translated": "Community Digital Center"
+            "source": "EDUCONNECT Youth Innovation Hub RDC",
+            "translated": "EDUCONNECT Youth Innovation Hub RDC"
         },
         "current_2_text": {
-            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
-            "translated": "Creation of internet access spaces and training in digital tools in Limete."
+            "source": "Création d’espaces d’accès au développement communautaire en renforçant l’engagement des jeunes, notamment des jeunes femmes et des jeunes vivant avec handicap, dans la transformation numérique du secteur éducatif en République démocratique du Congo.",
+            "translated": "Creation of spaces for access to community development by strengthening the engagement of young people, particularly young women and young people living with disabilities, in the digital transformation of the education sector in the Democratic Republic of Congo."
         },
         "done_1_title": {
             "source": "Campagne \"Connais tes droits\"",
             "translated": "“Know your rights” campaign"
         },
         "done_1_text": {
-            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
-            "translated": "Human rights awareness workshops reaching more than 600 young people in Kinshasa."
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 100 jeunes à Kinshasa.",
+            "translated": "Human rights awareness workshops reaching more than 100 young people in Kinshasa."
         },
         "done_2_title": {
             "source": "Microcrédits pour femmes entrepreneures",
@@ -481,6 +481,18 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "Act with us"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "Become an agent of change and help improve the lives of thousands of people."
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "Join us"
         }
     },
     "mission": {
@@ -1025,8 +1037,8 @@
             "translated": "Welcome to Community Development"
         },
         "historique_text1": {
-            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
-            "translated": "Community Development is a Congolese organization committed to promoting fundamental rights, developing female leadership and reducing inequalities in access to technological opportunities."
+            "source": "Engagée pour le développement humain durable, nous œuvrons pour la promotion des droits fondamentaux, le renforcement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "Committed to sustainable human development, we work to promote fundamental rights, strengthen female leadership and reduce inequalities in access to technological opportunities."
         },
         "historique_text": {
             "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
@@ -1297,6 +1309,46 @@
         "cta_btn": {
             "source": "Rejoignez-nous",
             "translated": "Join us"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "Facilitate access to technology"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "Introducing young people to the digital skills of tomorrow"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "Women Empowerment"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "Promote female talents as drivers of change"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "Defend fundamental rights"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "Inform and train populations on their rights"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "Building a company:"
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "More just, more equitable, more inclusive, more resilient thanks to technology"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "OUR PARTNERS"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "Discover the partners and sponsors who support our commitment to human rights, women's empowerment and innovation accessible to all."
         }
     },
     "apropos": {
@@ -1591,6 +1643,10 @@
         "r_auto_f": {
             "source": "Responsable du Département d’autonomisation de la femme",
             "translated": "Head of Women's Empowerment Department"
+        },
+        "equipe_text": {
+            "source": "Notre équipe rassemble des femmes et des hommes animés par une même ambition : transformer les défis en opportunités. Ensemble, nous œuvrons pour la défense des droits humains, l’autonomisation des femmes et des jeunes, l’inclusion numérique et l’innovation technologique au service des communautés.",
+            "translated": "Our team brings together women and men driven by the same ambition: to transform challenges into opportunities. Together, we work to defend human rights, the empowerment of women and young people, digital inclusion and technological innovation to serve communities."
         }
     },
     "actualite": {

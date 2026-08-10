@@ -403,28 +403,28 @@
             "translated": "Miradi ijayo"
         },
         "current_1_title": {
-            "source": "Formation en leadership féminin",
-            "translated": "Mafunzo ya uongozi wa wanawake"
+            "source": "EDUCONNECT RDC",
+            "translated": "EDUCONNECT DRC"
         },
         "current_1_text": {
-            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
-            "translated": "Imarisha ujuzi wa wanawake vijana 50 katika usimamizi wa mradi na kufanya maamuzi ya jamii."
+            "source": "Platforme pour moderniser le système éducatif de la République Démocratique du Congo en créant un environnement unique, sécurisé et intelligent qui connecte les établissements scolaires, les enseignants, les élèves et les parents.",
+            "translated": "Jukwaa la kuboresha mfumo wa elimu wa Jamhuri ya Kidemokrasia ya Kongo kwa kuunda mazingira ya kipekee, salama na ya kiakili ambayo yanaunganisha shule, walimu, wanafunzi na wazazi."
         },
         "current_2_title": {
-            "source": "Centre numérique communautaire",
-            "translated": "Kituo cha Dijiti cha Jumuiya"
+            "source": "EDUCONNECT Youth Innovation Hub RDC",
+            "translated": "EDUCONNECT Youth Innovation Hub DRC"
         },
         "current_2_text": {
-            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
-            "translated": "Uundaji wa nafasi za ufikiaji wa mtandao na mafunzo katika zana za kidijitali katika Limete."
+            "source": "Création d’espaces d’accès au développement communautaire en renforçant l’engagement des jeunes, notamment des jeunes femmes et des jeunes vivant avec handicap, dans la transformation numérique du secteur éducatif en République démocratique du Congo.",
+            "translated": "Uundaji wa nafasi za kupata maendeleo ya jamii kwa kuimarisha ushiriki wa vijana, hasa vijana wa kike na vijana wanaoishi na ulemavu, katika mageuzi ya kidijitali ya sekta ya elimu katika Jamhuri ya Kidemokrasia ya Kongo."
         },
         "done_1_title": {
             "source": "Campagne \"Connais tes droits\"",
             "translated": "Kampeni ya \"Jua haki zako\"."
         },
         "done_1_text": {
-            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
-            "translated": "Warsha za uhamasishaji wa haki za binadamu zinazowafikia vijana zaidi ya 600 mjini Kinshasa."
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 100 jeunes à Kinshasa.",
+            "translated": "Warsha za uhamasishaji wa haki za binadamu zinazowafikia vijana zaidi ya 100 mjini Kinshasa."
         },
         "done_2_title": {
             "source": "Microcrédits pour femmes entrepreneures",
@@ -1133,7 +1133,7 @@
             "translated": "Timu yetu"
         },
         "pre": {
-            "source": "Présidente fondatrice",
+            "source": "Présidente-Fondatrice",
             "translated": "Rais Mwanzilishi"
         },
         "v_pre": {
@@ -1145,28 +1145,28 @@
             "translated": "Katibu Mkuu"
         },
         "cj": {
-            "source": "Conseiller Juridique",
+            "source": "Conseillère Juridique",
             "translated": "Mshauri wa Kisheria"
         },
         "rp": {
-            "source": "Relations Publiques",
-            "translated": "Mahusiano ya umma"
+            "source": "Responsable des relations publiques",
+            "translated": "Meneja wa mahusiano ya umma"
         },
         "rd_d": {
             "source": "Responsable du Département de droit",
             "translated": "Mkuu wa Idara ya Sheria"
         },
         "it": {
-            "source": "IT",
-            "translated": "IT"
+            "source": "Responsable IT",
+            "translated": "Meneja wa IT"
         },
         "rd_af": {
             "source": "Responsable du Département d'autonomisation de la femme",
             "translated": "Mkuu wa Idara ya Uwezeshaji Wanawake"
         },
         "com": {
-            "source": "Communication",
-            "translated": "Mawasiliano"
+            "source": "Chargée de communication",
+            "translated": "Meneja Mawasiliano"
         },
         "bg1": {
             "source": "Faciliter l'accès à la technologie",
@@ -1209,8 +1209,8 @@
             "translated": "Kitendo chetu kinahusu mhimili mkuu tatu: ukuzaji wa haki za binadamu, uwezeshaji wa wanawake na ujumuishaji wa kiteknolojia na dijitali. Kupitia maeneo haya ya uingiliaji kati, tunafanya kazi ili kuimarisha uwezo wa watu binafsi na jumuiya ili waweze kuwa watendaji halisi katika maendeleo yao wenyewe."
         },
         "ceo_text3": {
-            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
-            "translated": "Ilianzishwa na Bi. Amudiandroy Embela Nathalie, Maendeleo ya Jamii yalizaliwa kutokana na maono rahisi lakini yenye matarajio makubwa: kujenga jamii yenye haki zaidi, jumuishi na yenye umoja."
+            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision claire : construire une société plus juste, inclusive et solidair",
+            "translated": "Ilianzishwa na Bi. Amudiandroy Embela Nathalie, Maendeleo ya Jamii yalizaliwa kutokana na maono yaliyo wazi: kujenga jamii yenye haki zaidi, jumuishi na inayounga mkono."
         },
         "partner_title": {
             "source": "NOS PARTENAIRES",
@@ -1219,6 +1219,34 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "Gundua washirika na wafadhili wanaounga mkono kujitolea kwetu kwa haki za binadamu, uwezeshaji wa wanawake na uvumbuzi unaopatikana kwa wote."
+        },
+        "equipe_text": {
+            "source": "Notre équipe rassemble des femmes et des hommes animés par une même ambition : transformer les défis en opportunités. Ensemble, nous œuvrons pour la défense des droits humains, l’autonomisation des femmes et des jeunes, l’inclusion numérique et l’innovation technologique au service des communautés.",
+            "translated": "Timu yetu huwaleta pamoja wanawake na wanaume wakiongozwa na nia moja: kubadilisha changamoto kuwa fursa. Kwa pamoja, tunafanya kazi kutetea haki za binadamu, uwezeshaji wa wanawake na vijana, ushirikishwaji wa kidijitali na uvumbuzi wa kiteknolojia ili kuhudumia jamii."
+        },
+        "r_bIT": {
+            "source": "Responsable bureau Innovation Technologique",
+            "translated": "Meneja wa ofisi ya Ubunifu wa Teknolojia"
+        },
+        "it_adj": {
+            "source": "Responsable IT adjoint",
+            "translated": "Naibu meneja wa IT"
+        },
+        "r_DH": {
+            "source": "Responsable DH",
+            "translated": "Meneja wa DH"
+        },
+        "rep_canada": {
+            "source": "Représentante Canada",
+            "translated": "Mwakilishi Kanada"
+        },
+        "rep_japon": {
+            "source": "Représentante Japon",
+            "translated": "Mwakilishi wa Japan"
+        },
+        "r_auto_f": {
+            "source": "Responsable du Département d’autonomisation de la femme",
+            "translated": "Mkuu wa Idara ya Uwezeshaji Wanawake"
         }
     },
     "mission": {

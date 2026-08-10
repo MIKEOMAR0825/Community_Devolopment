@@ -307,28 +307,28 @@
             "translated": "即将开展的项目"
         },
         "current_1_title": {
-            "source": "Formation en leadership féminin",
-            "translated": "女性领导力培训"
+            "source": "EDUCONNECT RDC",
+            "translated": "刚果民主共和国教育联盟"
         },
         "current_1_text": {
-            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
-            "translated": "加强 50 名年轻女性的项目管理和社区决策技能。"
+            "source": "Platforme pour moderniser le système éducatif de la République Démocratique du Congo en créant un environnement unique, sécurisé et intelligent qui connecte les établissements scolaires, les enseignants, les élèves et les parents.",
+            "translated": "通过创建连接学校、教师、学生和家长的独特、安全和智能环境，实现刚果民主共和国教育系统现代化的平台。"
         },
         "current_2_title": {
-            "source": "Centre numérique communautaire",
-            "translated": "社区数字中心"
+            "source": "EDUCONNECT Youth Innovation Hub RDC",
+            "translated": "EDUCONNECT 刚果民主共和国青年创新中心"
         },
         "current_2_text": {
-            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
-            "translated": "在 Limete 创建互联网接入空间并进行数字工具培训。"
+            "source": "Création d’espaces d’accès au développement communautaire en renforçant l’engagement des jeunes, notamment des jeunes femmes et des jeunes vivant avec handicap, dans la transformation numérique du secteur éducatif en République démocratique du Congo.",
+            "translated": "通过加强年轻人，特别是年轻女性和残疾年轻人参与刚果民主共和国教育部门的数字化转型，创造社区发展的空间。"
         },
         "done_1_title": {
             "source": "Campagne \"Connais tes droits\"",
             "translated": "“了解你的权利”活动"
         },
         "done_1_text": {
-            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
-            "translated": "金沙萨为 600 多名年轻人举办了人权意识讲习班。"
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 100 jeunes à Kinshasa.",
+            "translated": "金沙萨为 100 多名年轻人举办了人权意识讲习班。"
         },
         "done_2_title": {
             "source": "Microcrédits pour femmes entrepreneures",
@@ -851,7 +851,7 @@
             "translated": "我们的团队"
         },
         "pre": {
-            "source": "Présidente fondatrice",
+            "source": "Présidente-Fondatrice",
             "translated": "创会主席"
         },
         "v_pre": {
@@ -863,28 +863,28 @@
             "translated": "秘书长"
         },
         "cj": {
-            "source": "Conseiller Juridique",
+            "source": "Conseillère Juridique",
             "translated": "法律顾问"
         },
         "rp": {
-            "source": "Relations Publiques",
-            "translated": "公共关系"
+            "source": "Responsable des relations publiques",
+            "translated": "公共关系经理"
         },
         "rd_d": {
             "source": "Responsable du Département de droit",
             "translated": "法律部部长"
         },
         "it": {
-            "source": "IT",
-            "translated": "它"
+            "source": "Responsable IT",
+            "translated": "信息技术经理"
         },
         "rd_af": {
             "source": "Responsable du Département d'autonomisation de la femme",
             "translated": "妇女赋权部部长"
         },
         "com": {
-            "source": "Communication",
-            "translated": "沟通"
+            "source": "Chargée de communication",
+            "translated": "通讯经理"
         },
         "bg1": {
             "source": "Faciliter l'accès à la technologie",
@@ -927,8 +927,8 @@
             "translated": "我们的行动围绕三个主轴：促进人权、赋予妇女权力以及技术和数字包容性。通过这些干预领域，我们努力加强个人和社区的能力，使他们能够成为自身发展的真正参与者。"
         },
         "ceo_text3": {
-            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
-            "translated": "社区发展由 Amudiandroy Embela Nathalie 女士创立，源于一个简单但雄心勃勃的愿景：建立一个更加公正、包容和团结的社会。"
+            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision claire : construire une société plus juste, inclusive et solidair",
+            "translated": "社区发展由 Amudiandroy Embela Nathalie 女士创立，其诞生于一个明确的愿景：建立一个更加公正、包容和支持性的社会。"
         },
         "partner_title": {
             "source": "NOS PARTENAIRES",
@@ -937,6 +937,34 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
+        },
+        "equipe_text": {
+            "source": "Notre équipe rassemble des femmes et des hommes animés par une même ambition : transformer les défis en opportunités. Ensemble, nous œuvrons pour la défense des droits humains, l’autonomisation des femmes et des jeunes, l’inclusion numérique et l’innovation technologique au service des communautés.",
+            "translated": "我们的团队汇集了怀揣着相同雄心的女性和男性：将挑战转化为机遇。我们共同致力于捍卫人权、增强妇女和年轻人权能、数字包容性和技术创新，以服务社区。"
+        },
+        "r_bIT": {
+            "source": "Responsable bureau Innovation Technologique",
+            "translated": "技术创新办公室经理"
+        },
+        "it_adj": {
+            "source": "Responsable IT adjoint",
+            "translated": "信息技术副经理"
+        },
+        "r_DH": {
+            "source": "Responsable DH",
+            "translated": "卫生署经理"
+        },
+        "rep_canada": {
+            "source": "Représentante Canada",
+            "translated": "加拿大代表"
+        },
+        "rep_japon": {
+            "source": "Représentante Japon",
+            "translated": "日本代表"
+        },
+        "r_auto_f": {
+            "source": "Responsable du Département d’autonomisation de la femme",
+            "translated": "妇女赋权部部长"
         }
     },
     "mission": {
@@ -1481,8 +1509,8 @@
             "translated": "欢迎来到社区发展"
         },
         "historique_text1": {
-            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
-            "translated": "社区发展是一个刚果组织，致力于促进基本权利、培养女性领导力和减少获得技术机会方面的不平等。"
+            "source": "Engagée pour le développement humain durable, nous œuvrons pour la promotion des droits fondamentaux, le renforcement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "我们致力于可持续人类发展，努力促进基本权利、加强女性领导力并减少获得技术机会方面的不平等。"
         },
         "historique_text": {
             "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
@@ -1651,6 +1679,148 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
+        }
+    },
+    "donation": {
+        "nav_home": {
+            "source": "ACCUEIL",
+            "translated": "欢迎"
+        },
+        "nav_mission": {
+            "source": "MISSION",
+            "translated": "任务"
+        },
+        "nav_about": {
+            "source": "A PROPOS",
+            "translated": "关于"
+        },
+        "nav_news": {
+            "source": "ACTUALITÉ",
+            "translated": "消息"
+        },
+        "nav_project": {
+            "source": "PROJET",
+            "translated": "项目"
+        },
+        "nav_donation": {
+            "source": "DONATION",
+            "translated": "捐款"
+        },
+        "nav_contact": {
+            "source": "CONTACT",
+            "translated": "接触"
+        },
+        "nav_search": {
+            "source": "Recherche",
+            "translated": "研究"
+        },
+        "bg1": {
+            "source": "Faciliter l'accès à la technologie",
+            "translated": "促进获取技术"
+        },
+        "bg11": {
+            "source": "Initier les jeunes aux compétences numériques de demain",
+            "translated": "向年轻人介绍未来的数字技能"
+        },
+        "bg2": {
+            "source": "Autonomisation des femmes",
+            "translated": "妇女赋权"
+        },
+        "bg21": {
+            "source": "Valoriser les talents féminins comme moteurs du changement",
+            "translated": "促进女性人才成为变革的推动者"
+        },
+        "bg3": {
+            "source": "Défendre les droits fondamentaux",
+            "translated": "捍卫基本权利"
+        },
+        "bg31": {
+            "source": "Informer et former les populations sur leurs droits",
+            "translated": "向人们宣传和培训他们的权利"
+        },
+        "bg4": {
+            "source": "Construire une société :",
+            "translated": "建立公司："
+        },
+        "bg41": {
+            "source": "Plus juste, plus équitable, plus inclusive, plus résiliente grâce à la technologie",
+            "translated": "得益于技术，更加公正、更加公平、更加包容、更加有弹性"
+        },
+        "contact_title": {
+            "source": "Contactez-nous",
+            "translated": "联系我们"
+        },
+        "contact_phone_title": {
+            "source": "Téléphone",
+            "translated": "电话"
+        },
+        "contact_phone_1": {
+            "source": "+243 823 255 768",
+            "translated": "+243 823 255 768"
+        },
+        "contact_phone_2": {
+            "source": "+243 xxx xxx xxx",
+            "translated": "+243 xxx xxx xxx"
+        },
+        "contact_email_title": {
+            "source": "Email",
+            "translated": "电子邮件"
+        },
+        "contact_address_title": {
+            "source": "Adresse",
+            "translated": "地址"
+        },
+        "contact_address": {
+            "source": "N° 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, Kinshasa, RD Congo.",
+            "translated": "No. 9999, Boulevard Lumumba, 1ère Rue Dilandos, Limete Industriel, 金沙萨, 刚果民主共和国。"
+        },
+        "contact_social_title": {
+            "source": "Réseaux sociaux",
+            "translated": "社交网络"
+        },
+        "newsletter_title": {
+            "source": "Abonnez-vous à notre Newsletter",
+            "translated": "订阅我们的时事通讯"
+        },
+        "newsletter_subtitle": {
+            "source": "Recevez nos dernières actualités directement dans votre boîte mail",
+            "translated": "直接在您的收件箱中接收我们的最新消息"
+        },
+        "newsletter_name_placeholder": {
+            "source": "Entrer votre nom",
+            "translated": "输入你的名字"
+        },
+        "newsletter_email_placeholder": {
+            "source": "Entrer votre Email",
+            "translated": "输入您的电子邮件"
+        },
+        "newsletter_button": {
+            "source": "S'abonner",
+            "translated": "订阅"
+        },
+        "footer_text": {
+            "source": "©2025 Community Development | Tous droits réservés",
+            "translated": "©2025 社区发展 |版权所有"
+        },
+        "partner_title": {
+            "source": "NOS PARTENAIRES",
+            "translated": "我们的合作伙伴"
+        },
+        "partner": {
+            "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
+            "translated": "发现支持我们对人权、妇女赋权和所有人均可参与的创新承诺的合作伙伴和赞助商。"
+        },
+        "cta_title": {
+            "source": "Agissez avec nous",
+            "translated": "与我们一起行动"
+        },
+        "cta_text": {
+            "source": "Devenez acteur du changement et contribuez à améliorer la vie de milliers de personnes.",
+            "translated": "成为变革的推动者，帮助改善成千上万人的生活。"
+        },
+        "cta_btn": {
+            "source": "Rejoignez-nous",
+            "translated": "加入我们"
         }
     }
 }

@@ -375,8 +375,8 @@
             "translated": "Bienvenido a Desarrollo Comunitario"
         },
         "historique_text1": {
-            "source": "Community Development est une organisation congolaise engagée dans la promotion des droits fondamentaux, le développement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
-            "translated": "Community Development es una organización congoleña comprometida con la promoción de los derechos fundamentales, el desarrollo del liderazgo femenino y la reducción de las desigualdades en el acceso a las oportunidades tecnológicas."
+            "source": "Engagée pour le développement humain durable, nous œuvrons pour la promotion des droits fondamentaux, le renforcement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques.",
+            "translated": "Engagée pour le développement humain durable, nous œuvrons pour la promotion des droits fondamentaux, le renforcement du leadership féminin et la réduction des inégalités d’accès aux opportunités technologiques."
         },
         "historique_text": {
             "source": "Community Development, en sigle ONG CD, est une Organisation Non Gouvernementale de droit congolais créée à Kinshasa, en République Démocratique du Congo. Elle agit dans une logique d'impact social durable, conformément à la loi n°004/2001 du 20 juillet portant dispositions générales applicables aux associations sans but lucratif.",
@@ -1161,7 +1161,7 @@
             "translated": "Nuestro equipo"
         },
         "pre": {
-            "source": "Présidente fondatrice",
+            "source": "Présidente-Fondatrice",
             "translated": "Presidente fundador"
         },
         "v_pre": {
@@ -1173,28 +1173,28 @@
             "translated": "secretario general"
         },
         "cj": {
-            "source": "Conseiller Juridique",
+            "source": "Conseillère Juridique",
             "translated": "Asesor Jurídico"
         },
         "rp": {
-            "source": "Relations Publiques",
-            "translated": "Relaciones públicas"
+            "source": "Responsable des relations publiques",
+            "translated": "gerente de relaciones publicas"
         },
         "rd_d": {
             "source": "Responsable du Département de droit",
             "translated": "Jefe del Departamento Jurídico"
         },
         "it": {
-            "source": "IT",
-            "translated": "ÉL"
+            "source": "Responsable IT",
+            "translated": "Gerente de TI"
         },
         "rd_af": {
             "source": "Responsable du Département d'autonomisation de la femme",
             "translated": "Jefa del Departamento de Empoderamiento de la Mujer"
         },
         "com": {
-            "source": "Communication",
-            "translated": "Comunicación"
+            "source": "Chargée de communication",
+            "translated": "Responsable de comunicaciones"
         },
         "bg1": {
             "source": "Faciliter l'accès à la technologie",
@@ -1237,8 +1237,8 @@
             "translated": "Nuestra acción gira en torno a tres ejes principales: la promoción de los derechos humanos, el empoderamiento de las mujeres y la inclusión tecnológica y digital. A través de estos espacios de intervención, trabajamos para fortalecer las capacidades de personas y comunidades para que puedan convertirse en verdaderos actores de su propio desarrollo."
         },
         "ceo_text3": {
-            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision simple mais ambitieuse : construire une société plus juste, inclusive et solidair",
-            "translated": "Fundada por la Sra. Amudiandroy Embela Nathalie, Community Development nació de una visión simple pero ambiciosa: construir una sociedad más justa, inclusiva y unida."
+            "source": "Fondée par Mme Amudiandroy Embela Nathalie, Community Development est née d’une vision claire : construire une société plus juste, inclusive et solidair",
+            "translated": "Fundada por la Sra. Amudiandroy Embela Nathalie, Community Development nació de una visión clara: construir una sociedad más justa, inclusiva y solidaria."
         },
         "partner_title": {
             "source": "NOS PARTENAIRES",
@@ -1247,6 +1247,34 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
+        },
+        "equipe_text": {
+            "source": "Notre équipe rassemble des femmes et des hommes animés par une même ambition : transformer les défis en opportunités. Ensemble, nous œuvrons pour la défense des droits humains, l’autonomisation des femmes et des jeunes, l’inclusion numérique et l’innovation technologique au service des communautés.",
+            "translated": "Nuestro equipo reúne a mujeres y hombres impulsados ​​por una misma ambición: transformar los desafíos en oportunidades. Juntos trabajamos para defender los derechos humanos, el empoderamiento de mujeres y jóvenes, la inclusión digital y la innovación tecnológica para servir a las comunidades."
+        },
+        "r_bIT": {
+            "source": "Responsable bureau Innovation Technologique",
+            "translated": "Responsable oficina de Innovación Tecnológica"
+        },
+        "it_adj": {
+            "source": "Responsable IT adjoint",
+            "translated": "Subgerente de TI"
+        },
+        "r_DH": {
+            "source": "Responsable DH",
+            "translated": "gerente de bateador designado"
+        },
+        "rep_canada": {
+            "source": "Représentante Canada",
+            "translated": "Representante Canadá"
+        },
+        "rep_japon": {
+            "source": "Représentante Japon",
+            "translated": "Representante de Japón"
+        },
+        "r_auto_f": {
+            "source": "Responsable du Département d’autonomisation de la femme",
+            "translated": "Jefa del Departamento de Empoderamiento de la Mujer"
         }
     },
     "actualite": {
@@ -1557,28 +1585,28 @@
             "translated": "Próximos proyectos"
         },
         "current_1_title": {
-            "source": "Formation en leadership féminin",
-            "translated": "Capacitación en liderazgo de mujeres"
+            "source": "EDUCONNECT RDC",
+            "translated": "EDUCONECT RDC"
         },
         "current_1_text": {
-            "source": "Renforcer les compétences de 50 jeunes femmes dans la gestion de projets et la prise de décision communautaire.",
-            "translated": "Fortalecer las habilidades de 50 mujeres jóvenes en gestión de proyectos y toma de decisiones comunitarias."
+            "source": "Platforme pour moderniser le système éducatif de la République Démocratique du Congo en créant un environnement unique, sécurisé et intelligent qui connecte les établissements scolaires, les enseignants, les élèves et les parents.",
+            "translated": "Plataforma para modernizar el sistema educativo de la República Democrática del Congo mediante la creación de un entorno único, seguro e inteligente que conecte escuelas, profesores, estudiantes y padres."
         },
         "current_2_title": {
-            "source": "Centre numérique communautaire",
-            "translated": "Centro Digital Comunitario"
+            "source": "EDUCONNECT Youth Innovation Hub RDC",
+            "translated": "EDUCONNECT Centro de Innovación Juvenil RDC"
         },
         "current_2_text": {
-            "source": "Création d’espaces d’accès à internet et formation aux outils numériques à Limete.",
-            "translated": "Creación de espacios de acceso a internet y capacitación en herramientas digitales en Limete."
+            "source": "Création d’espaces d’accès au développement communautaire en renforçant l’engagement des jeunes, notamment des jeunes femmes et des jeunes vivant avec handicap, dans la transformation numérique du secteur éducatif en République démocratique du Congo.",
+            "translated": "Creación de espacios de acceso al desarrollo comunitario fortaleciendo el compromiso de los jóvenes, particularmente las mujeres jóvenes y los jóvenes que viven con discapacidad, en la transformación digital del sector educativo en la República Democrática del Congo."
         },
         "done_1_title": {
             "source": "Campagne \"Connais tes droits\"",
             "translated": "Campaña “Conoce tus derechos”"
         },
         "done_1_text": {
-            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 600 jeunes à Kinshasa.",
-            "translated": "Talleres de sensibilización sobre los derechos humanos que llegaron a más de 600 jóvenes en Kinshasa."
+            "source": "Ateliers de sensibilisation aux droits humains ayant touché plus de 100 jeunes à Kinshasa.",
+            "translated": "Talleres de sensibilización sobre los derechos humanos que llegaron a más de 100 jóvenes en Kinshasa."
         },
         "done_2_title": {
             "source": "Microcrédits pour femmes entrepreneures",
@@ -1651,6 +1679,10 @@
         "partner": {
             "source": "Découvrez les partenaires et sponsors qui soutiennent notre engagement pour les droits humains, l’autonomisation des femmes et l’innovation accessible à tous.",
             "translated": "Descubra los socios y patrocinadores que apoyan nuestro compromiso con los derechos humanos, el empoderamiento de las mujeres y la innovación accesible a todos."
+        },
+        "done_1_titl": {
+            "source": "Campagne \"Connais tes droits\"",
+            "translated": "Campagne \"Connais tes droits\""
         }
     }
 }
